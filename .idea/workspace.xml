@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed925eb5-c7ba-4d73-bab6-38ee5c86172f" name="Default" comment="" />
+    <list default="true" id="ed925eb5-c7ba-4d73-bab6-38ee5c86172f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step51.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step52.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step53.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step54.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step56.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step57a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step57b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step59a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step59b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-setup/step60.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arduino-setup/index.md" afterPath="$PROJECT_DIR$/arduino-setup/index.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,12 +57,19 @@
         <entry file="file://$PROJECT_DIR$/arduino-setup/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="671">
-                <caret line="64" column="4" lean-forward="false" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+              <first_editor relative-caret-position="554">
+                <caret line="263" column="0" lean-forward="true" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="step59a.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/arduino-setup/step59a.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -65,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/classes/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
+              <first_editor relative-caret-position="180">
                 <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -124,6 +149,8 @@
       <find>25</find>
       <find>31</find>
       <find>Click on logging / debgging to make the serial monitor appear</find>
+      <find>Arduino/</find>
+      <find>ESP</find>
     </findStrings>
     <replaceStrings>
       <replace>images/arduino/</replace>
@@ -213,6 +240,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -320,7 +348,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -334,19 +361,19 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/arduino-setup" />
+      <recent name="$PROJECT_DIR$/images/arduino-setup/temp" />
+      <recent name="$PROJECT_DIR$/images/arduino-block/2017-10-25-arduino-lcd" />
+      <recent name="$PROJECT_DIR$/images/arduino/2017-10-25-arduino-lcd" />
+      <recent name="$PROJECT_DIR$/images/arduino-block/2017-10-14-passive-motion-sensor" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/arduino-setup" />
       <recent name="$PROJECT_DIR$/images/arduino/2017-10-25-arduino-lcd" />
       <recent name="$PROJECT_DIR$/images/arduino-block/2017-10-25-arduino-lcd" />
       <recent name="$PROJECT_DIR$/images/arduino-block" />
       <recent name="$PROJECT_DIR$/_posts/arduino-block" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/arduino-setup" />
-      <recent name="$PROJECT_DIR$/images/arduino-block/2017-10-25-arduino-lcd" />
-      <recent name="$PROJECT_DIR$/images/arduino/2017-10-25-arduino-lcd" />
-      <recent name="$PROJECT_DIR$/images/arduino-block/2017-10-14-passive-motion-sensor" />
-      <recent name="$PROJECT_DIR$/images/arduino-block/2017-10-12-input-output" />
     </key>
   </component>
   <component name="RunManager">
@@ -468,12 +495,13 @@
       <workItem from="1509734638949" duration="4211000" />
       <workItem from="1509740394644" duration="146000" />
       <workItem from="1516209815166" duration="783000" />
-      <workItem from="1516225636974" duration="7228000" />
+      <workItem from="1516225636974" duration="14625000" />
+      <workItem from="1516259693924" duration="1522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112071000" />
+    <option name="totallyTimeSpent" value="120990000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1262" height="824" extended-state="0" />
@@ -534,36 +562,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/arduino-block/2017-10-12-input-output/step33a.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/arduino-block/2017-10-12-input-output/step31.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/arduino-block/2017-10-12-input-output/step31.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/arduino-block/2017-10-12-input-output/step32.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/arduino-block/2017-10-12-input-output/step41a.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/arduino-block/2017-10-12-input-output/step6.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/arduino/2017-09-10-arduino-input-output.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -726,7 +724,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="270">
             <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -736,7 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,7 +741,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="345">
             <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -755,7 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,7 +764,7 @@
     <entry file="file://$PROJECT_DIR$/classes/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
+          <first_editor relative-caret-position="180">
             <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -844,11 +838,41 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-setup/step10.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-setup/step37.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-setup/step9.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-setup/step48.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-setup/step59a.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-setup/step59a.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/arduino-setup/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="671">
-            <caret line="64" column="4" lean-forward="false" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+          <first_editor relative-caret-position="554">
+            <caret line="263" column="0" lean-forward="true" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
