@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Arduino Blocky
+  url: /arduino-lessons/
+
+- title: Arduino Setup
+  url: /arduino-setup/
+
+- title: Calendar
+  url: /calendar/
+
+- title: Contact
+  url: /contact/
