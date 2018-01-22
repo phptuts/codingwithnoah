@@ -3,14 +3,11 @@
 - title: Home
   url: /
 
-- title: Arduino Blocky
-  url: /arduino-lessons/
+- title: Class Schedule
+  url: /class-schedule/
 
-- title: Arduino Setup
-  url: /arduino-setup/
-
-- title: Calendar
-  url: /calendar/
+- title: Lessons
+  url: /lessons/
 
 - title: Contact
   url: /contact/

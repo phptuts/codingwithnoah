@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arduino Setup Guide
-excerpt: "How to setup the arduino ide."
+excerpt: "How to setup the Arduino ide."
 modified: 2018-01-18T02:46:02+00:00
 ---
 
@@ -215,7 +215,7 @@ This will start up the BlockyDuino IDE, it will be slow to run the first time yo
  
 ![Arduino IDE](/images/arduino-setup/step50.png) 
 
-51) Go to Tools -> Port and select the port the arduino is on.
+51) Go to Tools -> Port and select the port the Arduino is on.
 
 ![Arduino IDE](/images/arduino-setup/step51.png) 
 
@@ -260,6 +260,6 @@ You will have to do steps 49 to 54 when you use a different board other then the
  
 ![Arduino IDE](/images/arduino-setup/step60.jpg)
 
-Now you are completely setup for all the classes for arduino.  Can't wait to see there!!!
+Now you are completely setup for all the classes for Arduino.  Can't wait to see there!!!
 
 
