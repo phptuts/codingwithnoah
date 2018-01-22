@@ -186,7 +186,7 @@ Step 3) Delay for 1 second / 1000 milliseconds
 
 - Make a unique pattern blinking pattern.
 - Try and use the random block in the "Math" menu to randomly decided the number for the delay.
-- Just have build and play around, build what you want. :)
+- Build and play around, do what you want. :)
 
 ## Quick Review
 
