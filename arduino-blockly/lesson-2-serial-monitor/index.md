@@ -244,6 +244,11 @@ e) Create a second led and control it like you did in the previous challenges.  
 
 ![Challenge IF D](/images/arduino-block/lesson-2/challenge-if-e.gif) 
 
+### Other Challenges
+
+- Create an if statement where you get both blocks to blink.
+- Create a serial monitor quiz where it will light up one color for the right answer and another color for the wrong answer.
+- Build and play around, do what you want. :)
 
 ### Quick Review
 
