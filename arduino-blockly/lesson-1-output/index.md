@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arduino Blockly 101 - Output
-excerpt: "How to control input & output with blockly druino."
+excerpt: "How to control output with blockly druino."
 modified: 2018-01-21
 ---
 
