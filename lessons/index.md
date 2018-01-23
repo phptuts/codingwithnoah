@@ -10,4 +10,5 @@ search_omit: true
 
 1) [Arduino 101 - Output](/arduino-blockly/lesson-1-output/) 
 
+2) [Arduino 102 - Serial Monitor](/arduino-blockly/lesson-2-serial-monitor/) 
 
