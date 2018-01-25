@@ -185,8 +185,8 @@ Don't continue until you complete the challenge.  If you are in a class please s
 <h3>Other Challenges</h3>
 
 <ul>
-    <li>Write some code that will light up an LED if the Angle value is greater than 100.</li>
-    <li>Write some code that will light up an LED if the Angle value is less than 30.</li>
+    <li>Write some code that will light up an LED if the angle number is greater than 100.</li>
+    <li>Write some code that will light up an LED if the angle number is less than 30.</li>
     <li>Just have fun and do what you want to do. :)</li>
 </ul>
 
@@ -194,8 +194,9 @@ Don't continue until you complete the challenge.  If you are in a class please s
 <h3>Quick Review</h3>
 
 <ul>
-    <li>If statement execute the code / blocks inside them if what is connected to it is true.</li>
-    <li>You can turn a String Variable into a Number Variable using the "String to Number Block".</li>
+    <li>Blocks inside an IF block execute the  blocks inside them if what is connected to it is true.</li>
+    <li>You can turn a String variable into a number nariable using the "String to Number Block".</li>
     <li>You can change the value of a variable but not the type of data the variable will store.</li>
     <li>The Serial Monitor allows your computer to communicate with the Arduino</li>
+    <li>The Servo Motors are controlled by passing a number value into a "Servo Move" block.</li>
 </ul>
