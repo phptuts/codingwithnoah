@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arduino Blockly 103 - Serial Monitor Challenge Exercise
+title: Arduino 103 - Number Variables & Servos
 excerpt: "Serial Monitor Challenge."
 modified: 2018-01-23
 ---

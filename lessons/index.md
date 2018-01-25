@@ -11,7 +11,7 @@ search_omit: true
 
 2) [Arduino 102 - Serial Monitor](/arduino-blockly/lesson-2-serial-monitor/) 
 
-3) [Servos & Number Variables](/arduino-blockly/lesson-3-servos-serial-monitor/)
+3) [Arduino 103 - Number Variables & Servos](/arduino-blockly/lesson-3-number-variables-servos/)
 
 4) Servo & Count Loops
 
