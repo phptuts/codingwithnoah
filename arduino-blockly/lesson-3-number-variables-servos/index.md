@@ -137,7 +137,7 @@ Hint, you will need the if block, and the compare block, found in the "Logic" me
 
 ![Challenge 2](/images/arduino-block/lesson-3/challenge-2.png) 
 
-Don't continue until you complete the challenge.  If you are in a class please so it to an instructor so that they can approve it.
+Don't continue until you complete the challenge!!! If you have any problems ask for help from the instructor or email me at glaserpower [at] gmail.com.
 
 <button type="button" onclick="document.querySelector('#hide-steps').style.display = 'block';">Un hide Steps</button>
 
