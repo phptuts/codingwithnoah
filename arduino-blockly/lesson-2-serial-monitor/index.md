@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arduino Blockly 102 - Serial Monitor Input & Output
-excerpt: "Serial Monitor Input."
+excerpt: "Serial Monitor Input & Output."
 modified: 2018-01-22
 ---
 
@@ -206,7 +206,7 @@ The "IF" block is used make decisions.  If what is connected to the "IF" block i
 
 ### Serial Monitor
 
-The Serial Monitor is a way you can send messages and receive message with the Arduino.  The way you send a message is by typing the message into the input box and clicking the send button.  You will receive messages in the gray box below in the input box.  The Clear Window Button will clear all the data in the message box.  
+The Serial Monitor is a way you can send messages and receive message with the Arduino.  The way you send a message is by typing the message into the input box and clicking the send button.  You will receive messages in the gray box below in the input box.  The Clear Window Button will clear all the data in the message box.  **Everytime you upload code to the Arduino you will have to close and reopen the serial monitor.**
 
 ![Get Variable](/images/arduino-block/lesson-2/serial-monitor.png) 
 
