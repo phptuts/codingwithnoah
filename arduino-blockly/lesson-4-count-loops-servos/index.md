@@ -55,13 +55,13 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 ![Serial Print](/images/arduino-block/lesson-4/step8b.png) 
 
 9) Open the "Text" menu option and connect the "Empty Text" to the "Text Join" block. 
- Put in the word "The loop is on ".
+ Put in the words "The loop is on " inside the "Empty Text" block.
 
 ![Serial Print](/images/arduino-block/lesson-4/step9a.png) 
 
 ![Serial Print](/images/arduino-block/lesson-4/step9b.png) 
 
-10) Connect the "Get Variable" block and connect it to the "Text Join".  Be sure you are using the "i" is set in the dropdown box.
+10) Connect the "Get Variable" block and connect it to the "Text Join".  Be sure the "i" variable is set in the dropdown box.
 
 ![Serial Print](/images/arduino-block/lesson-4/step10a.png) 
 
@@ -87,7 +87,7 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ### Count Loop Block
 
-The "Count Loop" block is used to do something on repeat a certain number of times.  By default the variable will be named a letter, in our case it's named "i".  The variable stores number data.  First number block determines where the "i" will start.  In the picture below it will start at 1.  The second number is when the number that "i" will equal to end the loop.  In the picture below it will go to 10.  The third number is the number that the variable "i" will increase every time the loop is executed.  This loop will increase "i" by 1 every time.  So this loops as you saw in the previous example will execute 10 times.
+The "Count Loop" block is used to do something on repeat a certain number of times.  By default the variable will be named a letter, in our case it's named "i".  The variable stores number data.  First number block determines where the "i" will start.  In the picture below it will start at 1.  The second number is what the variable  "i" will equal to end the loop.  In the picture below it will go to 10.  The third number is the number that the variable "i" will increase every time the loop is executed.  This loop will increase "i" by 1 every time.  So this loops as you saw in the previous example will execute 10 times.
 
 ![Count Loop Block](/images/arduino-block/lesson-4/count_loop_block.png) 
 
@@ -113,7 +113,7 @@ c) Modify the code to print all the even number from 2 to 100.
 
 ![Servo Block](/images/arduino-block/lesson-4/step15b.png) 
 
-16) Delete the number block connected to the "Servo Motor" block;
+16) Delete the number block connected to the "Servo Motor" block.
 
 ![Servo Block](/images/arduino-block/lesson-4/step16.png) 
 
