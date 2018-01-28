@@ -13,7 +13,7 @@ search_omit: true
 
 3) [Arduino 103 - Number Variables & Servos](/arduino-blockly/lesson-3-number-variables-servos/)
 
-4) Servo & Count Loops
+4) [Arduino 104 - Servo & Count Loops](/arduino-blockly/lesson-4-count-loops-servos/)
 
 5) Global Number Variables (State) & Push Button
 

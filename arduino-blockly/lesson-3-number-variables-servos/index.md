@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Arduino 103 - Number Variables & Servos
-excerpt: "Serial Monitor Challenge."
-modified: 2018-01-23
+excerpt: Using the serial monitor to parse number and control a servo."
+modified: 2018-01-24
 ---
 
 ## Project Kit
