@@ -54,7 +54,7 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ![Serial Print](/images/arduino-block/lesson-4/step8b.png) 
 
-9) Open the "Text" menu option and connect the "Empty Text" to the "Text Join" block.  Put in the word "The loop is on ".
+9) Open the "Text" menu option and connect the "Empty Text" to the "Text Join" block.  Put in the word  "The loop is on ".
 
 ![Serial Print](/images/arduino-block/lesson-4/step9a.png) 
 
