@@ -15,7 +15,7 @@ search_omit: true
 
 4) [Arduino 104 - Servo & Count Loops](/arduino-blockly/lesson-4-count-loops-servos/)
 
-5) Global Number Variables (State) & Push Button
+5) [Arduino 105 - Debugging with global variables and push buttons](/arduino-blockly/lesson-5-global-variables-push-button)
 
 6) Sonar Sensor & Double Variables
 
