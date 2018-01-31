@@ -17,7 +17,7 @@ search_omit: true
 
 5) [Arduino 105 - Debugging with global variables and push buttons](/arduino-blockly/lesson-5-global-variables-push-button)
 
-6) Sonar Sensor & Double Variables
+6) [Arduino 106 - Sonar with else and other number types](/arduino-blockly/lesson-6-sonar/)
 
 7) LCD Screens 
 

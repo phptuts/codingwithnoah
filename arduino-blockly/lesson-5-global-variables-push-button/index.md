@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Arduino 105 - Debugging with global variables and push buttons.
-excerpt: "Loop to make a servo go from one end to another."
-modified: 2018-01-24
+excerpt: "Learn global variables and debugging with the Arduino and a push button."
+modified: 2018-01-26
 ---
 ## Project Kit
 
