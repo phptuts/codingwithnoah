@@ -145,7 +145,7 @@ The blink block will make where the current cursor is blink.
 ![Challenge 2](/images/arduino-block/lesson-7/challenge-2.jpg) 
 
 
-### Challenge 3) Now we are going to make your name scroll across the screen.  You will need to use the count loop to do it.  You will need to put a scroll block and and delay block inside the do part.  The count block will need to start at 0 and go to the length of your screen, 19, minus the length of your name.  19 - 4 = 15.  You will need to print your name first.  Then use the scroll blocks.
+### Challenge 3) Now we are going to make your name scroll across the screen.  You will need to use the count loop to do it.  You will need to put a scroll block and and delay block inside the do part.  The count block will need to start at 0 and go to the length minus 1 of your screen, 19, minus the length of your name.  19 - (length of your name) = ?.  You will need to use a clear block then print your name then use the loop.  The reason is that once all the blocks are executed the Arduino will start at the top again.
 
 ![Challenge 3](/images/arduino-block/lesson-7/challenge-3.gif) 
 
