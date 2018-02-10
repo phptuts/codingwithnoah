@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Arduino 107 - LCD Screens with serial monitor.
-excerpt: "Learn how to control and lcd screen."
-modified: 2018-2-07
+title: Arduino 107 - LCD Screens and Loops.
+excerpt: "Learn how to control lcd screens with the Arduino."
+modified: 2018-2-09
 ---
 ## Project Kit
 
@@ -95,3 +95,62 @@ Can you tell someone or me where each of the color squares are?
 ![LCD Clear Block](/images/arduino-block/lesson-7/lcd-clear-block.png) 
 
 The lcd clear block is used to clear the screen completely.
+
+### Set Cursor (Where to print start printing) Block
+
+![LCD Set Cursor Menu](/images/arduino-block/lesson-7/set-cursor-menu.png) 
+
+![LCD Set Cursor Block](/images/arduino-block/lesson-7/set-cursor-block.png) 
+
+This block will set the position on the lcd screen where to print the text.  The number block in the row hole controls the y axis and the column hole that controls x axis.  Where the it is about to print is called the **cursor**.  The cursor starts out at 0 => x and 0 => y.
+  
+### Print Block
+
+![LCD Set Cursor Menu](/images/arduino-block/lesson-7/menu-print-block.png) 
+
+![LCD Set Cursor Block](/images/arduino-block/lesson-7/print-block.png) 
+
+This block prints stuff onto the screen.
+
+### Scroll Block
+
+![LCD Scroll Menu Block](/images/arduino-block/lesson-7/scroll-block-menu.png) 
+
+![LCD Scroll Block](/images/arduino-block/lesson-7/scroll-block.png) 
+
+This will move all the text in one direction.  Use the arrow to determine which direction the text will go.
+
+### Blink Block
+
+![LCD Scroll Menu Block](/images/arduino-block/lesson-7/blink-menu.png) 
+
+![LCD Scroll Block](/images/arduino-block/lesson-7/blink-block.png) 
+
+The blink block will make where the current cursor is blink.
+
+### Backlight block
+
+![LCD Scroll Menu Block](/images/arduino-block/lesson-7/backlight-menu.png) 
+
+![LCD Scroll Block](/images/arduino-block/lesson-7/backlight-block.png) 
+
+### Challenge 1) Print "What is your name?" where Y => 0 and X => 1.  Use the clear block, set cursor block, and the print block.  Append a delay block at the end and make it wait for 10 seconds or 10,000 milliseconds.
+
+
+![Challenge 1](/images/arduino-block/lesson-7/challenge-1.jpg) 
+
+
+### Challenge 2) Print your name centered on the row below.  Here's an example.  My name Noah, so I would take 20, the length of the screen, minus the length of my name, 4, and divide that by 2. (20 - 4) / 2 = 8.  If your name has an odd number just round up or down.  You will want to add a set cursor block and a print block put them above the delay block.
+
+![Challenge 2](/images/arduino-block/lesson-7/challenge-2.jpg) 
+
+
+### Challenge 3) Now we are going to make your name scroll across the screen.  You will need to use the count loop to do it.  You will need to put a scroll block and and delay block inside the do part.  The count block will need to start at 0 and go to the length of your screen, 19, minus the length of your name.  19 - 4 = 15.  You will need to print your name first.  Then use the scroll blocks.
+
+![Challenge 3](/images/arduino-block/lesson-7/challenge-3.gif) 
+
+## Other Challenges
+
+- Use 4 count loop to print the "!" on every space on the lcd screen.
+- Use the blink block and scroll block to make something blink across the screen.  
+- Just have fun and print cool things. :)

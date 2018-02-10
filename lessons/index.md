@@ -19,5 +19,5 @@ search_omit: true
 
 6) [Arduino 106 - Sonar with else and other number types](/arduino-blockly/lesson-6-sonar/)
 
-7) LCD Screens 
+7) [Arduino 107 - LCD Screens and loops](/arduino-blockly/lesson-7-lcd-serial-monitor/) 
 

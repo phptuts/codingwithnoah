@@ -77,7 +77,7 @@ a) Can you turn on led using the digital write block.
 
 ![Variable Popup Box](/images/arduino-block/lesson-2/step12.png) 
 
-13) Open the "Text" menu option and drag the "Empty Text" block to the screen.
+13) Open the "Text" menu option and drag the "Text" block to the screen.
 
 ![Text Block](/images/arduino-block/lesson-2/step13a.png) 
 
@@ -129,13 +129,13 @@ a) Can you turn on led using the digital write block.
 
 ![Variable Get](/images/arduino-block/lesson-2/step22.png) 
 
-23) Open the "Text" menu option and drag the "Empty Text" block to the other hole in the "Compare" block.
+23) Open the "Text" menu option and drag the "Text" block to the other hole in the "Compare" block.
 
 ![Text Block in Compare](/images/arduino-block/lesson-2/step23a.png) 
 
 ![Text Block in Compare](/images/arduino-block/lesson-2/step23b.png) 
 
-24) In the "Empty Text" block type "ON".
+24) In the "Text" block type "ON".
 
 ![Text Block in Compare](/images/arduino-block/lesson-2/step24.png) 
 
@@ -155,7 +155,7 @@ a) Can you turn on led using the digital write block.
 
 ![Serial Print](/images/arduino-block/lesson-2/step27b.png) 
 
-28) Change the "Empty Text" block in the "Serial Print" block to say "LED is on!! :)".
+28) Change the "Text" block in the "Serial Print" block to say "LED is on!! :)".
 
 ![Serial Print](/images/arduino-block/lesson-2/step28.png) 
 

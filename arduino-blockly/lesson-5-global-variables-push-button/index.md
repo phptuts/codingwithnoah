@@ -174,4 +174,4 @@ c) (Super Challenge) Create a program that will blink and led for 1 second for e
 - When using digital read with input pull up resistor, 0 means the button is pushed.
 - Normal variables reset when the Arduino starts at the top again.
 
-#### Thank you to Racy for hand modeling.
+#### Thank you to Rayc for hand modeling.
