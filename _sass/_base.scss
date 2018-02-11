@@ -181,6 +181,15 @@ figcaption {
 
 table {
   width: 100%;
+  border: solid 1px gray;
+  border-collapse: collapse;
+}
+
+th, td {
+	border: solid gray 1px;
+	padding: 5px 5px 5px 20px;
+	text-align: left;
+
 }
 
 

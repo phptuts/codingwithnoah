@@ -134,18 +134,29 @@ The blink block will make where the current cursor is blink.
 
 ![LCD Scroll Block](/images/arduino-block/lesson-7/backlight-block.png) 
 
-### Challenge 1) Print "What is your name?" where Y => 0 and X => 1.  Use the clear block, set cursor block, and the print block.  Append a delay block at the end and make it wait for 10 seconds or 10,000 milliseconds.
+### Challenge 1) Print "What is your name?" on the LCD Screen
+
+This should be centered on the top row.  Use the clear block, set cursor block, and the print block.  Append a delay block at the end and make it wait for 10 seconds or 10,000 milliseconds.
 
 
 ![Challenge 1](/images/arduino-block/lesson-7/challenge-1.jpg) 
 
 
-### Challenge 2) Print your name centered on the row below.  Here's an example.  My name Noah, so I would take 20, the length of the screen, minus the length of my name, 4, and divide that by 2. (20 - 4) / 2 = 8.  If your name has an odd number just round up or down.  You will want to add a set cursor block and a print block put them above the delay block.
+### Challenge 2) Print your name in the center of the screen.
+
+Print your name centered on the second row.  Here's an example of how to do it.  My name "Noah", so I would take 20, the length of the screen, minus the length of my name, 4, and divide that by 2. (20 - 4) / 2 = 8.  If your name has an odd number just round down.  You will want to add a set cursor block and a print block put them above the delay block. 
 
 ![Challenge 2](/images/arduino-block/lesson-7/challenge-2.jpg) 
 
 
-### Challenge 3) Now we are going to make your name scroll across the screen.  You will need to use the count loop to do it.  You will need to put a scroll block and and delay block inside the do part.  The count block will need to start at 0 and go to the length minus 1 of your screen, 19, minus the length of your name.  19 - (length of your name) = ?.  You will need to use a clear block then print your name then use the loop.  The reason is that once all the blocks are executed the Arduino will start at the top again.
+### Challenge 3) Make your name scroll across the screen.
+
+- Clear the screen with clear block.
+- Print your name on screen starting at X => 0 and Y => 0.
+- Calculate the name of spaces you will need to move your name. 
+    - (Hint) 19 - (length of your name) = (number of spaces)
+- Use a count block with a scroll right block and delay to move your name the number of spaces required to get to the end of the screen.
+- Repeat the process with a scroll left block instead of a scroll right block.
 
 ![Challenge 3](/images/arduino-block/lesson-7/challenge-3.gif) 
 
