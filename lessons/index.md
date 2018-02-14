@@ -23,41 +23,43 @@ search_omit: true
 
 8) [Arduino 108 - LCD Screen, Serial Monitor & Boolean Variables](/arduino-blockly/lesson-8-lcd-serial-monitor)
 
-9) Arduino 109 - LED Matrix - coming soon
+9) [Arduino 109 - LED Matrix Challenge](/arduino-blockly/lesson-9-led-matrix-challenge)
 
-10) Arduino 110 - RFID Lock box
+10) Arduino 111 - LED Matrix & Bytes
 
-11) Arduino 111 - RGB Led
+11) Arduino 111 - LED Light Strip & Arrays
 
-12) Arduino 112 - LED Light Strip & Arrays
+12) Arduino 112 - RFID Lock Box
 
-12) App Inventor 101 -- I have dream app 
+13) Arduino 113 - RGB LED Challenges
 
-13) App Inventor 102 -- Purr Event Base Programming
+14) App Inventor 101 -- I have dream app 
 
-14) App Inventor 103 -- Android Mash Game
+15) App Inventor 102 -- Purr Event Base Programming
 
-15) App Inventor 104 -- Stock Market App
+16) App Inventor 103 -- Android Mash Game
 
-16) App Inventor & Bluetooth 
+17) App Inventor 104 -- Stock Market App
 
-17) App Inventor / Bluetooth / LCD Screen
+18) App Inventor & Bluetooth 
 
-18) App Inventor / Bluetooth / Sonar
+19) App Inventor / Bluetooth / LCD Screen
 
-19) App Inventor / Bluetooth / Led Matrix
+20) App Inventor / Bluetooth / Sonar
 
-20) App Inventor / Bluetooth / Led light strip
+21) App Inventor / Bluetooth / Led Matrix
 
-21) App Inventor / Bluetooth / Servo
+22) App Inventor / Bluetooth / RBG LED
 
-22) Try it yourself, take a sensor, bluetooth and build an app.
+23) App Inventor / Bluetooth / Servo
 
-23) Make your own App Inventor / Arduino project.  (Project Size 2 weeks)
+24) Try it yourself, take a sensor, bluetooth and build an app.
 
-25) Make your own App Inventor (Project Size 4 weeks)
+25) Make your own App Inventor / Arduino project.  (Project Size 2 weeks)
 
-25) Publish your app inventor app on the app store.
+26) Make your own App Inventor (Project Size 4 weeks)
+
+27) Publish your app inventor app on the app store.
 
 **Congrats** you have completed the first part of the school. You are now a programmer with an in the app store.  
 
