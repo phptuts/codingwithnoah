@@ -25,21 +25,21 @@ search_omit: true
 
 9) [Arduino 109 - LED Matrix Challenge](/arduino-blockly/lesson-9-led-matrix-challenge)
 
-10) Arduino 111 - LED Matrix & Bytes
+10) Arduino 110 - LED Light Strip & Arrays
 
-11) Arduino 111 - LED Light Strip & Arrays
+11) Arduino 111 - RFID Lock Box
 
-12) Arduino 112 - RFID Lock Box
+12) Arduino 112 - RGB LED Challenge
 
-13) Arduino 113 - RGB LED Challenges
+13) [App Inventor 101 -- Introduction (I have a dream app)](http://www.appinventor.org/content/ai2apps/simpleApps/dream)
 
-14) App Inventor 101 -- I have dream app 
+14) [App Inventor 102 -- Purr Event Base Programming](http://www.appinventor.org/content/ai2apps/simpleApps/paintPot2)
 
-15) App Inventor 102 -- Purr Event Base Programming
+15) [App Inventor 103 -- Android Mash Game](http://www.appinventor.org/content/ai2apps/simpleApps/androidMash)
 
-16) App Inventor 103 -- Android Mash Game
+16) [App Inventor 104 -- Stock Market App](http://www.appinventor.org/content/ai2apps/intermediateApps/stockMarket)
 
-17) App Inventor 104 -- Stock Market App
+17) [App Inventor 105 -- Logo Builder App](http://www.appinventor.org/content/ai2apps/intermediateApps/logo)
 
 18) App Inventor & Bluetooth 
 
