@@ -25,9 +25,9 @@ search_omit: true
 
 9) [Arduino 109 - LED Matrix Challenge](/arduino-blockly/lesson-9-led-matrix-challenge)
 
-10) Arduino 110 - LED Light Strip & Arrays
+10) [Arduino 110 - LED Light Strip & While Loops](/arduino-blockly/lesson-10-led-light-strip-array)
 
-11) Arduino 111 - RFID Lock Box
+11) Arduino 111 - RFID Reader & Arrays
 
 12) Arduino 112 - RGB LED Challenge
 
