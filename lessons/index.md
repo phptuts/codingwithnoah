@@ -31,29 +31,29 @@ search_omit: true
 
 12) Arduino 112 - RGB LED Challenge
 
-13) [App Inventor 101 -- Introduction (I have a dream app)](http://www.appinventor.org/content/ai2apps/simpleApps/dream)
+13) Arduino 113 - Bluetooth & LCD Screens
 
-14) [App Inventor 102 -- Purr Event Base Programming](http://www.appinventor.org/content/ai2apps/simpleApps/paintPot2)
+14) [App Inventor 101 -- Introduction (I have a dream app)](http://www.appinventor.org/content/ai2apps/simpleApps/dream)
 
-15) [App Inventor 103 -- Android Mash Game](http://www.appinventor.org/content/ai2apps/simpleApps/androidMash)
+15) [App Inventor 102 -- Purr Event Base Programming](http://www.appinventor.org/content/ai2apps/simpleApps/paintPot2)
 
-16) [App Inventor 104 -- Stock Market App](http://www.appinventor.org/content/ai2apps/intermediateApps/stockMarket)
+16) [App Inventor 103 -- Android Mash Game](http://www.appinventor.org/content/ai2apps/simpleApps/androidMash)
 
-17) [App Inventor 105 -- Logo Builder App](http://www.appinventor.org/content/ai2apps/intermediateApps/logo)
+17) [App Inventor 104 -- Stock Market App](http://www.appinventor.org/content/ai2apps/intermediateApps/stockMarket)
 
-18) App Inventor & Bluetooth 
+18) [App Inventor 105 -- Logo Builder App](http://www.appinventor.org/content/ai2apps/intermediateApps/logo)
 
-19) App Inventor / Bluetooth / LCD Screen
+19) App Inventor & Bluetooth 
 
-20) App Inventor / Bluetooth / Sonar
+20) App Inventor / Bluetooth / LCD Screen
 
-21) App Inventor / Bluetooth / Led Matrix
+21) App Inventor / Bluetooth / Sonar
 
-22) App Inventor / Bluetooth / RBG LED
+22) App Inventor / Bluetooth / Led Matrix
 
-23) App Inventor / Bluetooth / Servo
+23) App Inventor / Bluetooth / RBG LED
 
-24) Try it yourself, take a sensor, bluetooth and build an app.
+24) App Inventor / Bluetooth / Servo
 
 25) Make your own App Inventor / Arduino project.  (Project Size 2 weeks)
 

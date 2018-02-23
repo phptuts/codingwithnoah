@@ -2,7 +2,7 @@
 layout: page
 title: Arduino 110 - LED Light Strip & Arrays
 excerpt: "How to control led light strips with arrays."
-modified: 2018-02-15
+modified: 2018-02-21
 ---
 
 ## Project Kit
