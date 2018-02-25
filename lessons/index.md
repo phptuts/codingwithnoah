@@ -27,7 +27,7 @@ search_omit: true
 
 10) [Arduino 110 - LED Light Strip & While Loops](/arduino-blockly/lesson-10-led-light-strip-array)
 
-11) Arduino 111 - RFID Reader & Arrays
+11) [Arduino 111 - RFID Reader & Arrays](/arduino-blockly/lesson-11-rfid-arrays)
 
 12) Arduino 112 - RGB LED Challenge
 
