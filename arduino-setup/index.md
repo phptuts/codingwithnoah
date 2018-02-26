@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arduino Setup Guide
-excerpt: "How to setup the Arduino ide."
+excerpt: "How to setup the Arduino IDE."
 modified: 2018-01-18T02:46:02+00:00
 ---
 
@@ -18,7 +18,7 @@ This setup guide assumes that you are using the Arduino Uno and ESP8266 (ESP-12E
 
 ![Arduino IDE](/images/arduino-setup/step3.png)
 
-4) Go to Tools -> Port and select the usb connection your arduino is hooked into.
+4) Go to Tools -> Port and select the USB connected to your Arduino.
 
 ![Arduino IDE](/images/arduino-setup/step4.png)
 
@@ -30,21 +30,21 @@ This setup guide assumes that you are using the Arduino Uno and ESP8266 (ESP-12E
 
 ![Arduino IDE](/images/arduino-setup/step6.png)
 
-7) Click the check  button to compile the sketch. (Sketch means code file).
+7) Click the check button to compile the sketch. (Sketch means code file).
 
 ![Arduino IDE](/images/arduino-setup/step7.png)
 
-8) Upload the code to the arduino by clicking the play button.  This button will compile and upload the code, where as the check button only compiles.
+8) Upload the code to the Arduino by clicking the play button. This button will compile & upload the code, whereas the check button only compiles.
 
 ![Arduino IDE](/images/arduino-setup/step8.png)
 
-9) This code should blink the arduino built in led every second.
+9) This code should blink the Arduino built in led every second.
 
 ![Arduino Blinking](/images/arduino-setup/step9.gif)
 
-Congrats!!! You just setup the arduino ide. Now it's time to install all the libraries we are going to use in the class.
+Congrats!!! You just set up the Arduino IDE. Now it's time to install all the libraries we are going to use in the class.
 
-10) [Click here](https://github.com/webghostx/Arduino-DHTLib) to go to the temperature and humidity sensor library's github page.
+10) [Click here](https://github.com/webghostx/Arduino-DHTLib) to go to the temperature and humidity sensor library's GitHub page.
 
 ![Github Temp Sensor Page](/images/arduino-setup/step10.png)
 
@@ -66,7 +66,7 @@ Congrats!!! You just setup the arduino ide. Now it's time to install all the lib
 
 15) Repeat steps 12 & 13 with the zip file you downloaded.
 
-16) [Click here](https://github.com/electronicdrops/RFIDRdm630) to go to the rfid library's github page.
+16) [Click here](https://github.com/electronicdrops/RFIDRdm630) to go to the RFID library’s GitHub page.
 
 ![Github RFID](/images/arduino-setup/step16.png)
 
@@ -98,20 +98,20 @@ Congrats!!! You just setup the arduino ide. Now it's time to install all the lib
 
 25) Repeat steps 12 & 13 with the zip file you downloaded.
 
-### Setting up the ESP-8266 chip with the arduino ide.
+### Setting up the ESP-8266 chip with the Arduino ide.
 
 26) Go to Arduino IDE -> Arduino -> Preferences
 
 ![Arduino IDE](/images/arduino-setup/step24.png)
 
-27) Paste the url below inot  the "Additional Board Manager URLS" input box.
+27) Paste the URL below into the “Additional Board Manager URLS” input box.
 
 ``` 
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 ![Arduino IDE](/images/arduino-setup/step25.png)
 
-28) Click on the display line numbers checkbox.
+28) Click on the display line numbers check box.
 
 ![Arduino IDE](/images/arduino-setup/step26.png)
 
@@ -127,7 +127,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ![Arduino IDE](/images/arduino-setup/step29.png)
 
-32) Select the highest none "rc" version of the library.
+32) Select the highest **none** "rc" version of the library.
 
 ![Arduino IDE](/images/arduino-setup/step30.png)
 
@@ -136,22 +136,21 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ![Arduino IDE](/images/arduino-setup/step31.png)
 
 
-34) [Click here](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) and download the usb drivers required to power the esp8266 from silicon labs.  Install the driver that is right for your operating system.
+34) [Click here](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) and download the USB drivers required to power the esp8266 from silicon labs.  Install the driver that is right for your operating system.
 
 ![Arduino IDE](/images/arduino-setup/esp8266-driver.png)
 
 ![Arduino IDE](/images/arduino-setup/esp8266-driver-mac.png)
 
 
-35) Plug in ESP8266 Chip into your computer. Notice it has micro usb plugin.
+35) Plug in ESP8266 Chip into your computer. Notice it has micro USB port.
 
 ![Arduino IDE](/images/arduino-setup/ESP-12E.jpg)
 
-36) Go to Tools -> Port and select the usb connection your ESP8266 is hooked into.
-
+36) Go to Tools -> Port and select the USB connected to the ESP8266 chip.
 ![Arduino IDE](/images/arduino-setup/step33.png)
 
-37) Go to Tools -> Board and select the ESP8266 Chip you are using.  In the kits we use ESP-12E Chip.
+37) Go to Tools -> Board and select the ESP8266 Chip you are using.  In the kits, we use ESP-12E Chip.
 
 ![Arduino IDE](/images/arduino-setup/step34.png)
 
@@ -177,7 +176,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
  
 ### Blockly IDE Setup 
 
-43) Download [Node](https://nodejs.org/en/) and install it on your computer. LTS Link is recommended but either will work.
+43) Download [Node](https://nodejs.org/en/) and install it on your computer. 
 
 ![Arduino IDE](/images/arduino-setup/step40.png)
 
@@ -185,7 +184,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ![Arduino IDE](/images/arduino-setup/step41.png)
 
-45) If you are using windows machine download and install [Cygwin](https://cygwin.com/install.html).
+45) If you are using windows, download and install [Cygwin](https://cygwin.com/install.html).
 
 46) Open Cygwin or a terminal on your computer.  
 
@@ -195,7 +194,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 cd ~/Desktop/
 ```
 
-This will navigate you to the desktop folder on your computer in the command line.
+You will be navigated you to the desktop folder on your computer in the command line.
 
 48) Run this command on the command line:
  
@@ -203,7 +202,7 @@ This will navigate you to the desktop folder on your computer in the command lin
 git clone https://github.com/phptuts/blocklyarduinoclass.git
 ``` 
 
-This command will download the arduino ide onto your desktop.
+This command will download the Arduino IDE onto your desktop.
 
 49) Run this command on the command line:
 
@@ -217,7 +216,7 @@ cd blocklyarduinoclass/
 sh start.sh
 ```
 
-This will start up the BlockyDuino IDE, it will be slow to run the first time you do this. 
+BlockyDuino IDE will start up; it will be slow to run the first time you do this. 
 
 51) [Click here](http://localhost:3000) to open the IDE.
 
@@ -241,15 +240,15 @@ This will start up the BlockyDuino IDE, it will be slow to run the first time yo
 
 ![Arduino IDE](/images/arduino-setup/step53.png)
 
-57) You should see you Arduino blink like you did in step 9.
+57) You should see you, Arduino, blink as you did in step 9.
 
 ![Arduino IDE](/images/arduino-setup/step54.gif)
 
-You will have to do steps 49 to 54 when you use a different board other then the Arduino.
+You will have to do steps 49 to 54 when you use a different board other than the UNO.
 
 58) Go back to the [webpage](http://localhost:3000).
  
-59) Plug your Arduino into the computer, you should see the usb drop down box now be populated.
+59) Plug your Arduino into the computer; you should see the USB drop down box now be populated.
 
 ![Arduino IDE](/images/arduino-setup/step56.png)
 
@@ -259,21 +258,23 @@ You will have to do steps 49 to 54 when you use a different board other then the
 
 ![Arduino IDE](/images/arduino-setup/step57b.png)
 
-61) Change the block's drop down box to HIGH and set it to pin 13.
+61) Change the block's drop-down box to HIGH and set it to pin 13.
 
 ![Arduino IDE](/images/arduino-setup/step58.png)
 
-62) Click the upload button you should see dialog box letting you once the program has been uploaded to the Arduino.
+62) Click the upload button. You should see dialog letting you know you have successfully uploaded the code.
 
 ![Arduino IDE](/images/arduino-setup/step59a.png)
 
 ![Arduino IDE](/images/arduino-setup/step59b.png)
 
 
-63) You should see the built in LED turn on.  Congrats you just wrote your some Arduino code!!!
+63) You should see the built-in LED turn on.  Congrats you just wrote some Arduino code!!!
  
 ![Arduino IDE](/images/arduino-setup/step60.jpg)
 
-Now you are completely setup for all the classes for Arduino.  Can't wait to see there!!!
+Now you are entirely set up for all the classes for Arduino.  Can't wait to see there!!!
+
+
 
 

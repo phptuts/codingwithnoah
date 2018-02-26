@@ -16,12 +16,12 @@ modified: 2018-01-22
 - 1 x Push Button
 - 1 x USB Arduino Cable
 - 2 x LED
-- 2 x 220 ohm resistor
+- 2 x 220-ohm resistor
 - 4 x male to male jumper wires
 
 ## Steps
 
-Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer has not been setup yet.  
+Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer has not been set up yet.  
 
 1) Follow the directions [Arduino Blockly Start Guide](/arduino-blockly-start) to start the [Arduino Blockly Webpage](http://localhost:3000).
  
@@ -53,7 +53,7 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 #### Challenge Digital Write Review
 
-a) Can you turn on led using the digital write block.
+a) Can you turn on led using the DigitalWrite block?
 
 ![Challenge 1 a](/images/arduino-block/lesson-2/challenge-1-a.jpg) 
 
@@ -93,11 +93,11 @@ a) Can you turn on led using the digital write block.
 
 ![Set Block](/images/arduino-block/lesson-2/step15b.png) 
 
-16) Change the "Set" block drop down menu to "Input From Computer".
+16) Change the "Set" block drop-down menu to "Input From Computer".
 
 ![Set Change Variable Name](/images/arduino-block/lesson-2/step16.png) 
 
-17) Connect the "Set" block tho the variable block.
+17) Connect the "Set" block to the variable block.
 
 ![Set Change Variable Name](/images/arduino-block/lesson-2/step17.png) 
 
@@ -107,7 +107,7 @@ a) Can you turn on led using the digital write block.
 
 ![Serial Read Block](/images/arduino-block/lesson-2/step18b.png) 
 
-19) Open the "Logic" menu option and drag the "If" block to connect to bottom of the blocks.
+19) Open the "Logic" menu option and drag the "If" block to connect to the bottom of the blocks.
 
 ![IF Block](/images/arduino-block/lesson-2/step19a.png) 
 
@@ -167,7 +167,7 @@ a) Can you turn on led using the digital write block.
 
 ![Serial Monitor](/images/arduino-block/lesson-2/step30.png) 
 
-31) Type "ON\|" into the input box of the "Serial Monitor" and click the "Send" button.  You should see after click the button a message and the led turn on.
+31) Type "ON\|" into the input box of the "Serial Monitor" and click the "Send" button.  You should see a message on the Serial Monitor and the led turn on.
 
 ![Serial Monitor](/images/arduino-block/lesson-2/step31a.png) 
 
@@ -177,42 +177,42 @@ a) Can you turn on led using the digital write block.
 
 ### Variables
 
-A variable is a way to store data in a computer program. When you create a variable for the Arduino is has 3 parts.  The name, the type of data it's going to store, and the actual data it is storing.  The name of the variable is used when you want to get the value of the variable.  In the code you just wrote you created a text / string variable.  
+A variable is a way to store data in a computer program. Variables have three parts.  The name, the type of data it's going to store, and the actual data it is storing.  The name of the variable is used when you want to get the data the variable is storing.  In the code, you just wrote you created a that stores text/string data.  The value that it will be stored will be based on what you entered into the "Serial Montior"
 
 ### Create Variable Block
 
-The create variable block is used to create a variable.  This is where the 3 parts of the variable comes in.  You must rename the variable from "item" to another name like you did in step 11.  This is where you set data type that the variable will store.  You can only set the data type with this block.  You also set the value that the variable will store.
+The "create variable" block is used to create a variable.   You must rename the variable from "item" to another name as you did in step 11.  When creating a variable, you must decide the type of data you want it to store.  You can only set the data type with this block.  You also set the value that the variable will store as well.
 
 ![Variable](/images/arduino-block/lesson-2/variable.png) 
 
 ### Set Variable Block
 
-The set variable block is used to change value of the variable. The dropdown box controls the which variable you are changing the value of.  The block you connect to it is the new value of the variable.
+The "set variable" block is used to change the value of the variable. The drop-down box controls the which variable you are changing the value of.  The block you connect to it is the new value of the variable.
 
 ![Get Variable](/images/arduino-block/lesson-2/get_variable.png) 
 
 ### Get Variable Block
 
-Uses the variable's name to get the value that the variable is storing.  The block that you plug into it is will set the new value of the variable.  The dropdown box has a list of names of variables you can choose from to change.
+Uses the variable's name to get the value that the variable is storing.   The drop-down box has a list of names of variables you can choose from to change.
 
 ![Get Variable](/images/arduino-block/lesson-2/set_variable.png) 
 
 ### IF Block & Compare blocks
 
-The "IF" block is used make decisions.  If what is connected to the "IF" block is true, the block inside it will execute.  In our case we use the compare block to determine if the is true or false.  Notice that the compare block has takes in a right and left block.  If both blocks have the same value it and the dropdown box is set to "=" it means that it's true.  You can set dropdown to a lot of different comparison for example not true is equals sign with the slash through it.
+The "IF" block is used make decisions.  If what is connected to the "IF" block is true, the block inside it will execute.  In our case, we use the compare block to determine if something should execute.  Notice that the compare block has two holes.  If both blocks have the same value it and the drop-down box is set to "=" it means that the compare block will result in a "true" value.   You can set the dropdown to a lot of different comparisons For example, not true is equals sign with the slash through it.
 
 ![If compare block](/images/arduino-block/lesson-2/if-compare-block.png) 
 
 
 ### Serial Monitor
 
-The Serial Monitor is a way you can send messages and receive message with the Arduino.  The way you send a message is by typing the message into the input box and clicking the send button.  You will receive messages in the gray box below in the input box.  The Clear Window Button will clear all the data in the message box.  **Everytime you upload code to the Arduino you will have to close and reopen the serial monitor.**
+The Serial Monitor is a way you can send messages and receive messages with the Arduino.  The way you send a message is by typing the message into the input box and clicking the send button.  You will receive messages in the gray box below in the input box.  The Clear Window Button will clear all the data in the message box.  **Everytime you upload code to the Arduino you will have to close and reopen the serial monitor.**
 
-![Get Variable](/images/arduino-block/lesson-2/serial-monitor.png) 
+![Serial Monitor](/images/arduino-block/lesson-2/serial-monitor.png) 
 
 ### Read Until String Block
 
-This block will take the data you send from the input box of the serial monitor.  It will take all the data minus the character you put into the box.  In our example you sent "ON\|" to the Arduino, but the value of the variable is "ON".  It chopped off the "\|" character.  The value that the block returns is "ON" in that example.
+This block will take the data you send from the serial monitor.  It will take all the information minus the character you put into the box.  In our example, you sent "ON\|" to the Arduino, but the value of the variable is "ON".  It chopped off the "\|" character.  
 
 ![Read Until String](/images/arduino-block/lesson-2/read_until_character.png) 
 
@@ -228,7 +228,7 @@ a) Change the code to have the led stay on for 1 second and use the "Serial Prin
 
 ![Challenge IF A](/images/arduino-block/lesson-2/challenge-if-a.gif) 
 
-b) Change the code to have the led do the previous challenge if you type "Blink\|" into the serial monitor input box.
+b) Change the code to make the led blick if you type "Blink\|" into the serial monitor input box.
 
 ![Challenge IF B](/images/arduino-block/lesson-2/challenge-if-b.gif) 
 
@@ -236,11 +236,11 @@ c) Add an if statement to the code so that if you type in "LED ONE ON\|" it will
 
 ![Challenge IF C](/images/arduino-block/lesson-2/challenge-if-c.gif) 
 
-d) Add another if statement to the code so that if you type in "LED ONE OFF\|" it will turn on the led and print "Led one is off." to the serial monitor.
+d) Add another if statement to the code so that if you type in "LED ONE OFF\|" it will turn off the led and print "Led one is off." to the serial monitor.
 
 ![Challenge IF D](/images/arduino-block/lesson-2/challenge-if-d.gif) 
 
-e) Create a second led and control it like you did in the previous challenges.  So if you type in "LED TWO ON\|", it will turn on the led. 
+e) Connect a second led and control it like you did in the previous challenges.  So if you type in "LED TWO ON\|", it will turn on the led. 
 
 ![Challenge IF D](/images/arduino-block/lesson-2/challenge-if-e.gif) 
 
@@ -252,8 +252,8 @@ e) Create a second led and control it like you did in the previous challenges.  
 
 ### Quick Review
 
-- Variables are used to store data, they have a name, type of data they store, and value.
+- Variables are used to store data; they have a name, type of data they store, and value.
 - You can change the value of a variable with the variable set block.
 - You can access the value of the variable with the variable's name and the get block.
-- Serial Monitor allows you to send and receive message from the Arduino.
+- Serial Monitor allows you to send and receive messages from the Arduino.
 - You can use the If and Compare blocks to make decisions run different pieces of code.
