@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arduino 103 - Number Variables & Servos
-excerpt: Using the serial monitor to parse number and control a servo."
+excerpt: Using the serial monitor to parse a number and control a servo.
 modified: 2018-01-24
 ---
 
@@ -21,13 +21,13 @@ modified: 2018-01-24
 
 ## Steps
 
-Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer has not been setup yet.  
+Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer has not been set up yet.  
 
 1) Follow the directions [Arduino Blockly Start Guide](/arduino-blockly-start) to start the [Arduino Blockly Webpage](http://localhost:3000).
  
 2) Open the [Arduino Blockly Webpage](http://localhost:3000).
 
-3) Look at wires on the servo and the picture and identify each one on the servo.
+3) Identify each wire one on the servo using the picture below.
 
 ![Servo](/images/arduino-block/lesson-3/step3.jpg) 
 
@@ -35,7 +35,7 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ![Servo](/images/arduino-block/lesson-3/step4.jpg) 
 
-5) Plug 5v wire of the servo into 5v pin of the Arduino.
+5) Plug 5v wire of the servo into the 5v pin of the Arduino.
 
 ![Servo](/images/arduino-block/lesson-3/step5.jpg) 
 
@@ -63,7 +63,7 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ![Servo Pic](/images/arduino-block/lesson-3/step10b.jpg) 
 
-11) Change the value of the number block inside the move servo block to 180.
+11) Change the value of the "number" block inside the "move servo" block to 180.
 
 ![Servo Block](/images/arduino-block/lesson-3/step11.png) 
 
@@ -85,7 +85,7 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ![Variable Block](/images/arduino-block/lesson-3/step14b.png) 
 
-The variable is already using data type whole number.  We want to send whole number to the server.  Whole number means numbers without decimal points.
+The variable is already storing whole numbers.  A whole number is a number that does not contain a decimal point in it.  You will use this variable to save the angle that the servo will rotate.  
 
 ![Variable Block](/images/arduino-block/lesson-3/number_variable_block.png) 
 
@@ -101,7 +101,7 @@ The variable is already using data type whole number.  We want to send whole num
  
 ![Variable Block](/images/arduino-block/lesson-3/step16b.png) 
 
-17) Drag the number block connected to the "Servo Move" block to the trash can located on the bottom right of the screen.
+17) Drag the "number" block connected to the "Servo Move" block to the trash can located on the bottom right of the screen.
 
 ![Servo Block](/images/arduino-block/lesson-3/step17.png) 
 
@@ -115,11 +115,11 @@ The variable is already using data type whole number.  We want to send whole num
 
 ### Challenge Variables & Servo
 
-a) Rotate the servo position to 15 by using value of the "Angle" variable.
+a) Rotate the servo position to 15 by using the value of the "Angle" variable.
 
 ![Challenge 1 A](/images/arduino-block/lesson-3/challenge-1-a.jpg) 
 
-b) Rotate the servo position to 45 by using value of the "Angle" variable.
+b) Rotate the servo position to 45 by using the value of the "Angle" variable.
 
 ![Challenge 1 B](/images/arduino-block/lesson-3/challenge-1-b.jpg) 
 
@@ -127,17 +127,17 @@ b) Rotate the servo position to 45 by using value of the "Angle" variable.
 
 a) Discard all the blocks.
 
-b) Create a String Variable name "User Input" that is type "Text" with a empty quotes value block with nothing inside.
+b) Create a String Variable name "User Input" that is type "Text" with an empty "Text" block.
 
 c) Set the "User Input" variable equal to the "Read Until One Character" Block.  You will find this block in the "Input\Output" menu option.
 
 d) If the User Input **does not equal** an Empty Quotes block, serial print "You said something".  
 
-Hint, you will need the if block, and the compare block, found in the "Logic" menu.  You will need to change the option on the compare from the default '='.
+Hint, you will need the if block, and the compare block, found in the "Logic" menu.  You will need to change the option on the compare block from the default '='.
 
 ![Challenge 2](/images/arduino-block/lesson-3/challenge-2.png) 
 
-Don't continue until you complete the challenge!!! If you have any problems ask for help from the instructor or email me at glaserpower [at] gmail.com.
+Don't continue until you complete the challenge!!! If you have any problems, ask for help from the instructor or email me at glaserpower [at] gmail.com.
 
 <button type="button" onclick="document.querySelector('#hide-steps').style.display = 'block';">Un hide Steps</button>
 
@@ -155,19 +155,19 @@ Don't continue until you complete the challenge!!! If you have any problems ask 
 <p><img src="/images/arduino-block/lesson-3/step22a.png" /></p>
 <p><img src="/images/arduino-block/lesson-3/step22b.png" /></p>
 
-<p>23) Connect the "Get Variable" block to the "String to Whole Number".  Be sure to set it to use the "User Input" variable.</p>
+<p>23) Connect the "Get Variable" block to the "String to Whole Number" block.  Be sure to set it to use the "User Input" variable.</p>
 
 <p><img src="/images/arduino-block/lesson-3/step23a.png" /></p>
 <p><img src="/images/arduino-block/lesson-3/step23b.png" /></p>
 
-<p>24) Open the "Servo" menu and take the "Servo Move" block to the bottom of the "IF" Block Do Section.</p>
+<p>24) Open the "Servo" menu and take the "Servo Move" block to the bottom of the "IF" Block "do" Section.</p>
 <p><img src="/images/arduino-block/lesson-3/step24a.png" /></p>
 <p><img src="/images/arduino-block/lesson-3/step24b.png" /></p>
 
 <p>25) Change the PIN dropdown to 2.<p>
 <p><img src="/images/arduino-block/lesson-3/step25.png" /></p>
 
-<p>26) Take the number block attached to the Servo Move block and throw it into the trash.</p>
+<p>26) Take the "number" block attached to the "Servo Move" block and throw it into the trash.</p>
 <p><img src="/images/arduino-block/lesson-3/step26.png" /></p>
 
 <p>27) Drag the "Get Variable" block to the "Servo Move" block and have it use the "Angle" Variable</p>
@@ -177,7 +177,7 @@ Don't continue until you complete the challenge!!! If you have any problems ask 
 <p>28) Upload the code.<p>
 <p><img src="/images/arduino-block/lesson-3/step28.png" /></p>
 
-<p>29) Open the "Serial Monitor" and type in '75\|' into the input box and click send</p>
+<p>29) Open the "Serial Monitor" and type in '145|' into the input box and click send.</p>
 <p><img src="/images/arduino-block/lesson-3/step29a.png" /></p>
 <p><img src="/images/arduino-block/lesson-3/step29b.png" /></p>
 <p><img src="/images/arduino-block/lesson-3/step29c.gif" /></p>
@@ -194,7 +194,7 @@ Don't continue until you complete the challenge!!! If you have any problems ask 
 <h3>Quick Review</h3>
 
 <ul>
-    <li>Blocks inside an IF block execute the  blocks inside them if what is connected to it is true.</li>
+    <li>Blocks inside an IF block execute if what is connected to the if block is true.</li>
     <li>You can turn a String variable into a number nariable using the "String to Number Block".</li>
     <li>You can change the value of a variable but not the type of data the variable will store.</li>
     <li>The Serial Monitor allows your computer to communicate with the Arduino</li>
