@@ -29,7 +29,7 @@ search_omit: true
 
 11) [Arduino 111 - RFID Reader & Arrays](/arduino-blockly/lesson-11-rfid-arrays)
 
-12) Arduino 112 - RGB LED Challenge
+12) [Arduino 112 - RGB LED Challenge](/arduino-blockly/lesson-12-rgb-led-challenges)
 
 13) Arduino 113 - Bluetooth & LCD Screens
 
