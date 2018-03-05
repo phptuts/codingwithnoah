@@ -19,13 +19,13 @@ modified: 2018-02-21
 
 ## Steps
 
-Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer has not been setup yet.  
+Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer has not been set up yet.  
 
 1) Follow the directions [Arduino Blockly Start Guide](/arduino-blockly-start) to start the [Arduino Blockly Webpage](http://localhost:3000).
  
 2) Open the [Arduino Blockly Webpage](http://localhost:3000).
 
-3) Look at the bag it came the labels for the wires.  Notice the wires are labeled ground, volts, and data.
+3) Look at the bag it came the labels for the wires.  Notice the cables are labeled ground, volts, and data.
 
 ![LED Light Strip Label](/images/arduino-block/lesson-10/step3.jpg) 
 
@@ -37,7 +37,7 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ![LED Light Strip](/images/arduino-block/lesson-10/step5.jpg) 
 
-6) Take a jumper wire and hook it into ground of the led light strip and the gnd (ground) pin of the Arduino.
+6) Take a jumper wire and hook it into the ground of the led light strip and the gnd (ground) pin of the Arduino.
 
 ![LED Light Strip](/images/arduino-block/lesson-10/step6.jpg) 
 
@@ -45,7 +45,7 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ![LED Light Strip](/images/arduino-block/lesson-10/step7.jpg) 
 
-8) Drag the "Setup Neo Pixel" Block onto the screen.  Look at the back to see the number of leds.  Put that that in for the number and put "A0", the data pin, for the pin drop down.
+8) Drag the "Setup Neo Pixel" Block onto the screen.  Look at the back to see the number of LEDs.  Put that in for the number and put "A0", the data pin, for the pin drop down.
 
 ![LED Light Strip Package](/images/arduino-block/lesson-10/step8-bag.jpg)
 
@@ -67,13 +67,13 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ### Challenges
 
-1) Make all the led in the light strip be green.  Use a count block to do this with a "Neo Pixel" Block.
+1) Make all the led in the light strip be green.  Use a count block to do this with a "Neo Pixel" block.
 
-2) Use the random number block 
+2) Use the random number block to make random colors.
 
 ### Repeat Block / While Loop
 
-Repeat block will execute the blocks inside of **while** what is connected to it is true.  This means that it does not have a set amount of times it will execute.  It what is connected is never true it may never execute.  
+Repeat block will execute the blocks inside  **while** what is connected to it is true.  That means that it does not have a set amount of times it will run.  If what is connected is never true it will never execute.  
 
 ![While Block](/images/arduino-block/lesson-10/whileblock.png) 
 
@@ -89,11 +89,11 @@ Repeat block will execute the blocks inside of **while** what is connected to it
 
 ![Global Variable](/images/arduino-block/lesson-10/step13.png) 
 
-14) Create an if block that will change the variable "add" to false if position equals 59.
+14) Create an "if" block that will change the variable "add" to false if position equals 59.
 
 ![If Block](/images/arduino-block/lesson-10/step14.png) 
 
-15) Create an if block that will change the variable add to true if the position equals 0.  These if blocks should be stacked on each other. Be sure to connect the if blocks.
+15) Create an "if" block that will change the variable "add" to true if the position variable equals 0.  These "if" blocks should be stacked on each other. 
  
 ![If Block](/images/arduino-block/lesson-10/step15.png) 
 
@@ -103,23 +103,23 @@ Repeat block will execute the blocks inside of **while** what is connected to it
 
 ![If Block](/images/arduino-block/lesson-10/step16b.png) 
 
-17) Set the "Position" of the "Neo Pixel" to the value "Position variable".  Set the all the color number blocks to zero.  This will turn off the led.
+17) Set the "Position" of the "Neo Pixel" to the value "Position" variable.  Set the all the color number blocks to zero.  That will turn off the led.
 
 ![If Block](/images/arduino-block/lesson-10/step17.png) 
 
-18) Now create and if / else block that will add one to the position variable if the add variable is true and minus one if the add variable is false.
+18) Now create and if / else block that will add one to the "position" variable if the "add" variable is true and minus one if the "add" variable is false.
 
 ![If Block](/images/arduino-block/lesson-10/step18.png) 
 
-19) Connect a "Neo Pixel" block and set the position hole to value of the variable of the position.  Then keep the numbers attached to the colors the same.
+19) Connect a "Neo Pixel" block and set the "position" hole to value of the "position" variable.  Then keep the numbers attached to the colors the same.
 
 ![If Block](/images/arduino-block/lesson-10/step19.png) 
 
-20) Connect a delay block at the end of the if block and set it's number to 50.
+20) Connect a delay block at the end of the "if" block and set it's number to 50.
 
 ![Delay](/images/arduino-block/lesson-10/step20.png) 
 
-21) Upload the code, you should see the led light strip snake.
+21) Upload the code; you should see the led light strip snake.
 
 ![Delay](/images/arduino-block/lesson-10/step21.gif) 
 
@@ -132,8 +132,6 @@ Repeat block will execute the blocks inside of **while** what is connected to it
  
 ### Other Challenges
  
- - Control the leds via the serial monitor like you did in the [previous lesson](/arduino-blockly/lesson-9-led-matrix-challenge)
- - Make a really cool pattern.
+ - Control the LEDs via the serial monitor like you did in the [previous lesson](/arduino-blockly/lesson-9-led-matrix-challenge)
+ - Make a cool pattern.
  - Just have fun. :)
-
-

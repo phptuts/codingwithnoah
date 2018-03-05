@@ -18,25 +18,25 @@ modified: 2018-02-22
 
 ## Step
 
-Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer has not been setup yet.  
+Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer has not been set up yet.  
 
 1) Follow the directions [Arduino Blockly Start Guide](/arduino-blockly-start) to start the [Arduino Blockly Webpage](http://localhost:3000).
  
 2) Open the [Arduino Blockly Webpage](http://localhost:3000).
 
-3) Look at led wire.  Notice that there is one long wire on the led, that is the ground wire.  Locate the red, green, and blue wire connected to the led.
+3) Look at the led wire.  Notice that there is one long wire on the led that is the ground wire.  Locate the red, green, and blue wire connected to the led.
 
 ![RGB LED](/images/arduino-block/lesson-12/rgb_led.jpg)
 
-4) Put the led into the board and take note of where the led wire is.
+4) Put the led into the breadboard and take note of where the ground wire is.
 
 ![RGB LED Breadboard](/images/arduino-block/lesson-12/led_rgb_breadboard.jpg)
 
-5) Take a male to male jumper wire and put plug in the same column that ground wire of the led.
+5) Take a  jumper wire and put it in the same column that ground wire of the led.
 
 ![RGB LED Jumper Wire](/images/arduino-block/lesson-12/rgb_led_jumer_wire_ground.jpg)
 
-6) Take 3 resistor and plug each one into the column that the color pins of the led are using.
+6) Take 3 resistors and plug each one into the column that the color pins of the led are using.
 
 ![RGB LED Resitor](/images/arduino-block/lesson-12/rgb_led_resistors.jpg)
 
@@ -44,15 +44,15 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ![Arduino GND](/images/arduino-block/lesson-12/arduino_ground.jpg)
 
-8) Take a jumper wire and plug one end to the same column as the red pin of the rgb and the other end into pin 9 of the Arduino.
+8) Take a jumper wire and plug one end to the same column as the red pin of the RGB LED and the other end into pin 9 of the Arduino.
 
 ![RED RGB LED](/images/arduino-block/lesson-12/red_pin_rgb.jpg)
 
-9) Take a jumper wire and plug one end to the same column as the green pin of the rgb and the other end into pin 10 of the Arduino.
+9) Take a jumper wire and plug one end to the same column as the green pin of the RGB LED and the other end into pin 10 of the Arduino.
 
 ![GREEN RGB LED](/images/arduino-block/lesson-12/green_pin_rgb.jpg)
 
-10) Take a jumper wire and plug one end to the same column as the blue pin of the rgb and the other end into pin 11 of the Arduino.
+10) Take a jumper wire and plug one end to the same column as the blue pin of the RGB LED and the other end into pin 11 of the Arduino.
 
 ![BLUE RGB LED](/images/arduino-block/lesson-12/blue_pin_rgb.jpg)
 
@@ -62,15 +62,15 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ![Analog Block](/images/arduino-block/lesson-12/red_analog.png)
 
-12) Connect an "analog write" block to bottom of the one you just created and set pin option to 10.
+12) Connect an "analog write" block to the bottom of the one you just created and set pin option to 10.
 
 ![Analog Block](/images/arduino-block/lesson-12/green_analog.png)
 
-13) Connect an "analog write" block to bottom of the one you just created and set pin option to 11.
+13) Connect an "analog write" block to the bottom of the one you just created and set pin option to 11.
 
 ![Analog Block](/images/arduino-block/lesson-12/blue_analog.png)
 
-14) Change the middle block to 150.  Notice the block that controls the rgb value.
+14) Change the middle block to 255.  Notice the block that controls the RGB value.
 
 ![Analog Block](/images/arduino-block/lesson-12/set_color_value.png)
 
@@ -87,13 +87,13 @@ a) Make the led red for 1 second, green for 1 second, and blue for one second.
 
 ![LED RGB](/images/arduino-block/lesson-12/challenge-1.gif)
 
-b) Make a loop that will make the led go from off to dark green.  Make another loop below it that will it back to off.  Don't worry about making something really cool just have fun with loops.
+b) Use loops to make cool patterns with the LED.  Don't worry about making it fresh.  You can loop from 0 255 or anywhere in between.  Use the "i" variable created with the loop to control the color values.
 
 ![LED RGB](/images/arduino-block/lesson-12/challenge-2.gif)
 
 ## String Parsing Block
 
-This block allows to treat a string value like an array.  Let's look at simple example, clear all the blocks from the screen.
+This block allows you to treat a string value as an array.  Let's look at a simple example, delete all the blocks from the screen.
 
 1) Create a string variable called "Color Text" and set it equal to 105-0-150.
 
@@ -110,15 +110,15 @@ This block allows to treat a string value like an array.  Let's look at simple e
 ![Parse Text](/images/arduino-block/lesson-12/parse_text_block.png)
 
 
-4) Connect the "Get Variable" block to the string to parse, and the block to use the "Color Text" variable.
+4) Connect the "Get Variable" block to the "string to parse" block, and the block to use the "Color Text" variable.
  
  ![Parse Variable](/images/arduino-block/lesson-12/parsing_variable_part_1.png)
 
-5) Connect a "Text" block to the "Parsing Character no Value" block hole.  Set it equal to "-" character.
+5) Connect a "Text" block to the "Parsing Character no Value" hole.  Set it equal to the "-" character.
 
  ![Parse Variable](/images/arduino-block/lesson-12/parse_variable_part_2.png)
 
-6) Connect a number block to the index hole and set it equal to 0.
+6) Connect a "number" block to the index hole and set it equal to 0.
 
  ![Parse Variable](/images/arduino-block/lesson-12/parse_variable_part_3.png)
 
@@ -126,11 +126,11 @@ This block allows to treat a string value like an array.  Let's look at simple e
 
  ![Serial Print](/images/arduino-block/lesson-12/serial_print.png)
 
-8) Using a "String to Whole Number" block and "AnalogWrite" block set the value of the Red pin, pin 9 to the red variable turned into a a number.
+8) Using a "String to Whole Number" block and "AnalogWrite" block set the value of the Red pin, pin 9 to the red variable turned into a number.
 
  ![Set Red Pin](/images/arduino-block/lesson-12/set_red_pin.png)
 
-9) Connect a delay block to the end of the program.
+9) Connect a "delay" block to the end of the program.
 
  ![Delay](/images/arduino-block/lesson-12/delay.png)
 
@@ -142,7 +142,7 @@ This block allows to treat a string value like an array.  Let's look at simple e
 
 ## Parse String
 
-So the "Parse String" block works by taking a string value and allowing you access parts of it like an array.  The first block it takes in the a string that you want to parse.  The second block it takes is the block that is used to divide up the string.  The block is the index block which means that once the string is divided which part to do you want to access.  Like array it starts counting at "0".  So if you wanted to access the "150" part of the string you would have used 2 for the index number. 
+So the "Parse String" block works by taking a string value and allowing you access parts of it like an array.  The first block it takes in the string that you want to parse.  The second block it takes is the block that is used to divide up the string.  The number block that is connected to the index whole decides which part of the string to you want.  Like arrays, it starts counting at "0".  So if you wanted to access the "150" part of the string, you would have used 2 for the index number. 
 
 ## Super Challenge
 
@@ -152,7 +152,7 @@ Create a program that allows you to control the color of the led by using the se
 - 30 -> blue
 - 150 -> green
    
- Use the parse string block like you did in the previous examples.  This time save your work because we'll be using in a future lesson with bluetooth.
+ Use the "parse string" block as you did in the previous examples.  This time save your work because we'll be using in a future lesson with Bluetooth.
 
 
  ![Serial Monitor RGB](/images/arduino-block/lesson-12/serial_monitor_control_led.png)

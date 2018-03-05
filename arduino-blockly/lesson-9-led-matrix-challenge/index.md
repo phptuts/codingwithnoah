@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arduino 109 - LED Matrix Challenge with else
-excerpt: "Learn how to control lcd screens with the Arduino & Serial Monitor."
+excerpt: "LED Matrix with else challenge."
 modified: 2018-2-11
 ---
 
@@ -18,7 +18,7 @@ modified: 2018-2-11
 
 ### Steps
 
-Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer has not been setup yet.  
+Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer has not been set up yet.  
 
 1) Follow the directions [Arduino Blockly Start Guide](/arduino-blockly-start) to start the [Arduino Blockly Webpage](http://localhost:3000).
  
@@ -40,7 +40,7 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ![LED Matrix](/images/arduino-block/lesson-9/step6.jpg) 
 
-7) Connect CS (Chip Set) on led matrix to pin 10 on the Arduino.
+7) Connect CS (Chip Set) on the led matrix to pin ten on the Arduino.
 
 ![LED Matrix](/images/arduino-block/lesson-9/step7.jpg) 
 
@@ -54,17 +54,17 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ![Button](/images/arduino-block/lesson-9/step9b.jpg) 
 
-10) Drag a "IF Block" from the logic menu on the workspace.
+10) Drag an "IF" block from the "logic" menu on the workspace.
 
 ![IF Block](/images/arduino-block/lesson-9/step10.png) 
 
-11) Connect a "DigitalRead with Pullup Resistor" block to the if block and set to pin 2 of the Arduino.
+11) Connect a "DigitalRead with Pullup Resistor" block to the "if" block and set to pin 2 of the Arduino.
 
 ![IF Block](/images/arduino-block/lesson-9/step11a.png) 
 
 ![IF Block](/images/arduino-block/lesson-9/step11b.png) 
 
-12) Click on the "gear / mutator" and drag the else block into the "if block".  Click on the gear again to close it.
+12) Click on the "gear/mutator" and drag the else block into the "if" block.  Click on the gear again to close it.
 
 ![IF Block](/images/arduino-block/lesson-9/step12a.png) 
 
@@ -72,13 +72,13 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ![IF Block](/images/arduino-block/lesson-9/step12c.png) 
 
-13) Connect the "Set led row / column" block from the "Input\Output" menu to the "do" part of the block.  Uncheck the check box.
+13) Connect the "Set led row/column" block from the "Input\Output" menu to the "do" part of the block.  Uncheck the checkbox.
 
 ![IF Block](/images/arduino-block/lesson-9/step13a.png) 
 
 ![IF Block](/images/arduino-block/lesson-9/step13b.png) 
 
-14) Connect the "Set led row / column" block from the "Input\Output" menu to the "else" part of the block.  
+14) Connect the "Set led row/column" block from the "Input\Output" menu to the "else" part of the block.  
 
 ![Else](/images/arduino-block/lesson-9/step14.png) 
 
@@ -92,12 +92,12 @@ Follow the directions in [Arduino Setup Guide](/arduino-setup) if your computer 
 
 ### Else
 
-So here's what going on.  The "DigitalRead with Pullup Resistor" block will return 1 when the button is **not** pushed down.  The if statement will say anything above 0 is the same as true.  So if the button is **not** pushed down we'll turn off the light, **else** we'll turn the light on.  So the else block will execute the blocks inside it when what the if block evaluates is **not** true.
+So here's what going on.  The "DigitalRead with Pullup Resistor" block will return 1 when the button is **not** pushed down.  The if statement will say anything above 0 is the same as true.  So if the button is **not** pushed down we'll turn off the light, **else** we'll turn the light on.  So the else will execute the blocks inside it when what is connected the "if" block is **not** true.
 
 
 ### Challenge Simple
 
-Make Row 3 / Column 3 turn on when the button is pushed.
+Make Row 3 / Column 3 turn on when the button is pushed down.
 
 ### Super Challenge
 
