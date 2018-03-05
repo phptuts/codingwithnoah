@@ -31,7 +31,7 @@ search_omit: true
 
 12) [Arduino 112 - RGB LED Challenge](/arduino-blockly/lesson-12-rgb-led-challenges)
 
-13) Arduino 113 - Bluetooth & LCD Screens
+13) [Arduino 113 - Bluetooth](/arduino-blockly/lesson-13-bluetooth)
 
 14) [App Inventor 101 -- Introduction (I have a dream app)](http://www.appinventor.org/content/ai2apps/simpleApps/dream)
 

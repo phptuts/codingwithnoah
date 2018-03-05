@@ -95,3 +95,7 @@ img {
   width:  100%;
   border: solid gray 1px;
 }
+
+img[src$='#img-phone'] { width: auto; }
+
+
