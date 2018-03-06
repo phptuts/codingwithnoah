@@ -43,27 +43,15 @@ search_omit: true
 
 18) [App Inventor 105 -- Logo Builder App](http://www.appinventor.org/content/ai2apps/intermediateApps/logo)
 
-19) App Inventor & Bluetooth 
+19) App Inventor & RBG LED
 
-20) App Inventor / Bluetooth / LCD Screen
+20) App Inventor & Led Matrix
 
-21) App Inventor / Bluetooth / Sonar
+21) Challenge: build an Android app to control a servo.
 
-22) App Inventor / Bluetooth / Led Matrix
-
-23) App Inventor / Bluetooth / RBG LED
-
-24) App Inventor / Bluetooth / Servo
-
-25) Make your own App Inventor / Arduino project.  (Project Size 2 weeks)
-
-26) Make your own App Inventor (Project Size 4 weeks)
-
-27) Publish your app inventor app on the app store.
+22) Challenge: build and publish your own app.
 
 **Congrats** you have completed the first part of the school. You are now a programmer with an in the app store.  
-
-*Kotlin / IOS the journey continues*
 
 
 
