@@ -43,9 +43,9 @@ search_omit: true
 
 18) [App Inventor 105 -- Logo Builder App](http://www.appinventor.org/content/ai2apps/intermediateApps/logo)
 
-19) App Inventor & RBG LED
+19) App Inventor 106 -- RBG LED
 
-20) App Inventor & Led Matrix
+20) App Inventor 107 -- Led Matrix
 
 21) Challenge: build an Android app to control a servo.
 
