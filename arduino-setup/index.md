@@ -98,6 +98,8 @@ Congrats!!! You just set up the Arduino IDE. Now it's time to install all the li
 
 25) Repeat steps 12 & 13 with the zip file you downloaded.
 
+**If you are in the class go ahead and skip to step 43.**  The wifi chip is going to get it's own course and you won't do deal with this for a while.
+
 ### Setting up the ESP-8266 chip with the Arduino ide.
 
 26) Go to Arduino IDE -> Arduino -> Preferences
