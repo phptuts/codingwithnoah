@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-13-bluetooth/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="578">
+              <first_editor relative-caret-position="1800">
                 <caret line="120" column="29" lean-forward="false" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
                 <folding />
               </first_editor>
@@ -51,8 +51,34 @@
         <entry file="file://$PROJECT_DIR$/class-schedule/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="9" column="284" lean-forward="false" selection-start-line="9" selection-start-column="284" selection-end-line="9" selection-end-column="284" />
+              <first_editor relative-caret-position="150">
+                <caret line="9" column="125" lean-forward="false" selection-start-line="9" selection-start-column="125" selection-end-line="9" selection-end-column="125" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessons/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="475">
+                <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="25" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arduino-setup/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="579">
+                <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -149,14 +175,12 @@
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-6-sonar-long-double-variables/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-7-lcd-serial-monitor/index.md" />
         <option value="$PROJECT_DIR$/_sass/_base.scss" />
-        <option value="$PROJECT_DIR$/arduino-setup/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-1-output/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-2-serial-monitor/index.md" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-3-number-variables-servos/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-4-count-loops-servos/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-5-global-variables-push-button/index.md" />
-        <option value="$PROJECT_DIR$/lessons/index.md" />
         <option value="$PROJECT_DIR$/assets/css/main.scss" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-6-sonar/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-7-lcd-loops/index.md" />
@@ -166,6 +190,8 @@
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-11-rfid-arrays/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-12-rgb-led-challenges/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-13-bluetooth/index.md" />
+        <option value="$PROJECT_DIR$/lessons/index.md" />
+        <option value="$PROJECT_DIR$/arduino-setup/index.md" />
         <option value="$PROJECT_DIR$/class-schedule/index.md" />
       </list>
     </option>
@@ -183,7 +209,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="822" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -225,7 +251,35 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="lessons" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaklandcodeschool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaklandcodeschool" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="class-schedule" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaklandcodeschool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaklandcodeschool" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arduino-setup" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -410,15 +464,18 @@
       <workItem from="1520108205080" duration="2000" />
       <workItem from="1520144674106" duration="1214000" />
       <workItem from="1520145988873" duration="17611000" />
-      <workItem from="1520315783002" duration="200000" />
+      <workItem from="1520315783002" duration="444000" />
+      <workItem from="1520320362220" duration="968000" />
+      <workItem from="1520402123117" duration="316000" />
+      <workItem from="1520750266515" duration="37000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289976000" />
+    <option name="totallyTimeSpent" value="291541000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30069444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -579,16 +636,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/arduino-block/lesson-11/Screen Shot 2018-02-23 at 11.00.56 PM.png" />
-    <entry file="file://$PROJECT_DIR$/arduino-setup/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3735">
-            <caret line="249" column="1" lean-forward="false" selection-start-line="249" selection-start-column="1" selection-end-line="249" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-1-output/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -704,16 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-5-global-variables-push-button/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -799,8 +836,30 @@
     <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-13-bluetooth/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="578">
+          <first_editor relative-caret-position="1800">
             <caret line="120" column="29" lean-forward="false" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino-setup/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="579">
+            <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="475">
+            <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
@@ -810,8 +869,8 @@
     <entry file="file://$PROJECT_DIR$/class-schedule/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="9" column="284" lean-forward="false" selection-start-line="9" selection-start-column="284" selection-end-line="9" selection-end-column="284" />
+          <first_editor relative-caret-position="150">
+            <caret line="9" column="125" lean-forward="false" selection-start-line="9" selection-start-column="125" selection-end-line="9" selection-end-column="125" />
             <folding />
           </first_editor>
           <second_editor />
