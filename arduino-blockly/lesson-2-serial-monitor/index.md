@@ -61,7 +61,7 @@ a) Can you turn on led using the DigitalWrite block?
 
 ![Clear Blocks](/images/arduino-block/lesson-2/step9.png) 
 
-10) Open the "Variable" menu option and drag the "Create Variable Name" block to the screen.
+10) Open the "Variable" menu option and drag the "Create Variable" block to the screen.
 
 ![Variable Menu](/images/arduino-block/lesson-2/step10a.png) 
 
@@ -87,21 +87,21 @@ a) Can you turn on led using the DigitalWrite block?
 
 ![Variable Popup Box](/images/arduino-block/lesson-2/step14.png) 
 
-15) Open the "Variable" menu option and drag the "Set" block to the screen.
+15) Open the "Variable" menu option and drag the "Set Variable" block to the screen.
 
 ![Set Block](/images/arduino-block/lesson-2/step15a.png) 
 
 ![Set Block](/images/arduino-block/lesson-2/step15b.png) 
 
-16) Change the "Set" block drop-down menu to "Input From Computer".
+16) Change the "Set Variable" block drop-down menu to "Input From Computer".
 
 ![Set Change Variable Name](/images/arduino-block/lesson-2/step16.png) 
 
-17) Connect the "Set" block to the variable block.
+17) Connect the "Set Variable" block to the variable block.
 
 ![Set Change Variable Name](/images/arduino-block/lesson-2/step17.png) 
 
-18) Open the "Input/Output" menu option and drag the "Read Until Character" block to connect to the set block.
+18) Open the "Input/Output" menu option and drag the "Read Until One Character" block to connect to the set block.
 
 ![Serial Read Block](/images/arduino-block/lesson-2/step18a.png) 
 
@@ -177,11 +177,11 @@ a) Can you turn on led using the DigitalWrite block?
 
 ### Variables
 
-A variable is a way to store data in a computer program. Variables have three parts.  The name, the type of data it's going to store, and the actual data it is storing.  The name of the variable is used when you want to get the data the variable is storing.  In the code, you just wrote you created a that stores text/string data.  The value that it will be stored will be based on what you entered into the "Serial Montior"
+A variable is a way to store data in a computer program. Variables have three parts.  The name, the type of data it's going to save, and the actual data it is storing.  The name of the variable is used when you want to get the data the variable is storing.  In the code you just wrote, you created a variable that stores text/string data.  The value stored in the variable is what is entered into the "Serial Monitor".
 
 ### Create Variable Block
 
-The "create variable" block is used to create a variable.   You must rename the variable from "item" to another name as you did in step 11.  When creating a variable, you must decide the type of data you want it to store.  You can only set the data type with this block.  You also set the value that the variable will store as well.
+The "create variable" block is used to create a variable.   When you use the "create variable" block, you must rename the variable from "item" to another name, as you did in step 11.  When creating a variable, you must decide the type of data you want it to store.  You can only set the data type with this block.  You also set the value that the variable will store as well.
 
 ![Variable](/images/arduino-block/lesson-2/variable.png) 
 
@@ -199,26 +199,24 @@ Uses the variable's name to get the value that the variable is storing.   The dr
 
 ### IF Block & Compare blocks
 
-The "IF" block is used make decisions.  If what is connected to the "IF" block is true, the block inside it will execute.  In our case, we use the compare block to determine if something should execute.  Notice that the compare block has two holes.  If both blocks have the same value it and the drop-down box is set to "=" it means that the compare block will result in a "true" value.   You can set the dropdown to a lot of different comparisons For example, not true is equals sign with the slash through it.
+The "IF" block is used make decisions.  If what is connected to the "IF" block is true, the block inside it will execute.  In our case, we use the compare block to determine if something should execute.  Notice that the compare block has two holes.  If both blocks have the same value, and the drop-down box is set to "=", it means that the compare block will result in a "true" value.   You can set the dropdown to a lot of different comparisons. For example, not true is equals sign with the slash through it.
 
 ![If compare block](/images/arduino-block/lesson-2/if-compare-block.png) 
 
 
 ### Serial Monitor
 
-The Serial Monitor is a way you can send messages and receive messages with the Arduino.  The way you send a message is by typing the message into the input box and clicking the send button.  You will receive messages in the gray box below in the input box.  The Clear Window Button will clear all the data in the message box.  **Everytime you upload code to the Arduino you will have to close and reopen the serial monitor.**
+The Serial Monitor is a way you can send messages and receive messages with the Arduino.  The way you send a message is by typing the message into the input box and clicking the send button.  You will receive messages in the gray box below in the input box.  The Clear Window Button will clear all the data in the message box.  **Everytime you upload code, you will have to close and reopen the serial monitor.**
 
 ![Serial Monitor](/images/arduino-block/lesson-2/serial-monitor.png) 
 
-### Read Until String Block
+### Read Until One Character Block
 
-This block will take the data you send from the serial monitor.  It will take all the information minus the character you put into the box.  In our example, you sent "ON\|" to the Arduino, but the value of the variable is "ON".  It chopped off the "\|" character.  
-
-![Read Until String](/images/arduino-block/lesson-2/read_until_character.png) 
+This block will take the data you send from the serial monitor.  It will receive all the information minus the character you put into the "text" block.  In our example, you sent "ON\|" to the Arduino, but the value stored in the variable is "ON".  It chopped off the "\|" character.  
 
 ### Serial Print
 
-This block will send a message from your Arduino to your computer.  It will output that message in the "Serial Monitor".  The text block that you put into it will determine the message that it sends.
+This block will send a message from your Arduino to your computer.  It will output that message in the "Serial Monitor".  The "text" block that you put into it will determine the message that it sends.
 
 ![Read Until String](/images/arduino-block/lesson-2/serial-print.png) 
 
