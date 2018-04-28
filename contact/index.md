@@ -5,6 +5,8 @@ excerpt: "Contact Us."
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
+Email me at glaserpower [@] gmail.com or fill out the form below. 
+
 <form method="POST" action="http://formspree.io/glaserpower@gmail.com">
   <div class="form-group">
       <label for="email">Email address</label>
