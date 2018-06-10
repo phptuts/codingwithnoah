@@ -2,7 +2,7 @@
 layout: page
 title: Bristlebots
 excerpt: "How to build your own bristlebots."
-modified: 2018-06-04
+modified: 2018-06-09
 ---
 
 ## Objective

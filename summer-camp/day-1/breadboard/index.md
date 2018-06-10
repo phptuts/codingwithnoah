@@ -2,7 +2,7 @@
 layout: page
 title: Breadboard
 excerpt: "Build your own breadboard."
-modified: 2018-06-04
+modified: 2018-06-09
 ---
 
 ## Objective
@@ -17,7 +17,6 @@ To learn how breadboards work.
 ## Completed Project
 
 ![Breadboard](/images/summer-camp/day-1/breadboard/completed.jpg)
-
 
 ## Bill of Materials 
 
