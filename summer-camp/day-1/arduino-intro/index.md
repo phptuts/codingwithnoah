@@ -12,7 +12,7 @@ modified: 2018-06-04
 
 ## Bill of Materials 
 
-- 1 x Arduino with cable 
+- 1 x Arduino with cable  ($7.00) ish
 
 ### What is an Arduino?
 

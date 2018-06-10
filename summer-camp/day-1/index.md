@@ -21,8 +21,4 @@ modified: 2018-05-21
 
 ### 7) [Servos Intro](servos) 1 hour
 
-### 8) [High Five Machine](high-five) 30 minutes
-
-### 9) [Slow High Five](slow-high-five) 30 minutes
-
 Just have fun with it. :)

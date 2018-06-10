@@ -5,11 +5,15 @@ excerpt: "Human circuit learn about the flow of electricity."
 modified: 2018-06-04
 ---
 
+## Objective
+
+To learn about how electricity works with batteries, led, and resistors.
+
 ## Project Kit
 
 ![Project Kit](/images/summer-camp/day-1/human-circuit/project.jpg)
 
-## Human Circuit Demo
+## Completed Project
 
 ![Human Circuit](/images/summer-camp/day-1/human-circuit/what-it-looks-like.jpg)
 
@@ -21,20 +25,22 @@ modified: 2018-06-04
 - 1 x led ($.09)
 - total $5.93 
 
-## Led
+## New Electrical Components 
+
+### Led
 
 The led stands for light emitting diode.  The important thing to note is the wires connected to it.  The long wire is the positive and the short wire is the negative.  When you pass electricity through it, it will emit light.
 
 ![Led](/images/summer-camp/day-1/human-circuit/led.jpg)
 
-## Resistor
+### Resistor
 
 The resistor is used to decrease the amount of electrons flowing through the wire.  The strength of the resistor is determine by the colors of the bands.  You can use the [calculator](https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/) to learn more.
 
 ![Resistor](/images/summer-camp/day-1/human-circuit/resistor.jpg)
 
 
-## Battery
+### Battery
 
 The battery is power source of a circuit.  All batteries have a positive side and a negative side.  Electricity will flow from the positive side to the negative side (ground).  The reason we diagram things out this way is because the standard was set in the 1800's and we would have to change everything in order to fix it.
 
