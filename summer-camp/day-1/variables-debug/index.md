@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Variables & Debugging
-excerpt: "How to create a variables and messaging."
+excerpt: "How to create a variables and debug."
 modified: 2018-06-10
 ---
 
 ## Objective
 
-To learn how to create variables and use the debugger to print the variables.
+To learn how to create & use variables. To learn hwo to use the debugger to print the variables.
 
 ## Project Kit
 

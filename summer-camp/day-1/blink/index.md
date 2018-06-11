@@ -77,7 +77,7 @@ Challenge 6) Have fun and make your own led light patterns.
 
 ## Review 
 
-Have a conversation about what we learned. :)
+Have a conversation about what we learned. :)  Keep the breadboard setup like you had it before.  
 
 
 
