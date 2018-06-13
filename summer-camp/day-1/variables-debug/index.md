@@ -9,7 +9,7 @@ modified: 2018-06-10
 
 To learn how to create & use variables. To learn hwo to use the debugger to print the variables.
 
-## Project Kit
+## Kit
 
 ![Arduino Project Kit](/images/summer-camp/day-1/variables-debug/project.jpg)
 

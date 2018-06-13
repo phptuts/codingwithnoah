@@ -9,7 +9,7 @@ modified: 2018-06-10
 
 To learn how to send messages from the computer to Arduino and from the Arduino to the computer.  The camper should be able to use "If" block and act on the messages.
 
-## Project Kit
+## Kit
 
 ![Project](/images/summer-camp/day-1/blink/project.jpg)
 

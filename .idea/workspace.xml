@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed925eb5-c7ba-4d73-bab6-38ee5c86172f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/messaging.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/summer-camp/day-1/if-blocks/internal-led-on.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/complete.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summer-camp/day-1/if-blocks/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summer-camp/day-1/messaging/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/upload-1.png" afterPath="$PROJECT_DIR$/images/upload-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summer-camp/day-1/blink/index.md" afterPath="$PROJECT_DIR$/summer-camp/day-1/blink/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summer-camp/day-1/index.md" afterPath="$PROJECT_DIR$/summer-camp/day-1/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summer-camp/day-3/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summer-camp/day-2/wave/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summer-camp/day-2/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summer-camp/day-2/highfive/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summer-camp/day-2/utra-sonic-sensor/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summer-camp/day-2/timing/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summer-camp/day-2/servos-intro/index.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/summer-camp/robot-day-2/index.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summer-camp/day-1/variables-debug/index.md" afterPath="$PROJECT_DIR$/summer-camp/day-1/variables-debug/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summer-camp/day-1/messaging/index.md" afterPath="$PROJECT_DIR$/summer-camp/day-1/messaging/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summer-camp/day-1/breadboard/index.md" afterPath="$PROJECT_DIR$/summer-camp/day-1/breadboard/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summer-camp/day-1/bristlebots/index.md" afterPath="$PROJECT_DIR$/summer-camp/day-1/bristlebots/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summer-camp/day-1/arduino-intro/index.md" afterPath="$PROJECT_DIR$/summer-camp/day-1/arduino-intro/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summer-camp/day-1/blink/index.md" afterPath="$PROJECT_DIR$/summer-camp/day-1/blink/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summer-camp/day-1/human-circuit/index.md" afterPath="$PROJECT_DIR$/summer-camp/day-1/human-circuit/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,25 +35,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/summer-camp/day-1/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/summer-camp/day-1/blink/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="42" column="54" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -56,11 +49,11 @@
         </entry>
       </file>
       <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/summer-camp/day-1/variables-debug/index.md">
+        <entry file="file://$PROJECT_DIR$/summer-camp/day-2/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="555">
-                <caret line="171" column="0" lean-forward="false" selection-start-line="171" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+              <first_editor relative-caret-position="315">
+                <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -68,12 +61,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/summer-camp/day-1/if-blocks/index.md">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/summer-camp/day-3/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="660">
-                <caret line="40" column="15" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+              <first_editor relative-caret-position="15">
+                <caret line="9" column="127" lean-forward="false" selection-start-line="9" selection-start-column="127" selection-end-line="9" selection-end-column="127" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -81,39 +74,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/summer-camp/day-1/messaging/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="604">
-                <caret line="122" column="43" lean-forward="false" selection-start-line="122" selection-start-column="43" selection-end-line="122" selection-end-column="43" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="internal-led-on.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/internal-led-on.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/project.jpg">
+      <file leaf-file-name="3953273590_704e3899d5_m.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/3953273590_704e3899d5_m.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/summer-camp/day-1/human-circuit/index.md">
+        <entry file="file://$PROJECT_DIR$/summer-camp/day-2/timing/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="195">
-                <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <first_editor relative-caret-position="1155">
+                <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/summer-camp/day-1/breadboard/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="300">
+                <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/summer-camp/day-1/arduino-intro/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/summer-camp/day-2/utra-sonic-sensor/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/summer-camp/day-2/wave/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -125,7 +150,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>entry-content</find>
       <find>entry-meta</find>
       <find>Theme Setup</find>
       <find>form-group</find>
@@ -155,6 +179,7 @@
       <find>15</find>
       <find>#</find>
       <find>student</find>
+      <find>servos/</find>
     </findStrings>
     <replaceStrings>
       <replace>images/arduino/</replace>
@@ -163,6 +188,8 @@
       <replace>Arduino</replace>
       <replace>Number of Frames</replace>
       <replace>camper</replace>
+      <replace>servos-intro</replace>
+      <replace>servos-intro/</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/_posts</dir>
@@ -178,15 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_data/navigation.yml" />
-        <option value="$PROJECT_DIR$/arduino-blockly/lesson-1-input-output.md" />
-        <option value="$PROJECT_DIR$/arduino-blockly/lesson-1-input-output/lesson-1-input-output.md" />
-        <option value="$PROJECT_DIR$/arduino/index.md" />
-        <option value="$PROJECT_DIR$/arduino-blockly/lesson-1-input-output/index.md" />
-        <option value="$PROJECT_DIR$/arduino-blockly-start/index.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-2-input/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-3-serial-monitor-challenge/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-3-guessing-game/index.md" />
@@ -217,18 +235,27 @@
         <option value="$PROJECT_DIR$/assets/css/main.scss" />
         <option value="$PROJECT_DIR$/summer-camp/01-highfive/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/robot-day-2/index.md" />
-        <option value="$PROJECT_DIR$/summer-camp/day-1/human-circuit/index.md" />
-        <option value="$PROJECT_DIR$/summer-camp/day-1/arduino-intro/index.md" />
-        <option value="$PROJECT_DIR$/summer-camp/day-1/breadboard/index.md" />
-        <option value="$PROJECT_DIR$/summer-camp/day-1/bristlebots/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/day-1/variables/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/day-1/variables-messaging/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/day-1/if-statements/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/day-1/if-blocks/index.md" />
-        <option value="$PROJECT_DIR$/summer-camp/day-1/blink/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-1/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-2/servos/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-2/utra-sonic-sensor/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-2/servos-intro/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-2/highfive/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/day-1/variables-debug/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/day-1/messaging/index.md" />
-        <option value="$PROJECT_DIR$/summer-camp/day-1/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-1/human-circuit/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-1/bristlebots/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-1/breadboard/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-1/blink/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-1/arduino-intro/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-2/wave/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-2/mini-golf/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-2/timing/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-2/index.md" />
+        <option value="$PROJECT_DIR$/summer-camp/day-3/mini-golf/index.md" />
       </list>
     </option>
   </component>
@@ -245,7 +272,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="817" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -266,7 +293,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -307,7 +333,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day-1" />
+              <option name="myItemId" value="day-5" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -325,11 +351,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day-1" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="variables-debug" />
+              <option name="myItemId" value="day-4" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,11 +369,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day-1" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="messaging" />
+              <option name="myItemId" value="day-3" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -369,33 +387,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day-1" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="if-blocks" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="summer-camp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day-1" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blink" />
+              <option name="myItemId" value="day-2" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -428,62 +420,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="summer-camp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day-1" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="summer-camp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day-1" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="messaging" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="summer-camp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day-1" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blink" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -503,6 +439,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -517,18 +454,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/summer-camp/day-2" />
+      <recent name="$PROJECT_DIR$/images/summer-camp/day-2" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/images/summer-camp/day-1/messaging" />
       <recent name="$PROJECT_DIR$/images/summer-camp/day-1/if-blocks" />
-      <recent name="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug" />
-      <recent name="$PROJECT_DIR$/images/arduino-block/lesson-10" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/summer-camp/day-1" />
-      <recent name="$PROJECT_DIR$/images/summer-camp/day-1/breadboard" />
-      <recent name="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro" />
-      <recent name="$PROJECT_DIR$/images/summer-camp/01-highfive" />
-      <recent name="$PROJECT_DIR$/images/arduino-blockly-ide-setup" />
+      <recent name="$PROJECT_DIR$/summer-camp/day-3" />
+      <recent name="$PROJECT_DIR$/summer-camp/day-4" />
+      <recent name="$PROJECT_DIR$/images/summer-camp/day-3" />
+      <recent name="$PROJECT_DIR$/images/summer-camp/day-2/mini-golf" />
+      <recent name="$PROJECT_DIR$/images/summer-camp/day-2/wave" />
     </key>
   </component>
   <component name="RunManager">
@@ -696,18 +633,20 @@
       <workItem from="1526947245007" duration="2185000" />
       <workItem from="1528085508491" duration="925000" />
       <workItem from="1528148419411" duration="13799000" />
-      <workItem from="1528589543889" duration="27240000" />
+      <workItem from="1528589543889" duration="27524000" />
+      <workItem from="1528748569767" duration="16050000" />
+      <workItem from="1528843641388" duration="14719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="343670000" />
+    <option name="totallyTimeSpent" value="374723000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="817" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="820" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24652778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24652778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -762,178 +701,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-5-global-variables-push-button/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="314">
-            <caret line="82" column="7" lean-forward="false" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-7-lcd-loops/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="146" column="366" lean-forward="false" selection-start-line="146" selection-start-column="366" selection-end-line="146" selection-end-column="366" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-8-lcd-serial-monitor/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-9-led-matrix-challenge/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="97" column="20" lean-forward="false" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-10-led-light-strip-array/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="384">
-            <caret line="117" column="48" lean-forward="false" selection-start-line="117" selection-start-column="48" selection-end-line="117" selection-end-column="48" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-12-rgb-led-challenges/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2160">
-            <caret line="144" column="351" lean-forward="false" selection-start-line="144" selection-start-column="351" selection-end-line="144" selection-end-column="351" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class-schedule/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="125" lean-forward="false" selection-start-line="9" selection-start-column="125" selection-end-line="9" selection-end-column="125" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-2-serial-monitor/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1545">
-            <caret line="103" column="114" lean-forward="false" selection-start-line="103" selection-start-column="114" selection-end-line="103" selection-end-column="114" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-setup/index.md" />
-    <entry file="file://$PROJECT_DIR$/arduino-blockly-start/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-6-sonar/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2160">
-            <caret line="144" column="1" lean-forward="false" selection-start-line="144" selection-start-column="1" selection-end-line="144" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-11-rfid-arrays/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-13-bluetooth/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1860">
-            <caret line="124" column="77" lean-forward="false" selection-start-line="124" selection-start-column="67" selection-end-line="124" selection-end-column="77" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="343" lean-forward="false" selection-start-line="10" selection-start-column="343" selection-end-line="10" selection-end-column="343" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="33" column="279" lean-forward="false" selection-start-line="33" selection-start-column="279" selection-end-line="33" selection-end-column="279" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-1-output/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="20" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1485">
           <caret line="99" column="23" lean-forward="false" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -945,17 +716,6 @@
     <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/turn-on-pin-13-part-1.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/summer-camp/robot-day-2/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/arduino.jpg">
@@ -973,7 +733,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -989,32 +748,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/IMG_20180609_195113225.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/IMG_20180609_194032548_LL.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_122.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/bristlebots/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/IMG_20180609_195113225.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/IMG_20180609_194032548_LL.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_122.jpg" />
     <entry file="file://$PROJECT_DIR$/summer-camp/day-1/blink/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1026,41 +762,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/variables-messaging/led-arduino_bb.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/blink/IMG_20180610_083812681_BURST001.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/breadboard/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="229">
-            <caret line="76" column="33" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/variables-messaging/led-arduino_bb.png" />
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/blink/IMG_20180610_083812681_BURST001.jpg" />
     <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/upload-btn.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/arduino-intro/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="79" column="58" lean-forward="false" selection-start-line="79" selection-start-column="58" selection-end-line="79" selection-end-column="58" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/arduino-blockly-ide-setup/index.md">
@@ -1068,7 +774,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="270">
             <caret line="17" column="77" lean-forward="false" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="77" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1079,17 +784,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/human-circuit/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/if-blocks/if-block.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1098,17 +792,6 @@
     <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/internal-led-on.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/if-blocks/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="660">
-            <caret line="40" column="15" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/blink/double-blink.gif">
@@ -1136,12 +819,59 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/blink/index.md">
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="42" column="54" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/servo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/project.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-2/highfive/step_9.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/index.md" />
+    <entry file="file://$USER_HOME$/Desktop/Screen Shot 2018-06-12 at 1.07.36 PM.png" />
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-2/wave/index.md" />
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-2/wave/step_9a.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-2/wave/step_9b.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-2/servos-intro/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-2/highfive/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -1150,9 +880,8 @@
     <entry file="file://$PROJECT_DIR$/summer-camp/day-1/variables-debug/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="555">
-            <caret line="171" column="0" lean-forward="false" selection-start-line="171" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -1161,19 +890,136 @@
     <entry file="file://$PROJECT_DIR$/summer-camp/day-1/messaging/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="604">
-            <caret line="122" column="43" lean-forward="false" selection-start-line="122" selection-start-column="43" selection-end-line="122" selection-end-column="43" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/if-blocks/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="80" lean-forward="false" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="80" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/human-circuit/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/bristlebots/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/blink/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/index.md">
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-2/utra-sonic-sensor/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-2/timing/index.md" />
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-2/wave/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/arduino-intro/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/3953273590_704e3899d5_m.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_21-show.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-2/timing/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1155">
+            <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-1/breadboard/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-2/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summer-camp/day-3/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="9" column="127" lean-forward="false" selection-start-line="9" selection-start-column="127" selection-end-line="9" selection-end-column="127" />
             <folding />
           </first_editor>
           <second_editor />

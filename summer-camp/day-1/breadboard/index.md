@@ -9,7 +9,7 @@ modified: 2018-06-09
 
 To learn how breadboards work.
 
-## Project Kit
+## Kit
 
 ![kit](/images/summer-camp/day-1/breadboard/kit.jpg)
 

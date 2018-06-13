@@ -9,7 +9,7 @@ modified: 2018-06-04
 
 To learn about how electricity works with batteries, led, and resistors.
 
-## Project Kit
+## Kit
 
 ![Project Kit](/images/summer-camp/day-1/human-circuit/project.jpg)
 

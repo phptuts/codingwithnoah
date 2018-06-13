@@ -5,7 +5,7 @@ excerpt: "An intro to the Arduino."
 modified: 2018-06-04
 ---
 
-## Project Kit
+## Kit
 
 ![Project](/images/summer-camp/day-1/arduino-intro/project.jpg)
 

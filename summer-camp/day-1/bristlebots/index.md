@@ -9,7 +9,7 @@ modified: 2018-06-09
 
 To learn about dc motors and to build a cool robot without a brain.
 
-## Project Kit
+## Kit
 
 ![Project Kit](/images/summer-camp/day-1/bristlebots/project.jpg)
 

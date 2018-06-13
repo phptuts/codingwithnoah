@@ -9,7 +9,7 @@ modified: 2018-06-10
 
 To learn about the delay block and how to blink an led outside of the Arduino.
 
-## Project Kit
+## Kit
 
 ![Project](/images/summer-camp/day-1/blink/project.jpg)
 
@@ -26,7 +26,7 @@ To learn about the delay block and how to blink an led outside of the Arduino.
 - 2 x resistors
 - 4 x wires
 
-##  Beginner Challenges 
+## Beginner Challenges 
  
 Challenge 1) Based on what you have learned about the digital write block & breadboards build a circuit and make the led turn on.  Have an instructor approve your work. 
 
