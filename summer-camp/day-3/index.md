@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Day 3 Build a  mini golf
+title: Day 3 Build a mini golf hole.
 excerpt: "Build your own mini golf course."
 modified: 2018-06-12
 ---
