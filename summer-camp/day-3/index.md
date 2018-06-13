@@ -180,6 +180,10 @@ Hint Use an "If" block to to see if cm variable is over 20.  If it is then you c
 
 ![step 31](/images/summer-camp/day-3/mini-golf/step_32.jpg)
 
+## Easier Challenge
+
+Use another Arduino to control the servo.  Use a delay block and a for loop to make the servo go back and worth.  If you have trouble check out the [wave](/summer-camp/day-2/wave) lesson.  It should look similar to the super challenge.
+
 ## Super Challenge
 
 
