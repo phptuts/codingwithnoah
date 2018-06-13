@@ -141,14 +141,6 @@ To put together everything we have learned about if blocks, variables, servos, t
 
 ![step 25](/images/summer-camp/day-3/mini-golf/step_25c.jpg)
 
-## Challenge
-
-Attach the servo you just wired up to a separate box.  Then write some code that will make the hand move up if their is a ball in the whole for 8 second and then move it back down.  
-
-![challenge 1](/images/summer-camp/day-3/mini-golf/challenge-1.gif)
-
-Hint Use an "If" block to to see if cm variable is over 20.  If it is then you can say that the ball is in the whole and move servo.
-
 26) Attach the servo hand to a small box outside of the course.
 
 ![step 26](/images/summer-camp/day-3/mini-golf/step_26.jpg)
@@ -166,6 +158,15 @@ Hint Use an "If" block to to see if cm variable is over 20.  If it is then you c
 ![step 29](/images/summer-camp/day-3/mini-golf/step_29.jpg)
 
 ![step 29](/images/summer-camp/day-3/mini-golf/step_29-review.jpg)
+
+## Challenge
+
+Then write some code that will make the hand move up if their is a ball in the whole for 8 second and then move it back down.  
+
+![challenge 1](/images/summer-camp/day-3/mini-golf/challenge-1.gif)
+
+Hint Use an "If" block to to see if cm variable is over 20.  If it is then you can say that the ball is in the whole and move servo.
+
 
 30) Cut a medium size box so that it looks like what you see in the picture.
 
