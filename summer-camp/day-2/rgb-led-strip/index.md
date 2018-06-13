@@ -1,8 +1,8 @@
 ---
 layout: page
 title: RGB Leds
-excerpt: "How to use a ultra sonic sensor to give an automatic high five."
-modified: 2018-06-12
+excerpt: "How to control a rbg led light strip."
+modified: 2018-06-13
 ---
 
 ## Objective
@@ -17,7 +17,6 @@ To learn about how to create colors with rgb model and how to control an rgb lig
 
 ![complete](/images/summer-camp/day-2/rbg-led-strip/challenge-1.jpg)
 
- 
 ## Bill of Materials 
 
 - 1 x Arduino 
@@ -83,14 +82,14 @@ This block is used to set the individual colors of the led.  Important thing to 
 
 Make all the leds light up blue.  Hint: Use a count with block and the "i" variable's value as the position of the led.  You will need to start at 0 and go to number of leds minus one.  For example if you have 60 leds you need count from 0 to 59.
 
-![step 7](/images/summer-camp/day-2/rbg-led-strip/challenge-2.jpg)
+![challenge 1](/images/summer-camp/day-2/rbg-led-strip/challenge-1.jpg)
 
 
 ## Challenge 2
 
 Create a rainbow.  Hint you multiple count with  loops.  Check out this [website](https://eo.ucar.edu/kids/sky/colors1.htm) for rainbow color.
 
-![challenge 1](/images/summer-camp/day-2/rbg-led-strip/challenge-1.jpg)
+![challenge 2](/images/summer-camp/day-2/rbg-led-strip/challenge-2.jpg)
 
 
 ## Challenge 3
