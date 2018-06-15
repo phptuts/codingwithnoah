@@ -2,7 +2,7 @@
 layout: page
 title: Arduino and Motor Shield (L293P)
 excerpt: "How to make a happy face spin with an Arduino and a motor shield."
-modified: 2018-06-13
+modified: 2018-06-14
 ---
 
 ## Objective
