@@ -17,6 +17,12 @@ To learn how to control a motor with the Arduino.  Campers will learn how to sen
 
 ![step 11](/images/summer-camp/day-4/motor/step_11.gif)
 
+## Bill of Materials 
+
+- 1 x motor shield (L293P)
+- 1 x Arduino
+- 1 x motor
+- 1 x paper plate
 
 ## What is a motor shield?
 

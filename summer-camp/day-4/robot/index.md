@@ -5,6 +5,27 @@ excerpt: "To learn how to build an Arduino robot and control it with functions."
 modified: 2018-06-14
 ---
 
+## Objective
+
+The campers we'll learn how to create their own blocks / functions in order to control the robot.
+
+## Project Kit
+
+Todo take pic
+
+## Completed Project
+
+Todo take pic
+
+## Bill of Materials 
+
+- 1 x Robot kit
+- 1 x Arduino
+- 1 x Motor Shield
+- 1 x 9 volt battery
+- 1 x 9 volt battery jack
+- 1 x ultra sonic sensor
+
 ## Instructions
 
 1) Take the metal bar place it next to motor like the picture.  Be sure that the plastic circle is on the side of the metal piece.
@@ -56,4 +77,88 @@ modified: 2018-06-14
 ![step 11](/images/summer-camp/day-4/robot/step_11b.jpg)
 
 12) Attach the motor shield to the Arduino.
+
+![step 12](/images/summer-camp/day-4/robot/step_12.jpg)
+
+13) Attach the motor wires to the A motor of the the motor shield.  Now put that side up, this should be left wheel when your robot is facing away from you.
+
+![step 13](/images/summer-camp/day-4/robot/step_13.jpg)
+
+14) Now flip the robot on that side.
+
+![step 14](/images/summer-camp/day-4/robot/step_14.jpg)
+
+15) Drag a create function block to the screen.  Rename the block "left wheel forward".
+
+![step 15](/images/summer-camp/day-4/robot/step_15a.png)
+
+![step 15](/images/summer-camp/day-4/robot/step_15b.png)
+
+16) Create a parameter / value the block will take.  Call that the name of it speed.
+
+![step 16](/images/summer-camp/day-4/robot/step_16a.png)
+
+![step 16](/images/summer-camp/day-4/robot/step_16b.png)
+
+17) Drag a digital write block inside the function block you are creating.
+
+![step 17](/images/summer-camp/day-4/robot/step_17.png)
+
+18) Drag a analog write block inside the function you are creating.
+
+![step 18](/images/summer-camp/day-4/robot/step_18.png)
+
+19) Set it to use pin 10 and for the number use the speed variable.  You can use the regular "Get Variable" block to get the speed variable.
+
+![step 19](/images/summer-camp/day-4/robot/step_19.png)
+
+20) Open the function menu and notice the "left wheel forward" block
+
+![step 20](/images/summer-camp/day-4/robot/step_20.png#img-phone)
+
+21) Create this piece of code.  This will use your block.
+
+![step 21](/images/summer-camp/day-4/robot/step_21.png#img-phone)
+
+22) Upload the code and make sure the wheel is going clockwise.  I had to adjust my code from "high" to "low" for the forward wheel. 
+
+![step 22](/images/upload-1.png)
+
+Wrong
+
+![step 22](/images/summer-camp/day-4/robot/step_22b.gif)
+
+Right
+
+![step 22](/images/summer-camp/day-4/robot/step_22c.gif)
+
+23) Connect the battery to the robot and tape it to the robot.
+
+TODO take pic
+
+## Challenge 1
+
+Create a function block that will make the robot go backwards.  Call it "left wheel backwards".
+
+## Challenge 2
+
+Connect the other side of the robot and make 2 functions for the right wheel.  You the table in the [previous lesson](/summer-camp/day-4/motor) to help you determine which pins to use.
+
+## Challenge 3
+
+Create a stop function with the blocks / functions you have already created.  Be sure the function is below all the other functions.
+
+Hint: Stopping is the same as putting the speed to 0.
+
+## Challenge 4
+
+Create forward and backward blocks that will spin both wheels.  In order to do this you will have to see how off your robot is.  You will need to see if you make it go straight by making one side have more power then the other.
+
+## Challenge 5
+
+Create Right and Left blocks.  Here you will have to use the delay block and time how long it takes the robot to turn right.  
+
+## Challenge 6
+
+Connect a ultra sonic sensor to the robot to sense distance.  Use pins 2 and 4 for the trig and echo pins.  This is just if you finish every super fast.
 
