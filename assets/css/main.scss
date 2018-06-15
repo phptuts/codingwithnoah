@@ -99,4 +99,7 @@ img {
 img[src$='#img-phone'] { width: auto; }
 img[src$='#img-main-gif'] { width: auto; margin: 0 auto; display: block; }
 
-
+h2 a, h2 a:visited, h2 a:hover, h3 a, h3 a:visited, h3 a:hover {
+  text-decoration: underline;
+  color: darkblue;
+}
