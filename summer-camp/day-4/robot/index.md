@@ -15,7 +15,7 @@ Todo take pic
 
 ## Completed Project
 
-Todo take pic
+![complete](/images/summer-camp/day-4/robot/complete.jpg)
 
 ## Bill of Materials 
 
@@ -25,6 +25,23 @@ Todo take pic
 - 1 x 9 volt battery
 - 1 x 9 volt battery jack
 - 1 x ultra sonic sensor
+
+## Create Custom Block 
+
+This allows you to create custom blocks.  The reason you would want to do this is so that you don't have to repeat yourself.  For example say it took 10 blocks to make a right turn with the robot.  You would not want to have to use 10 blocks every time you wanted to turn right?
+
+The red box is the name of the block you are creating.
+
+![create block](/images/summer-camp/day-4/robot/create-block.png#img-phone)
+
+Blocks you create can take in variables and act on them.  An example would be a forward block taking in the speed that you want the block you created to use when controlling the motor.  Right now the only types of variables the function can take are whole number (int) variables.  You can create variables that are required by clicking on the gear of the block in the top left corner.
+
+![create block](/images/summer-camp/day-4/robot/create-block-gear.png#img-phone)
+
+You can use the blocks you create.  They are found in the "functions menu."
+
+![functions menu](/images/summer-camp/day-4/robot/functions-menu.png#img-phone)
+
 
 ## Instructions
 
@@ -124,17 +141,23 @@ Todo take pic
 
 ![step 22](/images/upload-1.png)
 
-Wrong
+Right
 
 ![step 22](/images/summer-camp/day-4/robot/step_22b.gif)
 
-Right
+Wrong
 
 ![step 22](/images/summer-camp/day-4/robot/step_22c.gif)
 
-23) Connect the battery to the robot and tape it to the robot.
+23) Connect the 9 volt battery to the battery jack.
 
-TODO take pic
+![step 23](/images/summer-camp/day-4/robot/step_23.jpg)
+
+24) Attach the battery to the robot with tape.
+
+![step 24](/images/summer-camp/day-4/robot/step_24a.jpg)
+
+![step 24](/images/summer-camp/day-4/robot/step_24b.jpg)
 
 ## Challenge 1
 
@@ -154,9 +177,13 @@ Hint: Stopping is the same as putting the speed to 0.
 
 Create forward and backward blocks that will spin both wheels.  In order to do this you will have to see how off your robot is.  You will need to see if you make it go straight by making one side have more power then the other.
 
+Hint: Load the program onto the robot with the 9 volt battery unplugged.  Once the robot is on the ground plug the 9 volt battery back in.
+
 ## Challenge 5
 
 Create Right and Left blocks.  Here you will have to use the delay block and time how long it takes the robot to turn right.  
+
+Hint: Load the program onto the robot with the 9 volt battery unplugged.  Once the robot is on the ground plug the 9 volt battery back in.
 
 ## Challenge 6
 

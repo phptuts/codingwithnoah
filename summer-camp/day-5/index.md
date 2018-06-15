@@ -18,3 +18,5 @@ To learn have fun with robots.  This is a fun / review day.
 - Would like to do this for living when you get older?
 
 ## If we have time we'll do a live session / code along on lcd screens or rfid, your choice. :)
+
+## We can also do challenge 6 of day 4 if you guys want. :)
