@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Classes
+title: Summer Camp Classes
 excerpt: "Summer Camp."
 search_omit: true
 ---
