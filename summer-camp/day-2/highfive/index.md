@@ -2,7 +2,7 @@
 layout: page
 title: HighFive Machine
 excerpt: "How to control a servo with a push button."
-modified: 2018-06-12
+modified: 2018-06-15
 ---
 
 ## Objective
@@ -11,20 +11,19 @@ To learn how to use a pull-up resistor and push button to control a servo.
 
 ## Kit
 
-![complete](/images/summer-camp/day-2/highfive/project.jpg)
-
+![kit](/images/summer-camp/day-2/highfive/project.jpg)
 
 ## Completed Project
 
 ![complete](/images/summer-camp/day-2/highfive/complete.gif)
 
-
 ## Bill of Materials 
 
-- 1 x Arduino 
-- 1 x servo
-- 3 x m to m wire
-- 1 x push button
+- 1 x Arduino with usb  ($7.00) 
+- 1 x Servo ($1.57)
+- 3 x m to m wire ($0.13)
+- 1 x push button ($1.40)
+- total ($10.10)
 
 ## What is a push button?
 
@@ -34,17 +33,15 @@ A push button is a switch that allows electricity to go through it when the butt
 
 ## What is a pull-up resistor?
 
-A pull up resistor will default the Arduino pin to read that high.  But when attached to ground it will read that nothing is passing through it.  The reason we want to use this is because it reduces electronic noise.  Each pin that has a number should have a pull-up resistor attached to it.
+A pull up resistor will default the Arduino pin to read that the pin has electricity running through it.  But when attached to ground it will read that no electricity is passing through it.  Each pin that has a number next to it, should have a pull-up resistor attached to it.  The advantage of this is that electronic noise caused by cell phones and other devices will not interfere with the circuit.
 
 ![pull resistor](/images/summer-camp/day-2/highfive/pullup-resistor.jpg#img-phone)
 
-
 ## Pull-up Resistor Block
 
-This block is used to turn on the pull-up resistor. It will read 0 if the pull-up resistor is connected to ground and 1 if the resistor is not connected to ground. In the world of the Arduino 0 is false and 1 is true.  This is not true for all languages.
+This block is used to turn on the pull-up resistor and return information about the electricity going through the pin. It will return 0 if the pull-up resistor is connected to ground and 1 if the resistor is not connected to ground. In the world of the Arduino 0 is false and 1 is true.  *This is not true for all languages.*
 
 ![pull resistor block](/images/summer-camp/day-2/highfive/pullup-resistor-block.png)
-
 
 ## Instructions
 
@@ -56,11 +53,11 @@ This block is used to turn on the pull-up resistor. It will read 0 if the pull-u
 
 ![step_2](/images/summer-camp/day-2/highfive/step_2.png)
 
-3) Connect the "Set Variable" block to the bottom of the block chain.  Set the "Set Variable" block to use btn variable.
+3) Connect the "Set Variable" block to the bottom of the blocks.  Set the "Set Variable" block to use btn variable.
 
 ![step_3](/images/summer-camp/day-2/highfive/step_3.png)
 
-4) Connect the the "pullup resistor" block to the "Set Variable" block.  Set the "pullup resistor" block to use pin 4.
+4) Connect the the "pull-up resistor" block to the "Set Variable" block.  Set the "pull-up resistor" block to use pin 4.
 
 ![step_4](/images/summer-camp/day-2/highfive/step_4a.png#img-phone)
 
@@ -77,7 +74,7 @@ This block is used to turn on the pull-up resistor. It will read 0 if the pull-u
 7) Open the debug menu and notice that boolean variable equals 1 or true.
 
 
-8) Push the push button, then click on the continue button on the top right of the screen.
+8) Push the push button down while clicking on the continue button on the top right of the screen.
 
 ![step_8](/images/summer-camp/day-2/highfive/step_8.png)
 
@@ -87,22 +84,23 @@ This block is used to turn on the pull-up resistor. It will read 0 if the pull-u
 
 ## Challenge
 
-Take some cardboard and cut out a highfive hand and attach it to the servo with some tape.  Make it so that when you push the button the servo rotate and rotate back. 
+Take some cardboard and cut out a highfive hand and attach it to the servo with some tape.  Make it so that when you push the button the servo rotate 180 degrees and come back to 0 degrees. 
 
 Hints:
 
 - Tape the servo to the table
-- For the piece of card that is rotating the hand, place it in the middle
-- Compare the variable storing the btn press to a 0 or false value.
+- For the piece of cardboard that is rotating the hand, put half or more of the arm in the middle.
+- Compare the variable storing the btn press to a 0 or false value in the if block.
 - You don't have to make it a hand, do whatever you think is cool to rotate.
 
 ![complete](/images/summer-camp/day-2/highfive/complete.gif)
 
-
 ## Review
 
-Keep the project in tack, but take out the button.
-
+- What does a pull-up block read when the button is pressed and the button is not pressed?
+- What are the advantages of a pull-up resistor.
+- When does a push button allow electricity to go through it?
+- What did you learn?
 
 
 

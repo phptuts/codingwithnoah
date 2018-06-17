@@ -19,4 +19,4 @@ Team up in groups of 4 to 5 and come up with a dance routine for the robots.  We
 
 ## Come up with your own competition
 
-Camp counselor must approve the competition and it will be decided with a vote.
+Instructors must approve the competition and it will be decided with a vote.

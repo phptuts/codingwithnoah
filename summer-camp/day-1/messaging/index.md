@@ -7,7 +7,7 @@ modified: 2018-06-10
 
 ## Objective
 
-To learn how to send messages from the computer to Arduino and from the Arduino to the computer.  The camper should be able to use "If" block and act on the messages.
+To learn how to send messages from the computer to Arduino and from the Arduino to the computer.  To learn how to react to messages sent from the computer to the Arduino.
 
 ## Kit
 
@@ -20,32 +20,31 @@ To learn how to send messages from the computer to Arduino and from the Arduino 
 
 ## Bill of Materials 
 
-- 1 x Arduino with usb
-- 1 x breadboard
-- 2 x led
-- 2 x resistors
-- 4 x wires
+- 1 x Arduino with usb  ($7.00) 
+- 1 x breadboard ($2.80)
+- 2 x led ($.06)
+- 2 x resistors ($.08)
+- 4 x wires ($.04)
+- total ($9.98)
 
 ## USB (Universal Serial Port)
 
+A usb is a cable that will connect an external device to your computer.  Universal means that it will connect most devices to your computer.  Serial means that it will send 0 and 1 one at a time over one piece of wire.  Port in computers lingo means a line of communication for the computer to communicate with the outside world.
+
 ![USB](/images/summer-camp/day-1/messaging/usb.png)
 
+## Serial Print Block
 
-## New Blocks
-
-### Serial Print Block
-
-This block is used to send messages from your Arduino to your computer.  It can print a variable or a text value.
+This block is used to send messages from your Arduino to your computer.  
 
 ![Serial Print](/images/summer-camp/day-1/messaging/serial-print-block.png)
 
 
-### Read until one character Block
+## Read until one character Block
 
-This block is used to create text values from the messages you send from your computer to the Arduino.
+This block is used to get text values from the messages you send from your computer to the Arduino.
 
 ![Read until one character](/images/summer-camp/day-1/messaging/read-until-one-character.png)
-
 
 ## How to have the Arduino send a message you your computer.
 
@@ -57,7 +56,6 @@ This block is used to create text values from the messages you send from your co
 
 
 2) Attach a Delay block to the bottom of the "Serial Print" block
-
 
 ![Step 2](/images/summer-camp/day-1/messaging/step_2.png)
 
@@ -72,7 +70,7 @@ This block is used to create text values from the messages you send from your co
 ![Messaging Dialog Box](/images/summer-camp/day-1/messaging/messaging.png)
 
 
-## How to turn on led 1 by sending a message to your computer.
+## Controlling an led through messaging.
 
 1) Connect the led wires to pin 7 and pin 8 of the Arduino, like you did in the blink project.
 
@@ -115,12 +113,19 @@ This block is used to create text values from the messages you send from your co
 ![led one on](/images/summer-camp/day-1/messaging/complete.jpg)
 
 
-## Review (before the challenge)
+## Challenge 
 
-## Challenge add to code to make that will allow you to control both leds.
+Add to code to make that will allow you to control both leds.
 
 - "led 1 on" => led connected to pin 7 on
 - "led 1 off" => led connected to pin 7 off
 - "led 2 on" => led connected to pin 8 on
 - "led 2 off" => led connected to pin 8 off
+
+## Review
+
+- Which block is used send messages from the Arduino to your computer?
+- Which block is used to get the messages you send from your computer to the Arduino?
+- What kinds of projects would you like to build off that?
+- What did you learn?
 

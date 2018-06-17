@@ -15,11 +15,11 @@ To learn how to create & use variables. To learn hwo to use the debugger to prin
 
 ## Bill of Materials 
 
-- Arduino & Cable
+- 1 x Arduino with cable  ($7.00) 
 
 ## What is a variable?
 
-Have  a conversation about what a variable is, and the 3 parts of every variable.  
+A variable is a way to store information in the computer so you access it and change it later.  Variables are used to store user input, keep track of scores, hold bank account information, keep track your grades in school, and much more.  Variables are everything and are one the fundamental building blocks of writing code.
 
 ### Variable Parts
 
@@ -32,8 +32,6 @@ Have  a conversation about what a variable is, and the 3 parts of every variable
 Variables names can only have numbers and letters in them.  
 
 ### Variable Data Types
-
-Go over each data type and have a talk about when you would use each one.
 
 - Whole Number (Int)
 - Big Whole Number (Long)
@@ -75,10 +73,6 @@ Go over each data type and have a talk about when you would use each one.
 5) Upload the code
  
 ![step 5](/images/upload-1.png)
-
-![step 5](/images/upload-2.png)
- 
-![step 5](/images/upload-3.png)
  
 6) Notice the debug block is black and highlighted.  This means that the program is paused here.  
 
@@ -92,6 +86,10 @@ Go over each data type and have a talk about when you would use each one.
 
 ## Create Variable Challenge
 
+- Create a text variable named "color" that stores the value of your favorite color.
+- Create a double variable named "temp" that stores the temperature in Nashville.
+- Create a Boolean variable named "I Like Pizza" that stores true if you like pizza and false if you don't.
+
 Hint to create a value for the text variable go to "Text" menu and use the "Text" block.
 
 ![challenge hint](/images/summer-camp/day-1/variables-debug/create-variable-challenge-hint.png#img-phone)
@@ -100,27 +98,29 @@ Hint to create a value for a boolean variable go to the "Logic" menu and get the
 
 ![challenge hint](/images/summer-camp/day-1/variables-debug/create-variable-boolean-hint.png#img-phone)
 
-- Create a text variable named "color" that stores the value of your favorite color.
-- Create a double variable named "temp" that stores the temperature in Nashville.
-- Create a Boolean variable named "I Like Pizza" that stores true if you like pizza and false if you don't.
 
-This is what your debug menu should like once done.  Stop here and see if you can help some else out.  We gonna have a quick review after this.
+This is what your debug menu should like once done.  Stop here and see if you can help some else out.  
 
 ![challenge](/images/summer-camp/day-1/variables-debug/create-variable-challenge-result.png)
 
+### Review
 
-## New Blocks
+- What are the three things that make up a variable?
+- What are the types of data you can store in a variable?
+- What are variables used for?
+- What did you learn?
 
-### Set Variable Block
+
+## Set Variable Block
 
 Changes the value of the variable.  The variable it changes is based on what is selected in the drop down box.  In picture below it will change the "frank age" variable.
 
 ![Set Variable](/images/summer-camp/day-1/variables-debug/set_variable.png#img-phone)
 
 
-### Get Variable Block
+## Get Variable Block
 
-The get variable block get the value of the variable based on the name of the variable in the drop down box.  
+The "get variable" block gets the value of the variable based on the name in the drop down box.  
 
 ![Get Variable](/images/summer-camp/day-1/variables-debug/get_variable.png#img-phone)
 
@@ -135,7 +135,7 @@ The get variable block get the value of the variable based on the name of the va
 
 ![Step](/images/summer-camp/day-1/variables-debug/change-variable-step-2.png)
 
-3) Connect a "Debug" block to bottom of the "variable" block.
+3) Connect a "Debug" block to bottom of the "create variable" block.
 
 ![Step](/images/summer-camp/day-1/variables-debug/change-variable-step-3.png)
 
@@ -171,10 +171,6 @@ The get variable block get the value of the variable based on the name of the va
  
 ![step 5](/images/upload-1.png)
 
-![step 5](/images/upload-2.png)
- 
-![step 5](/images/upload-3.png)
-
 10) Open the "Debug" menu.
 
 ![Step](/images/summer-camp/day-1/variables-debug/change-variable-step-10.png)
@@ -187,13 +183,19 @@ The get variable block get the value of the variable based on the name of the va
 
 12) Click it again and see that when it goes back to the top it goes back to 7.
 
-### Challenge) Create a "Text" variable and change it's value.  Use the debug blocks to see the value change.
+### Challenge
+ 
+Create a "Text" variable and change it's value.  Use the debug blocks to see the value change.
 
-### Review / Conversation about why.
+### Review 
+
+- How can you change the value of a variable?
+- Which block is used get the value of the variable?
+- What did you learn?
 
 ## Global Variables
 
-Global variables are special variables that are created outside of the normal program.  Global variables allow you to keep the value in the variable when it goes back through the loop.
+Global variables are special variables that are created outside of the normal program.  Global variables don't reset when they start over when they go through the loop.
 
 ![Arduino Loop](/images/summer-camp/day-1/variables-debug/arduino-loop.png)
 
@@ -209,4 +211,11 @@ Create this program similar to what you did in the previous steps with a global 
 ![Global Variable Debug](/images/summer-camp/day-1/variables-debug/global-var-3.png)
 
 
-## Recap of everything.  Tell me what you learned.
+## Review
+
+- What is the difference between a global variable and a regular variable?
+- What are the three things every variable must have?
+- When would use a variable?
+- What block is used to change the variables value?
+- How do you get what a variable is storing?
+- What did you learn?

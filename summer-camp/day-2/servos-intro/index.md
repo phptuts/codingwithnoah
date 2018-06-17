@@ -19,46 +19,55 @@ To learn what a servo is and how write code to control it.
 
 ## Bill of Materials 
 
-- 1 x Arduino 
-- 1 x servo
-- 3 x m to m wire
+- 1 x Arduino with usb  ($7.00) 
+- 1 x Servo ($1.57)
+- 3 x m to m wire ($0.13)
+- total ($8.70)
 
 ## What is a Servo?
 
-A servo is a motor that allows you control the exact position or angle of the motor.
+A servo is a motor that allows you control the exact position or angle of the motor rotates.
 
 ![Servo](/images/summer-camp/day-2/servos-intro/servo.jpg)
 
 Servos Wires
 
-- yellow wire => ground wire
+- yellow wire =>  data
 - middle wire => 5 volts
-- brown wire => data 
+- brown wire => ground wire 
 
 ![Servo](/images/arduino-block/lesson-3/step3.jpg)
 
 ## Servo Block
 
-The drop down box controls which pin is the data pin from the Arduino.  The number block attached to the servo block controls at what angle the servo will be.
+The drop down box controls which pin is the data pin from the Arduino.  The number block attached to the servo block controls at what angle the servo will rotate to.
 
 ![Servo Block](/images/summer-camp/day-2/servos-intro/servo_block.png)
+
+## String to Whole Number Block
+
+The "String to Whole Number" block can be found in the math menu.  What it will do is take a piece of text and turn it into a number.  If it can not determine what the number should be it will return 0.
+
+![menu string to num](/images/summer-camp/day-2/servos-intro/string_to_whole_number_menu.png#img-phone)
+
+![string to num example program](/images/summer-camp/day-2/servos-intro/string_to_whole_number_example.png#img-phone)
 
 
 ## Instructions
 
-1) Take a male to male wire from pin 2 of the Arduino to the brown wire of the servo.
+1) Take a m to m wire from pin 2 of the Arduino to the orange wire of the servo.
 
 ![step 1](/images/summer-camp/day-2/servos-intro/step_1.jpg)
 
-2) Take a male to male wire from 5v of the Arduino to middle wire of the servo.
+2) Take a m to m wire from 5v of the Arduino to middle wire of the servo.
 
 ![step 2](/images/summer-camp/day-2/servos-intro/step_2.jpg)
 
-3) Take a male to male wire from ground of the Arduino to orange wire of the servo.
+3) Take a m to m wire from ground of the Arduino to brown wire of the servo.
 
 ![step 3](/images/summer-camp/day-2/servos-intro/step_3.jpg)
 
-4) Open servo menu and drag it onto the workspace.
+4) Open servo menu and drag the servo block onto the workspace.
 
 ![step 4](/images/summer-camp/day-2/servos-intro/step_4a.png#img-phone)
 
@@ -72,7 +81,7 @@ The drop down box controls which pin is the data pin from the Arduino.  The numb
 
 ![step 6](/images/summer-camp/day-2/servos-intro/step_6.png#img-phone)
 
-7) Change the data pin on the block to pin 2 and 180 for the angle, and another delay block.
+7) Connect another servo block to the delay block. Change the data pin on the block to pin 2 and 180 for the angle.  Then add another delay block.
 
 ![step 7](/images/summer-camp/day-2/servos-intro/step_7.png#img-phone)
 
@@ -82,25 +91,19 @@ The drop down box controls which pin is the data pin from the Arduino.  The numb
 
 ![complete](/images/summer-camp/day-2/servos-intro/complete.gif)
 
-## String to Whole Number Block
-
-The "String to Whole Number" block can be found in the math menu.  What it will do is take a piece of text and turn it into a number.  If it can not determine what the number should be it will return 0.
-
-![menu string to num](/images/summer-camp/day-2/servos-intro/string_to_whole_number_menu.png#img-phone)
-
-![string to num example program](/images/summer-camp/day-2/servos-intro/string_to_whole_number_example.png#img-phone)
 
 ## Challenge 
 
 Create a program that will allow you control the servos by typing a number that you will send you using the messaging dialog box.  
 
-Hint:  Make sure that variable storing the data from computer to the arduino is not empty using an if block.  If there is something there then turn the input into a number.  You can make the variable is not empty by using the crossed out equal sign in the compare block.  
+Hint:  Make sure that variable storing the data from computer to the arduino is not empty.  You can do this by using an if block and a compare block.  The compare block should use the not equal sign and compare it to an empty "text" block.
 
 ![Challenge](/images/summer-camp/day-2/servos-intro/challenge.gif#img-phone)
 
 
 ## Review
 
-Keep the project in tact, you'll need it for the next step.
-
+- What is a servo?
+- What can you do with a servo that you can't do with a regular motor?
+- What did you learn?
 

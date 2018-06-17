@@ -2,12 +2,12 @@
 layout: page
 title: Arduino and Motor Shield (L293P)
 excerpt: "How to make a happy face spin with an Arduino and a motor shield."
-modified: 2018-06-14
+modified: 2018-06-15
 ---
 
 ## Objective
 
-To learn how to control a motor with the Arduino.  Campers will learn how to send numbers to the Arduino pins with analog write block.
+To learn how to control a motor with the Arduino.  Students will learn how to send numbers to the Arduino pins with analog write block.
 
 ## Kit
 
@@ -19,10 +19,11 @@ To learn how to control a motor with the Arduino.  Campers will learn how to sen
 
 ## Bill of Materials 
 
-- 1 x motor shield (L293P)
-- 1 x Arduino
-- 1 x motor
-- 1 x paper plate
+- 1 x motor shield (L293P) ($8.66)
+- 1 x Arduino ($7.00)
+- 1 x motor ($2.00)
+- 1 x paper plate ($.03)
+- total ($17.69)
 
 ## What is a motor shield?
 
@@ -56,7 +57,7 @@ The table below shows which pins you need to control.  Use digitalWrite to contr
 
 ## Instructions
 
-1) Lay the Arduino and motor on the table like the picture.  Can you see how the 2 could be connected together?
+1) Lay the Arduino and motorshield on the table like the picture.  Can you see how the 2 could be connected together?
 
 ![step 1](/images/summer-camp/day-4/motor/step_1.jpg)
 
@@ -68,7 +69,7 @@ The table below shows which pins you need to control.  Use digitalWrite to contr
 
 ![step 2c](/images/summer-camp/day-4/motor/step_2c.jpg)
 
-3) Tape your motor to the table.  Your motor may look different but the important thing is that the thing on the that rotates is facing the outside of the table.
+3) Tape your motor to the table.  Your motor may look different but the important thing is that the thing on the side that rotates is facing the outside of the table.
 
 ![step 3](/images/summer-camp/day-4/motor/step_3.jpg)
 
@@ -114,3 +115,10 @@ The table below shows which pins you need to control.  Use digitalWrite to contr
 Change the program and the wiring to use motor b on the motor shield instead of motor a.
 
 ![challenge](/images/summer-camp/day-4/motor/challenge.gif)
+
+## Review
+
+- What does the analog write block do?
+- What is it used for in this program?
+- What controls the direction of the motor?
+- What did you learn?

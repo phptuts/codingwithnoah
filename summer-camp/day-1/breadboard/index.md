@@ -2,7 +2,7 @@
 layout: page
 title: Breadboard
 excerpt: "Build your own breadboard."
-modified: 2018-06-09
+modified: 2018-06-15
 ---
 
 ## Objective
@@ -12,7 +12,6 @@ To learn how breadboards work.
 ## Kit
 
 ![kit](/images/summer-camp/day-1/breadboard/kit.jpg)
-
 
 ## Completed Project
 
@@ -32,9 +31,9 @@ To learn how breadboards work.
 
 ## New Electrical Components 
 
-![Breadboard](/images/summer-camp/day-1/breadboard/breadboard.jpg)
+The breadboard is used to create / prototype electronic projects without gluing the wires together with metal.  
 
-The breadboard is used to create / prototype electronic projects without gluing the wires together with metal.  We'll see how they are wired and used by creating one ourselves.
+![Breadboard](/images/summer-camp/day-1/breadboard/breadboard.jpg)
 
 ## Instructions
 
@@ -60,7 +59,7 @@ Group into groups of 4 to 5 people.
 
 ![step 5](/images/summer-camp/day-1/breadboard/step_5.jpg)
 
-6) Attach the wires one the lines you have draw. Do this to the bottom part of the poster board.  Then call a camp counselor to review your work.  Twist the wires together.  Also draw a + on top and a - on the bottom of the poster board.
+6) Attach the wires one the horizontal lines you have draw.  Draw a + on top and a - on the bottom of the poster board.  Then call an instructor to review your work.
 
 ![step 6](/images/summer-camp/day-1/breadboard/step_6.jpg)
 
@@ -72,7 +71,7 @@ Group into groups of 4 to 5 people.
 
 ![step 7a](/images/summer-camp/day-1/breadboard/step_7a.jpg)
 
-8) Attach the battery to the bottom wires.  Do this by placing the (-) wire on the bottom and the (+) wire on the top.  Then tape it all down.  Before moving on have a counselor qa this step.
+8) Attach the battery to the bottom wires.  Do this by placing the (-) wire on the bottom and the (+) wire on the top.  Then tape it all down.  Then call an instructor to review your work.
 
 ![step 8](/images/summer-camp/day-1/breadboard/step_8.jpg)
 
@@ -88,13 +87,20 @@ Group into groups of 4 to 5 people.
 
 ![step 11](/images/summer-camp/day-1/breadboard/step_11.jpg)
 
-Challenge 1) Can rewire the breadboard to use a resistor.
+### Challenge 1) 
 
-Challenge 2) Can you wire the circuit you just created to use an actual breadboard now that you know how it works.  
+Can rewire the circuit to use an led?
 
-Hint to do challenge 2 you will have to remove the watch battery and cut new wire.
+### Challenge 2) 
+
+Can you recreate what you did with on an actual breadboard?
+
+Hint: to do this you will have to remove the watch battery and cut new wire.
 
 ## Review
 
-Talk about breadboards and what we learned about them.
+- What is a breadboard?
+- How which holes are connected to each other?
+- Why would you want to use a breadboard?
+- What did you learn?
 

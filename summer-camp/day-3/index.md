@@ -20,13 +20,14 @@ To put together everything we have learned about if blocks, variables, servos, t
 
 ## Bill of Materials 
 
-- 1 x Arduino
-- 1 x Ultra Sonic Sensor
-- 2 x servos
-- 4 x m to f wires
-- 10 x m to m wires
+- 1 x Arduino with cable  ($7.00) 
+- 1 x Ultra Sonic Sensor ($1.50)
+- 2 x Servo ($3.14)
+- 4 x m to f wires ($0.10)
+- 10 x m to m wires ($0.20)
 - a lot of cardboard
-- a lot of tape
+- a lot of tape ($0.10)
+- total ($12.64)
 
 ## Instructions
 
@@ -34,7 +35,7 @@ To put together everything we have learned about if blocks, variables, servos, t
 
 ![step 1](/images/summer-camp/day-3/mini-golf/step_1.jpg)
 
-2) 6 inches from the edge draw a line perpendicular to the line you just drew.
+2) 3 inches from the edge draw a line perpendicular to the line you just drew.
 
 ![step 2](/images/summer-camp/day-3/mini-golf/step_2.jpg)
 
@@ -70,7 +71,7 @@ To put together everything we have learned about if blocks, variables, servos, t
 
 ![step 10](/images/summer-camp/day-3/mini-golf/step_10.jpg)
 
-11) Now put a piece of card board that you will use for the top's base, over the cup.  Put the cup where you want the whole to be.
+11) Now put a piece of card board that you will use for the top's base, over the cup.  Put the cup where you want the hole to be.
 
 ![step 11](/images/summer-camp/day-3/mini-golf/step_11.jpg)
 
@@ -129,7 +130,7 @@ To put together everything we have learned about if blocks, variables, servos, t
 
 ![step 23](/images/summer-camp/day-3/mini-golf/step_23.jpg)
 
-24) Tape everything up and cut a small hole in the middle of the box.  At this point get a camp counselor to qa your work.  We are not going for perfection at all.  :)
+24) Tape everything up and cut a small hole in the middle of the box.  At this point get a instructor to qa your work.  
 
 ![step 24](/images/summer-camp/day-3/mini-golf/step_24.jpg)
 
@@ -165,7 +166,7 @@ Then write some code that will make the hand move up if their is a ball in the w
 
 ![challenge 1](/images/summer-camp/day-3/mini-golf/challenge-1.gif)
 
-Hint Use an "If" block to to see if cm variable is over 20.  If it is then you can say that the ball is in the whole and move servo.
+Hint Use an "If" block to to see if cm variable is over 20.  If it is then you can say that the ball is in the hole and move servo.
 
 
 30) Cut a medium size box so that it looks like what you see in the picture.
@@ -176,7 +177,7 @@ Hint Use an "If" block to to see if cm variable is over 20.  If it is then you c
 
 ![step 31](/images/summer-camp/day-3/mini-golf/step_31.jpg)
 
-32) Connect the data wire on the servo to pin 4 of the Arduino.  The data wire is the orange wire.  Then connect the brown wire of the servo to ground of the breadboard.  Also connect middle wire of the servo to positive of the breadboard.
+32) Connect the servo to another Arduino.
 
 ![step 31](/images/summer-camp/day-3/mini-golf/step_32.jpg)
 
@@ -186,8 +187,7 @@ Use another Arduino to control the servo.  Use a delay block and a for loop to m
 
 ## Super Challenge
 
-
-Write some code that will slowly move the big ax hand up and down slowly.
+Write some code that will slowly move the big ax hand up and down slowly using one Arduino.
 
 ![challenge 2](/images/summer-camp/day-3/mini-golf/challenge-2.gif)
 

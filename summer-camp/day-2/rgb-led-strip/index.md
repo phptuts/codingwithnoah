@@ -2,12 +2,12 @@
 layout: page
 title: RGB Leds
 excerpt: "How to control a rbg led light strip."
-modified: 2018-06-13
+modified: 2018-06-15
 ---
 
 ## Objective
 
-To learn about how to create colors with rgb model and how to control an rgb light strip.  The campers we'll also get more practice with loops.
+To learn about how to create colors with rgb model and how to control an rgb light strip.  The students we'll also get more practice with loops.
 
 ## Kit
 
@@ -19,46 +19,44 @@ To learn about how to create colors with rgb model and how to control an rgb lig
 
 ## Bill of Materials 
 
-- 1 x Arduino 
-- 1 x rgb led light strip
-- 3 x wires
+- 1 x Arduino with usb  ($7.00) 
+- 1 x rgb led light strip ($4.99)
+- 3 x wires ($0.12)
+- total ($12.11)
 
 ## What is an rgb?
 
-RGB stands for red green and blue.  It combines these colors to create other colors.  This is used in printing, building websites, building apps, art, and much more.
+RGB stands for red green and blue.  It combines these colors to create other colors.  This is used in printing, building websites, building apps, art, and much more.  Each color is represented by a number 1 to 255.
 
 ![rgb model](/images/summer-camp/day-2/rbg-led-strip/rgb.gif#img-phone)
 
-
 ## What is an rgb led strip?
 
-This strip of led lights that you control the rgb values.  Each light is addressable, which means you can control the color.
+This strip of led lights that allows control the color of each led light.  
 
 ![rgb model](/images/summer-camp/day-2/rbg-led-strip/rgb-led-strip.jpg)
 
-
 ## RGB Led Setup block
 
-This block is used to tell the Arduino which pin is going to be the data pin.  This is usually one of the analog pins, (A0 - A5).  What analog means in this context is that we can send electronic signal through the arduino pin that that the led strip we'll be able to use a number.
+This block is used to tell the Arduino which pin is going to be the data pin and number led lights in the light strip.  The data pin is usually one of the analog pins, (A0 - A5).  Analog pins allow the Arduino to a wave of electricity that can be used to represent a number to an external device.
 
 ![rgb model](/images/summer-camp/day-2/rbg-led-strip/setup-block.png)
 
-
 ## Set led color block
 
-This block is used to set the individual colors of the led.  Important thing to note is that the Arduino we'll start counting at 0.  This means that the first led is 0.
+This block is used to set the individual colors of the led.  Important thing to note is that the Arduino we'll start counting at 0.  This means that the first led is 0.  
 
 ## Instruction
 
-1) Take a wire. Attach one end to the wire to the ground pin of the Arduino and the other end to the ground end of the led light strip.
+1)  Attach one end to a wire to the ground pin of the Arduino and the other end to ground end of the led light strip.
 
 ![step 1](/images/summer-camp/day-2/rbg-led-strip/step_1.jpg)
 
-2) Take a wire. Attach one end to the wire to the 5v pin of the Arduino and the other end to the 5v end of the led light strip.
+2) Attach one end to a wire to the 5v pin of the Arduino and the other end to 5v of the led light strip.
 
 ![step 2](/images/summer-camp/day-2/rbg-led-strip/step_2.jpg)
 
-3) Take a wire. Attach one end to the wire to the A0 pin of the Arduino and the other end to the data end of the led light strip.
+3) Attach one end to the wire to the A0 pin of the Arduino and the other end to the data end of the led light strip.
 
 ![step 3](/images/summer-camp/day-2/rbg-led-strip/step_3.jpg)
 
@@ -96,9 +94,12 @@ Create a rainbow.  Hint you multiple count with  loops.  Check out this [website
 
 Try to create a cool light pattern on your own.
 
+## Review
 
-
-
+- What does rgb stand for?
+- What is rgb used for?
+- What cool things can use build with an led light strip? (No wrong answer)
+- What id you learn?
 
 
 

@@ -2,38 +2,39 @@
 layout: page
 title: Arduino Intro
 excerpt: "An intro to the Arduino."
-modified: 2018-06-04
+modified: 2018-06-16
 ---
+
+## Objective
+
+To learn all the parts of an Arduino and how to upload a piece of code with Arduino Blockly IDE.
 
 ## Kit
 
 ![Project](/images/summer-camp/day-1/arduino-intro/project.jpg)
 
-
 ## Bill of Materials 
 
-- 1 x Arduino with cable  ($7.00) ish
+- 1 x Arduino with cable  ($7.00) 
 
-### What is an Arduino?
+## What is an Arduino?
 
 The Arduino is a cheap real time computer that costs around 7 dollars. Real time means that will execute your code really fast.  It can do this because there is no operating system running on the Arduino.  The only thing it's doing is running your code. :)
 
-
 ![Arduino](/images/summer-camp/day-1/arduino-intro/arduino.jpg)
 
-Pass around 2 Arduinos, one that has the plastic pin holes and one that does not.  
-
-### What are pins?
-
-![Arduino](/images/summer-camp/day-1/arduino-intro/arduino-pins.jpg)
+## What are pins?
 
 Pins are the pieces of metal that stick out of the Arduino.  They are covered with plastic.
 
-### Where is the Arduino's brain?
+![Arduino](/images/summer-camp/day-1/arduino-intro/arduino-pins.jpg)
 
-See if they can guess where that is.
 
-### Rx and Tx leds
+## Where is the Arduino's brain?
+
+![Arduino](/images/summer-camp/day-1/arduino-intro/arduino.jpg)
+
+## What are the RX and TX leds and pins?
 
 ![Arduino](/images/summer-camp/day-1/arduino-intro/arduino-rx-tx.jpg)
 
@@ -42,25 +43,37 @@ See if they can guess where that is.
 
 ![Arduino](/images/summer-camp/day-1/arduino-intro/arduino-reset-btn.jpg)
 
-Input is where the Arduino can sense electricity coming from a pin.  This is useful when messing around with sensors.  We'll go back this concept later.
+## Input and Output (IO)
 
-Output is allows you to control whether a pin has electricity or not.  This is useful when you want to control a motor or an led.  Like turning an led on or off.  Ask the campers what cool things they can build with the arduino.
+Input is where the Arduino can sense electricity coming into a pin.  This is useful when working with sensors. We'll use this with Ultra Sonic Sensor later in the course.
 
-## Tour of the Arduino IDE (5 minutes)
+Output is allows you to control whether a pin has electricity or not.  This is useful when you want to control a motor or an led.  
 
-### Main Areas
+
+## Main Areas Arduino Blockly IDE
 
 ![Arduino IDE](/images/summer-camp/day-1/arduino-intro/arduino-ide.png)
 
-### Arduino IDE Top bar
+## Arduino IDE Top bar
 
 ![Arduino IDE](/images/summer-camp/day-1/arduino-intro/arduino-top-bar.png)
 
-### Important Notes
+- The Green plug means the Arduino is plugged into it.
+- The play button uploads the code to the Arduino.
+- The messages icon allow you to see the messages the Arduino is sending to you and allows you to send messages to the Arduino.
+- The debug icon we'll show information about the current state of your program.  We'll go over more of this later on in the course.
+- The forward button is used for debugging we'll go over that later in the course.
+
+## Important Notes
 
 - You have to be connected to the internet
 - If the arduino is connected the top right icon will go green.
 
+## Digital Write Block Explained
+
+The digital write block is used to turn on and off electricity to a pin on the Arduino.  
+
+![Digital Write Block](/images/summer-camp/day-1/arduino-intro/turn-on-pin-13-part-1.png)
 
 ## Turn on and off an led
 
@@ -81,14 +94,20 @@ Output is allows you to control whether a pin has electricity or not.  This is u
 
 ![Internal Arduino LED](/images/summer-camp/day-1/arduino-intro/internal-led-on.jpg)
 
-#### Challenge 1) can you turn the led off?  
+## Challenge 
+
+Can you turn the led off?
 
 ![Arduino](/images/summer-camp/day-1/arduino-intro/arduino-led-challenge-1.jpg)
 
-#### STOP!!! Wait for everyone to complete the project.  Go ahead and play around with the Arduino while you are waiting or help someone out.  
+Wait for everyone to complete the challenge.  Explore the blocks in the toolbox, and ask questions.  If you want help your fellow student's out.
 
-#### Digital Write Block Explained
+## Review Questions
 
-Ask the campers if they can explain the digital write block to you. Make sure they understand it before moving forward.  Ask questions like can you send electricity to pin one?
+- What is an Arduino?
+- Where is the tx and rx lights?
+- Which pin on the Arduino controls the built in led?
+- Where is the reset button and what does it do?
+- Where are the digital write blocks found on the Arduino IDE?
+- What did you learn?
 
-![Digital Write Block](/images/summer-camp/day-1/arduino-intro/turn-on-pin-13-part-1.png)

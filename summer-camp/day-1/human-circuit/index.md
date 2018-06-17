@@ -29,13 +29,13 @@ To learn about how electricity works with batteries, led, and resistors.
 
 ### Led
 
-The led stands for light emitting diode.  The important thing to note is the wires connected to it.  The long wire is the positive and the short wire is the negative.  When you pass electricity through it, it will emit light.
+The led stands for light emitting diode.  The important thing to note are the wires connected to it.  The long wire is  positive and the short wire is negative.  When you pass electricity through it, it will emit light.
 
 ![Led](/images/summer-camp/day-1/human-circuit/led.jpg)
 
 ### Resistor
 
-The resistor is used to decrease the amount of electrons flowing through the wire.  The strength of the resistor is determine by the colors of the bands.  You can use the [calculator](https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/) to learn more.
+The resistor is used to decrease the amount of electrons flowing through the wire.  The strength of the resistor is marked by the colored bands.  You can use the [calculator](https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/) to learn more.
 
 ![Resistor](/images/summer-camp/day-1/human-circuit/resistor.jpg)
 
@@ -51,28 +51,35 @@ The battery is power source of a circuit.  All batteries have a positive side an
 
 ## Instructions
 
-1) Take the piece on your desk and touch it to the camper next to you.  If you have led hold it up so everyone can see it.
+1) Get in a circle and connect all the wires together with the led and the battery.  The instructor will hold the battery.
 
-2) The instructor will touch the wire to the watch battery.  Notice that the light when the instructor touches the battery the wires to the battery.  
+2) Notice the light went on when the instructor touches the battery to the wires.  
 
-3) Now ask the camper's what will happen once a person disconnects their wire?  Let them have a mini debate.
+3) Now ask the students what will happen once a person disconnects their wire?  
 
 4) Then have a person do this to see who was right.
 
-5) Pass the battery around the circle and ask the camper's if they can tell you which side is positive and which side is negative.
+5) Pass the battery around the circle and ask the students if they can tell you which side is positive and which side is negative.
 
-6) The instructor takes back the battery and ask what will happen if the instructor switches the way the led is hooked up with the battery.  Have a mini debate.
+6) The instructor takes back the battery back.  Then ask what will happen to the led if we switch the way the battery is hooked into the circuit.
 
 7) Then do it and see what happens.
 
-8) Explain that an led will only let electricity flow one way from the positive end to the negative end.  The way you can tell is that the positive end is the long end of the led.  Explain that a led is a light emitting diode.  A diode is an electronic component that only allow electricity to flow one way.  Explain the electricity flows from positive to ground.  Explain the reason is that we view it this way is because people in the 1800's got it wrong. :)
+An led will only let electricity flow one way from the positive end to the negative end.   LED stand for light emitting diode.  A diode is an electronic component that only allow electricity to flow one way.  Electricity flows from positive to ground.  The reason that we view it this way is because people in the 1800's got it wrong. :)
 
-9) Now have the other instructor place a resistor into the circuit.  Explain that a resistor will decrease the amount of electrons flowing through the wire.  
+9) Now have the other instructor place a resistor into the circuit.  
 
-10) Now ask the campers what will happen if the instructor switches the side the resistor is hooked up.  have a mini debate.
+10) Now ask the students what will happen if the instructor switches the side the resistor is hooked up. 
 
 11) Now have the instructor do that.
 
-12) Now review and ask the campers a bunch of questions to be sure that they understand the material.
+12) Now have students blink the led 1 second for 20 seconds.  
 
-13) Now have camper blink the led 1 second for 20 seconds.  Ask them if they did this consistently? Ask them if they can think of a better way of doing it consistently? 
+## Review
+
+- Can you did better than a computer could, and not why?
+- What is a resistor?
+- What is an led?
+- What is a battery?
+- Which direction does electricity flow from in the diagrams?
+- What did you learn?

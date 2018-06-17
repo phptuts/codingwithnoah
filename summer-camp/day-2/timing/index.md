@@ -7,11 +7,15 @@ modified: 2018-06-12
 
 ## Objective
 
-How to time things with the millis block in a way that does not pause the Arduino.
+How to time things using the millis block in a way that does not pause the Arduino.
 
 ## Project
 
 ![Project](/images/summer-camp/day-1/arduino-intro/project.jpg)
+
+## Bill of Materials 
+
+- 1 x Arduino with cable  ($7.00) 
 
 ## Millis Block
 
@@ -44,7 +48,7 @@ The millis block will measure the time in milli seconds the Arduino has been on.
 
 ![step 5](/images/summer-camp/day-2/timing/step_5b.png)
 
-6) In the other whole put a "Get Variable" block that uses the milliseconds variable.
+6) In the other hole put a "Get Variable" block that uses the milliseconds variable.
 
 ![step 6](/images/summer-camp/day-2/timing/step_6.png)
 
@@ -68,10 +72,14 @@ So that this means is that the block of code you wrote got executed over **60,00
 
 Make the internal led, pin 13, blink every 1/2 second by modify the code you just wrote. 
 
-Hint: You will need to create a global boolean variable that will store whether the led is turn on or off.  You can use this variable and an if block to determine whether to turn the led on or off.  You can also use the "not" block in the logic menu to change true boolean into a false boolean and visa versa.
+Hint: You will need to create a global boolean variable that will store whether the led is turn on or off.  You can use this variable and another if block to determine whether to turn the led on or off. 
 
-![step 9](/images/summer-camp/day-2/timing/challenge.gif)
-
+![Challenge](/images/summer-camp/day-2/timing/challenge.gif)
 
 ## Review
+
+- What does the millis block do?
+- What is the disadvantage of using the delay block?
+- What did you learn?
+
 

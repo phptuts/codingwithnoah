@@ -7,7 +7,7 @@ modified: 2018-06-09
 
 ## Objective
 
-To learn about dc motors and to build a cool robot without a brain.
+To learn about dc motors and to build a cool brainless robot.
 
 ## Kit
 
@@ -27,30 +27,28 @@ To learn about dc motors and to build a cool robot without a brain.
 - 1 x art stuff ($.50) 
 - total $3.34 ish
 
-## New Electrical Components 
-
-### Motor
+## Motor
 
 A motor is an electrical component that takes electrical energy and turns it into physical/mechanical energy by spinning a rod.  The direction that the rod moves in is determined by how it is hooked into the battery.
 
 ![Motors](/images/summer-camp/day-1/bristlebots/motors.jpg)
 
 
-#### Learning about motors
+## Learning about motors
 
-1) Group into 3 or 4 people. (Optional)
+Group into 3 or 4 people. (Optional)
  
-2) Take a piece of cardboard poke it through the metal rod of the motor.
+1) Take a piece of cardboard poke it through the metal rod of the motor.
 
-![Motor Step 2](/images/summer-camp/day-1/bristlebots/step_motor_poke_hole.jpg)
+![Motor Step 1](/images/summer-camp/day-1/bristlebots/step_motor_poke_hole.jpg)
  
-3) One person hold the motor while another person take a wire from the motor and holds it to the positive side.  Take the other wire of the motor and hold it to the negative side.  You should notice the motor spin the cardboard in a direction.  Now switch wires on the battery and notice how it turns the cardboard in a different direction.
+2) Have one person hold the motor.  Have another person take the battery.  Place one wire attached to the motor and place it on the positive side of the battery.  Take the other wire of the motor and place it on the negative side of the battery.  Notice the direction the motor is turning in.  Now switch the wires and notice it turns in the opposite direction.
 
 ![Motor Spinning](/images/summer-camp/day-1/bristlebots/motor_spinning.gif)
 
-4) Make sure everyone gets a chance to hold the battery and the motor.  Also make wait for the counselors signal to move forward.  Please ask any question you have as well.
+Make sure everyone gets a chance to hold the battery and the motor.  
 
-### Bristle Bot Instructions
+## Bristle Bot Instructions
 
 Before beginning test that motor works by touching wires of the motor the battery like you did with the larger motor before.
 
@@ -75,11 +73,11 @@ Before beginning test that motor works by touching wires of the motor the batter
 
 ![Step 4](/images/summer-camp/day-1/bristlebots/step_4.jpg)
 
-5) Pile the other side of the tape off and attach one of the motor's wires to it.
+5) Peel the other side of the tape off and attach one of the motor's wires to it.
 
 ![Step 5](/images/summer-camp/day-1/bristlebots/step_5.jpg)
 
-6) Attach one side of the battery to the motor to the tape.
+6) Attach one side of the battery to the tape.
 
 ![Step 6](/images/summer-camp/day-1/bristlebots/step_6.jpg)
 
@@ -91,20 +89,22 @@ Before beginning test that motor works by touching wires of the motor the batter
 
 ![Step 8](/images/summer-camp/day-1/bristlebots/step_8.jpg)
 
-9) Take a piece of take and attach the other wire to it.
+9) Using a piece of tape attach the other wire of the motor to the battery.
 
 ![Step 9](/images/summer-camp/day-1/bristlebots/step_9.jpg)
 
-10) Take 5 to 10 minutes and play around with your bristle bot.
+10) Play around with your bristle bot.
 
 ![Step 9](/images/summer-camp/day-1/bristlebots/step_10.gif)
 
 
-### Bristlebots Race 
+## Bristlebots Race 
 
-Group into 3 to 4 people and create a race track.  You will have 10 to 15 minutes to do this with cardboard, glue, and anything we can get from the art supplies.  After the take minutes to play around with the tracks and change the position of your battery and motor.  See if you can make the bot go in a straight line.  We'll then take about 10 to 15 minutes to race the bots.  
+Group into 3 to 4 people and create a race track.  You will have 10 to 15 minutes to do this with cardboard, glue, and anything we can get from the art supplies.  After the take a minutes to play around with the tracks and change the position of your battery and motor.  See if you can make the bot go in a straight line.  We'll then take about 10 to 15 minutes to race the bots.  
 
-### Limitations of bristle bots
+## Review
 
-We'll then have a conversation on the limitations of the bristlebots and how we can improve on this model.
+- What are the limitations of the bristbots?
+- How do you change the direction the motor is spinning when you hook into a battery?
+- What did you learn?
 

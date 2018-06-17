@@ -2,12 +2,12 @@
 layout: page
 title: Day two of Maker Camp
 excerpt: "Arduino High Five Machine & Mini Golf."
-modified: 2018-06-10
+modified: 2018-06-15
 ---
 
 ## Objective
 
-Campers we'll learn how to use servos, ultra sonic sensor, and a push button.  Campers will also learn how use millis block and how to write loops.  Campers will build a high five machine and a mini golf course.  
+Students we'll learn how to use servos, ultra sonic sensors, and a push buttons.  Students will also learn how use millis block and learn how to write loops.  
 
 ## 1) [Servos Introduction](servos-intro) 1 hour
 

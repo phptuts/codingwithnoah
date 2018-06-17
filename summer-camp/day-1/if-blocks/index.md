@@ -5,16 +5,15 @@ excerpt: "How to make decision with your code?"
 modified: 2018-06-10
 ---
 
-## Why?
- 
-Have a conversation about why you would need an "If" block and what it's used for.  
+## Objective
+
+To learn the concept of if block.
 
 ## "If" Block
 
-The block works by see what is attached to it is true.  If it is true it will execute the blocks inside the "do" section.
+The block works by see what is attached to it is true.  If it is true it will execute the blocks inside the "do" section.  When would you need to use an if block?
 
 ![If Block](/images/summer-camp/day-1/if-blocks/if-block.png)
-
 
 ## "Compare" Block
 
@@ -22,10 +21,9 @@ This block will return a true or false value by comparing 2 variables or values 
 
 ![Compare Block](/images/summer-camp/day-1/if-blocks/compare-block.png#img-phone)
 
-
 ## If block game
 
-The object of the game is to try to get the if person playing the if statement to error.  If the "If" statement get's it right person playing the "If" statement gets to choose who is the if statement next.  Two campers we'll be variables and one camper we'll be the compare block. 
+The object of the game is to try to get the if block person to make a mistake.  If the "If" statement get's it right person playing the "If" block gets to choose who is the if block next.  Two students will be variables and one camper will be the compare block. 
 
 ## Challenge 
 
@@ -33,9 +31,14 @@ Create 2 variables that are numbers and compare them in such a way that it turns
 
 Hint the "If" block and the "Compare" block are in the logic menu.
 
-![Compare Block](/images/summer-camp/day-1/if-blocks/challenge-hint.png)
+![menu](/images/summer-camp/day-1/if-blocks/challenge-hint.png)
 
-![Compare Block](/images/summer-camp/day-1/if-blocks/internal-led-on.jpg)
+![result](/images/summer-camp/day-1/if-blocks/internal-led-on.jpg)
 
 
-## Quick Review
+## Review
+
+- What does the if block do?
+- What does the compare block do?
+- When would you want to use an if block?
+- What did you learn?

@@ -2,12 +2,12 @@
 layout: page
 title: Arduino Robot and Functions
 excerpt: "To learn how to build an Arduino robot and control it with functions."
-modified: 2018-06-14
+modified: 2018-06-15
 ---
 
 ## Objective
 
-The campers we'll learn how to create their own blocks / functions in order to control the robot.
+The students will learn how to create their own blocks / functions in order to control the robot.
 
 ## Project Kit
 
@@ -19,12 +19,13 @@ Todo take pic
 
 ## Bill of Materials 
 
-- 1 x Robot kit
-- 1 x Arduino
-- 1 x Motor Shield
-- 1 x 9 volt battery
-- 1 x 9 volt battery jack
-- 1 x ultra sonic sensor
+- 1 x Robot kit ($12.59)
+- 1 x Arduino ($7.00)
+- 1 x motor shield (L293P) ($8.66)
+- 1 x 9 volt battery ($1.43)
+- 1 x 9 volt battery jack ($1.00)
+- 1 x ultra sonic sensor ($1.50)
+- total ($32.18)
 
 ## Create Custom Block 
 
@@ -45,7 +46,7 @@ You can use the blocks you create.  They are found in the "functions menu."
 
 ## Instructions
 
-1) Take the metal bar place it next to motor like the picture.  Be sure that the plastic circle is on the side of the metal piece.
+1) Take a metal bar place it next to motor like the picture.  Be sure that the plastic circle is on the side of the metal piece.
 
 ![step 1](/images/summer-camp/day-4/robot/step_1.jpg)
 
@@ -61,7 +62,7 @@ You can use the blocks you create.  They are found in the "functions menu."
 
 ![step 4](/images/summer-camp/day-4/robot/step_4.jpg)
 
-5) Repeat steps 1 - 4, with other motor.  Then lay both motors down so they look like the picture.  At this point get a counselor to qa your work.
+5) Repeat steps 1 - 4, with other motor.  Then lay both motors down so they look like the picture.  At this point get an instructor to qa your work.
 
 ![step 5](/images/summer-camp/day-4/robot/step_5.jpg)
 
@@ -75,7 +76,7 @@ You can use the blocks you create.  They are found in the "functions menu."
 
 ![step 7](/images/summer-camp/day-4/robot/step_7b.jpg)
 
-8) Attach the wheel to the plastic piece.  This will be the front of the robot.  Before you attach the wheel make sure holes match and get a counselor to qa it.
+8) Attach the wheel to the plastic piece.  This will be the front of the robot.  Before you attach the wheel make sure holes match and get an instructor to qa it.
 
 ![step 8](/images/summer-camp/day-4/robot/step_8a.jpg)
 
@@ -149,6 +150,7 @@ Wrong
 
 ![step 22](/images/summer-camp/day-4/robot/step_22c.gif)
 
+
 23) Connect the 9 volt battery to the battery jack.
 
 ![step 23](/images/summer-camp/day-4/robot/step_23.jpg)
@@ -165,7 +167,7 @@ Create a function block that will make the robot go backwards.  Call it "left wh
 
 ## Challenge 2
 
-Connect the other side of the robot and make 2 functions for the right wheel.  You the table in the [previous lesson](/summer-camp/day-4/motor) to help you determine which pins to use.
+Connect the other side of the robot and make 2 blocks for the right wheel.  You the table in the [previous lesson](/summer-camp/day-4/motor) to help you determine which pins to use.
 
 ## Challenge 3
 
@@ -175,7 +177,7 @@ Hint: Stopping is the same as putting the speed to 0.
 
 ## Challenge 4
 
-Create forward and backward blocks that will spin both wheels.  In order to do this you will have to see how off your robot is.  You will need to see if you make it go straight by making one side have more power then the other.
+Create forward and backward blocks that will spin both wheels.  In order to do this you will have to see how off your robot is from moving in a straight line.  Play around with the power you are giving each motor to see if you can make the robot move in a straight line.
 
 Hint: Load the program onto the robot with the 9 volt battery unplugged.  Once the robot is on the ground plug the 9 volt battery back in.
 
