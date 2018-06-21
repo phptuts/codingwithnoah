@@ -5,348 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed925eb5-c7ba-4d73-bab6-38ee5c86172f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/arduino-ide.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino-ide.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/arduino-led-challenge-1.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino-led-challenge-1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/arduino-pins.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino-pins.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/arduino-reset-btn.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino-reset-btn.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/arduino-rx-tx.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino-rx-tx.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/arduino-top-bar.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino-top-bar.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/arduino.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/internal-led-on.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/internal-led-on.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/project.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/project.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/turn-on-pin-13-part-1.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/turn-on-pin-13-part-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/turn-on-pin-13-part-2.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/turn-on-pin-13-part-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/turn-on-pin-13-part-3.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/turn-on-pin-13-part-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/arduino-intro/upload-btn.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/upload-btn.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/blink/2-led-arduino.fzz" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/blink/2-led-arduino.fzz" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/blink/blink.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/blink/blink.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/blink/challenge-1.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/blink/challenge-1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/blink/challenge-2.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/blink/challenge-2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/blink/challenge-3.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/blink/challenge-3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/blink/delay-block-menu.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/blink/delay-block-menu.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/blink/delay-block.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/blink/delay-block.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/blink/double-blink.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/blink/double-blink.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/blink/led-2-arduino_bb.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/blink/led-2-arduino_bb.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/blink/led-arduino.fzz" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/blink/led-arduino.fzz" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/blink/led-arduino_bb.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/blink/led-arduino_bb.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/blink/off-beat-blink.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/blink/off-beat-blink.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/blink/project.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/blink/project.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/breadboard.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/breadboard.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/completed.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/completed.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/kit.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/kit.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/step_1.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/step_10.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/step_11.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/step_2.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/step_3.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/step_4.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/step_5.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/step_6.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/step_6a.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_6a.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/step_7.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/step_7a.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_7a.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/step_8.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/breadboard/step_9.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/complete.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/complete.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/motor_spinning.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/motor_spinning.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/motors.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/motors.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/project.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/project.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_1.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_10.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_10.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_1a.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_1a.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_2.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_3.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_4.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_5.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_6.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_7.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_8.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_9.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/bristlebots/step_motor_poke_hole.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_motor_poke_hole.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/human-circuit/led.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/human-circuit/led.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/human-circuit/negative-battery.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/human-circuit/negative-battery.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/human-circuit/positive-battery.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/human-circuit/positive-battery.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/human-circuit/project.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/human-circuit/project.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/human-circuit/resistor.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/human-circuit/resistor.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/human-circuit/what-it-looks-like.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/human-circuit/what-it-looks-like.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/if-blocks/challenge-hint.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/if-blocks/challenge-hint.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/if-blocks/compare-block.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/if-blocks/compare-block.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/if-blocks/if-block.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/if-blocks/if-block.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/if-blocks/internal-led-on.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/if-blocks/internal-led-on.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/complete.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/complete.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/messaging.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/messaging.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/read-until-one-character.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/read-until-one-character.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/serial-print-block.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/serial-print-block.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/step_1a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_1a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/step_1b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_1b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/step_2.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/step_2_computer_to_arduino.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_2_computer_to_arduino.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/step_3_computer_to_arduino.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_3_computer_to_arduino.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/step_4a_computer_to_arduino.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_4a_computer_to_arduino.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/step_4b_computer_to_arduino.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_4b_computer_to_arduino.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/step_5_computer_to_arduino.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_5_computer_to_arduino.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/step_6_computer_to_arduino.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_6_computer_to_arduino.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/step_9a_computer_to_arduino.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_9a_computer_to_arduino.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/messaging/usb.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/usb.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/arduino-loop.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/arduino-loop.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-1.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-10.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-11a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-11a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-11b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-11b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-2.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-3.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-4a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-4a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-4b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-4b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-4c.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-4c.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-5a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-5a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-5b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-5b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-6.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-7a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-7a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-7b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-7b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/change-variable-step-8.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/create-variable-boolean-hint.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/create-variable-boolean-hint.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/create-variable-challenge-hint.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/create-variable-challenge-hint.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/create-variable-challenge-result.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/create-variable-challenge-result.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/get_variable.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/get_variable.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/global-var-1.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/global-var-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/global-var-2.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/global-var-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/global-var-3.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/global-var-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/project.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/project.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/set_variable.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/set_variable.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/step1a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step1a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/step1b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step1b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/step2a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step2a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/step2b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step2b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/step3a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step3a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/step3b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step3b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/step4a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step4a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/step4b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step4b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/step6.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/step7a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step7a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-1/variables-debug/step7b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step7b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/complete.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/complete.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/project.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/project.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/pullup-resistor-block.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/pullup-resistor-block.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/pullup-resistor.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/pullup-resistor.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/push_button.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/push_button.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/step_1.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/step_2.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/step_3.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/step_4a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_4a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/step_4b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_4b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/step_5.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/step_7.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/step_8.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/highfive/step_9.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/rbg-led-strip/challenge-1.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/challenge-1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/rbg-led-strip/challenge-2.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/challenge-2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/rbg-led-strip/kit.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/kit.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/rbg-led-strip/rgb-led-strip.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/rgb-led-strip.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/rbg-led-strip/rgb.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/rgb.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/rbg-led-strip/set-led-color-block.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/set-led-color-block.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/rbg-led-strip/setup-block.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/setup-block.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/rbg-led-strip/step_1.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/rbg-led-strip/step_2.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/rbg-led-strip/step_3.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/rbg-led-strip/step_4.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/rbg-led-strip/step_5.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/rbg-led-strip/step_7.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/challenge.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/challenge.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/complete.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/complete.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/project.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/project.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/servo.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/servo.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/servo_block.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/servo_block.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/step_1.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/step_2.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/step_3.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/step_4a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_4a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/step_4b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_4b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/step_5.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/step_6.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/step_7.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/string_to_whole_number_example.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/string_to_whole_number_example.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/servos-intro/string_to_whole_number_menu.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/string_to_whole_number_menu.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/timing/challenge.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/timing/challenge.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/timing/millis-block.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/timing/millis-block.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/timing/step_1.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/timing/step_2.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/timing/step_3.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/timing/step_4.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/timing/step_5a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_5a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/timing/step_5b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_5b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/timing/step_6.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/timing/step_7.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/timing/step_8.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/timing/step_9.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/challenge.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/challenge.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/complete.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/complete.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/project.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/project.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/pulse-in-block.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/pulse-in-block.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/sonar.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/sonar.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_1.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_10.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_11.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_12a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_12a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_12b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_12b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_13.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_14.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_15.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_17a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_17a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_17b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_17b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_2.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_3.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_4.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_5.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_6.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_7.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_8.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/step_9.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/wave/count-block.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/wave/count-block.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/wave/step_4.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/wave/step_5a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_5a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/wave/step_5b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_5b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/wave/step_6.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/wave/step_7.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/wave/step_9a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_9a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/wave/step_9b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_9b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-2/wave/wave.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-2/wave/wave.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/challenge-1.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/challenge-1.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/challenge-2.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/challenge-2.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/kit.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/kit.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_1.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_10.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_11.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_12.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_13.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_13.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_14.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_14.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_15.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_15.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_16.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_16.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_17.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_17.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_18.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_18.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_19.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_19.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_2.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_20.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_20.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_21-show.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_21-show.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_21.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_21.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_22-ex1.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_22-ex1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_22-ex2.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_22-ex2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_22.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_22.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_23.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_23.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_24.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_24.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_25a.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_25a.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_25b.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_25b.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_25c.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_25c.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_26.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_26.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_27.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_27.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_28.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_28.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_29-review.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_29-review.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_29.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_29.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_3.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_30.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_30.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_31.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_31.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_32.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_32.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_4.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_5.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_6.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_7.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_8.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-3/mini-golf/step_9.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/analog_write_block.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/analog_write_block.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/challenge.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/challenge.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/kit.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/kit.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/motor-sheild.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/motor-sheild.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/motor-shield-explained.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/motor-shield-explained.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_1.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_10.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_11.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_11.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_2a.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_2a.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_2b.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_2b.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_2c.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_2c.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_3.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_4.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_5.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_6.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_7a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_7a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_7b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_7b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_8.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/motor/step_9.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/complete.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/complete.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/create-block-gear.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/create-block-gear.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/create-block.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/create-block.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/functions-menu.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/functions-menu.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_1.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_10.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_11a.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_11a.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_11b.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_11b.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_11c.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_11c.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_12.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_13.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_13.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_14.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_14.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_15a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_15a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_15b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_15b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_16a.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_16a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_16b.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_16b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_17.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_17.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_18.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_19.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_2.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_20.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_20.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_21.png" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_22b.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_22b.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_22c.gif" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_22c.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_23.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_23.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_24a.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_24a.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_24b.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_24b.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_3.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_4.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_5.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_6.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_7a.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_7a.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_7b.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_7b.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_8a.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_8a.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/summer-camp/day-4/robot/step_9.jpg" afterPath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-1/arduino-intro/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-1/arduino-intro/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-1/blink/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-1/blink/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-1/breadboard/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-1/breadboard/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-1/bristlebots/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-1/bristlebots/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-1/human-circuit/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-1/human-circuit/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-1/if-blocks/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-1/if-blocks/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-1/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-1/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-1/messaging/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-1/messaging/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-1/variables-debug/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-1/variables-debug/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-2/highfive/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-2/highfive/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-2/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-2/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-2/rgb-led-strip/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-2/rgb-led-strip/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-2/servos-intro/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-2/servos-intro/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-2/timing/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-2/timing/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-2/ultra-sonic-sensor/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-2/ultra-sonic-sensor/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-2/wave/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-2/wave/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-3/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-3/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-4/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-4/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-4/motors/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-4/motors/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-4/robot/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-4/robot/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-5/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-5/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/day-5/robot-olympics/index.md" afterPath="$PROJECT_DIR$/maker-camp/day-5/robot-olympics/index.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/summer-camp/index.md" afterPath="$PROJECT_DIR$/maker-camp/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circuits/ohms-law/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lessons/app-inventor/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lessons/arduino-app-inventor/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lessons/arduino-blockly/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lessons/circuits/index.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-1/arduino-intro/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-1/arduino-intro/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-1/blink/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-1/blink/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-1/breadboard/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-1/breadboard/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-1/bristlebots/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-1/bristlebots/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-1/human-circuit/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-1/human-circuit/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-1/if-blocks/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-1/if-blocks/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-1/messaging/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-1/messaging/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-1/variables-debug/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-1/variables-debug/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-2/highfive/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-2/highfive/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-2/rgb-led-strip/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-2/rgb-led-strip/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-2/servos-intro/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-2/servos-intro/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-2/timing/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-2/timing/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-2/ultra-sonic-sensor/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-2/ultra-sonic-sensor/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-2/wave/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-2/wave/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-3/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-4/motors/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-4/motors/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/summer-camp/day-4/robot/index.html" afterPath="$PROJECT_DIR$/_site/summer-camp/day-4/robot/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lessons/index.md" afterPath="$PROJECT_DIR$/lessons/index.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -362,11 +27,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maker-camp/day-4/index.md">
+        <entry file="file://$PROJECT_DIR$/lessons/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+              <first_editor relative-caret-position="285">
+                <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -375,11 +40,11 @@
         </entry>
       </file>
       <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maker-camp/index.md">
+        <entry file="file://$PROJECT_DIR$/lessons/arduino-blockly/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <first_editor relative-caret-position="705">
+                <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -387,32 +52,90 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navigation.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maker-camp/day-1/arduino-intro/index.md">
+        <entry file="file://$PROJECT_DIR$/lessons/arduino-app-inventor/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="225">
-                <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessons/app-inventor/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maker-camp/day-2/highfive/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maker-camp/day-1/messaging/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1747">
+                <caret line="129" column="21" lean-forward="false" selection-start-line="129" selection-start-column="21" selection-end-line="129" selection-end-column="21" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maker-camp/day-1/variables-debug/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="3330">
+                <caret line="214" column="0" lean-forward="false" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maker-camp/day-1/if-blocks/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="705">
+                <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessons/circuits/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -421,50 +144,11 @@
         </entry>
       </file>
       <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/maker-camp/day-4/motors/index.md">
+        <entry file="file://$PROJECT_DIR$/circuits/ohms-law/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maker-camp/day-1/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="525">
-                <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maker-camp/day-5/robot-olympics/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="345">
-                <caret line="21" column="11" lean-forward="false" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+              <first_editor relative-caret-position="615">
+                <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -531,16 +215,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/arduino-blockly/lesson-5-global-variables-push-button/index.md" />
-        <option value="$PROJECT_DIR$/arduino-blockly/lesson-6-sonar/index.md" />
-        <option value="$PROJECT_DIR$/arduino-blockly/lesson-7-lcd-loops/index.md" />
-        <option value="$PROJECT_DIR$/arduino-blockly/lesson-8-lcd-serial-monitor/index.md" />
-        <option value="$PROJECT_DIR$/arduino-blockly/lesson-9-led-matrix-challenge/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-10-led-light-strip-array/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-11-rfid-arrays/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-12-rgb-led-challenges/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-13-bluetooth/index.md" />
-        <option value="$PROJECT_DIR$/lessons/index.md" />
         <option value="$PROJECT_DIR$/class-schedule/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/lesson-2-serial-monitor/index.md" />
         <option value="$PROJECT_DIR$/arduino-setup/index.md" />
@@ -582,6 +260,12 @@
         <option value="$PROJECT_DIR$/summer-camp/day-5/robot-olympics/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/index.md" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/lessons/arduino-app-inventor/index.md" />
+        <option value="$PROJECT_DIR$/lessons/app-inventor/index.md" />
+        <option value="$PROJECT_DIR$/lessons/index.md" />
+        <option value="$PROJECT_DIR$/lessons/circuits/index.md" />
+        <option value="$PROJECT_DIR$/lessons/arduino-blockly/index.md" />
+        <option value="$PROJECT_DIR$/circuits/ohms-law/index.md" />
       </list>
     </option>
   </component>
@@ -641,35 +325,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
+              <option name="myItemId" value="circuits" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_data" />
+              <option name="myItemId" value="ohms-law" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -879,18 +539,18 @@
       <workItem from="1529041826795" duration="719000" />
       <workItem from="1529042977108" duration="5927000" />
       <workItem from="1529178400077" duration="14468000" />
-      <workItem from="1529268994222" duration="768000" />
+      <workItem from="1529268994222" duration="6304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="408223000" />
+    <option name="totallyTimeSpent" value="413759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="820" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24652778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24652778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -945,39 +605,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_9a_computer_to_arduino.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/servo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/project.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_9.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-2/utra-sonic-sensor/index.md" />
-    <entry file="file://$USER_HOME$/Desktop/Screen Shot 2018-06-12 at 1.07.36 PM.png" />
-    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-2/wave/index.md" />
-    <entry file="file://$PROJECT_DIR$/images/maker-camp/day-2/wave/step_9a.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/maker-camp/day-2/wave/step_9b.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/summer-camp/day-2/timing/index.md" />
     <entry file="file://$PROJECT_DIR$/images/3953273590_704e3899d5_m.jpg">
       <provider selected="true" editor-type-id="images">
@@ -1070,39 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/if-blocks/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="720">
-            <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/messaging/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2010">
-            <caret line="129" column="21" lean-forward="false" selection-start-line="129" selection-start-column="21" selection-end-line="129" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/variables-debug/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="532">
-            <caret line="214" column="0" lean-forward="false" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maker-camp/day-1/blink/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1130,17 +724,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="330">
             <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-2/highfive/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1321,11 +904,136 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/apple-touch-icon-72x72-precomposed.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/apple-touch-icon-144x144-precomposed.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/apple-touch-icon-precomposed.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/maker-camp/day-4/motors/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="255">
             <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/if-blocks/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="705">
+            <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/messaging/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1747">
+            <caret line="129" column="21" lean-forward="false" selection-start-line="129" selection-start-column="21" selection-end-line="129" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/variables-debug/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3330">
+            <caret line="214" column="0" lean-forward="false" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/app-inventor/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/arduino-app-inventor/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/arduino-blockly/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="705">
+            <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/circuits/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maker-camp/day-2/highfive/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circuits/ohms-law/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="615">
+            <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
