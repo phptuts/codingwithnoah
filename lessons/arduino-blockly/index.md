@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Arduino Blockly Classes
-excerpt: "Lesson Paths."
-search_omit: true
+excerpt: "Lessons about Arduinos and components using Blockly."
+modified: 2018-06-24
 ---
 
 ##  Classes

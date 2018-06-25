@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Circuits Classes
-excerpt: "Lesson Paths"
-search_omit: true
+excerpt: "Lessons about circuits, batteries and breadboards"
+modified: 2018-06-24
 ---
 
 ## 1) [Human Circuit](/maker-camp/day-1/human-circuit) 
@@ -12,6 +12,4 @@ search_omit: true
 ## 3) [BristleBots & Motors](/maker-camp/day-1/bristlebots)
 
 ## 4) [Breadboard](/maker-camp/day-1/breadboard)
-
-## 5) [Pull-up Resistors](/circuits/pull-up-resistor)
 
