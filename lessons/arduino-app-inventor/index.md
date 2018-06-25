@@ -13,4 +13,4 @@ search_omit: true
 
 4) RGB Led Light Strip App
 
-5) Build your own Arduino App Challange
+5) Build your own Arduino App Challenge

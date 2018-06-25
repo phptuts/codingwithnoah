@@ -5,7 +5,7 @@ excerpt: "Lesson Paths."
 search_omit: true
 ---
 
-##  Arduino Blockly Classes
+##  Classes
 
 ### 1) [Arduino Intro](/maker-camp/day-1/arduino-intro)
 
@@ -17,31 +17,37 @@ search_omit: true
 
 ### 5) [Messaging](/maker-camp/day-1/messaging)
 
-### 6) [Servo Intro](/maker-camp/day-2/servos-intro)
+### 6) Messaging App
 
-### 7) [High Five Machine](/maker-camp/day-2/highfive)
+### 7) [Servo Intro](/maker-camp/day-2/servos-intro)
 
-### 8) [Ultra Sonic High Five](/maker-camp/day-2/ultra-sonic-sensor)
+### 8) [High Five Machine](/maker-camp/day-2/highfive)
 
-### 9) [Wave Machine](/maker-camp/day-2/wave)
+### 9) [Ultra Sonic High Five](/maker-camp/day-2/ultra-sonic-sensor)
 
-### 10) [RGB Led Light Strip](/maker-camp/day-2/rgb-led-strip)
+### 10) [Wave Machine](/maker-camp/day-2/wave)
 
-### 11) [Timing](/maker-camp/day-2/timing)
+### 11) [RGB Led Light Strip Intro](/maker-camp/day-2/rgb-led-strip)
 
-### 12) [Sonar "else" Challenge](/arduino-blockly/sonar-else-challenge)
+### 12) [RGB Led Light Strip Challenge](/arduino-blockly/lesson-12-rgb-led-challenges)
 
 ### 13) [LCD Screen](/lcd-intro)
 
 ### 14) [LCD Screen Messaging](/arduino-blockly/lesson-8-lcd-serial-monitor)
 
-### 15) [LED Matrix Challenge](/arduino-blockly/lesson-9-led-matrix-challenge)
+### 15) Arcade Game Challenge
 
-### 16) [RFID & Arrays](/arduino-blockly/lesson-11-rfid-arrays)
+### 16) [LED Matrix Challenge](/arduino-blockly/lesson-9-led-matrix-challenge)
 
-### 17) [RGB LED Challenge](/arduino-blockly/lesson-12-rgb-led-challenges)
+### 17) RFID Rock Paper Scissors
 
-### 18) [Bluetooth](/arduino-blockly/lesson-13-bluetooth)
+### 18) [RGB LED Challenge](/arduino-blockly/lesson-12-rgb-led-challenges)
+
+### 19) [Bluetooth](/arduino-blockly/lesson-13-bluetooth)
+
+### 20) Plant monitor
+
+### 21) Remote Control RGB LED Light Strip
 
 ## Workshops
 
@@ -49,7 +55,8 @@ search_omit: true
 
 ### [Mini Golf](/maker-camp/day-3)
 
-### [Bluetooth Robot](/workshot/robot)
+### Bluetooth Robot
+
 
 
 
