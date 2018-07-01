@@ -193,6 +193,7 @@ Modify the program to make a valid RFID tag control a servo motor
     
 ![RFID Servo](/images/arduino-block/rfid-arrays/servo_challenge.gif)    
     
+    
 ## Review
 
 - What is an array / list?
