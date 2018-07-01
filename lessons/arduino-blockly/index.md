@@ -7,55 +7,63 @@ modified: 2018-06-24
 
 ##  Classes
 
-### 1) [Arduino Intro](/maker-camp/day-1/arduino-intro)
+### 1) [Arduino Intro](/arduino-blockly/arduino-intro)
 
-### 2) [Blink](/maker-camp/day-1/blink)
+### 2) [Blink](/arduino-blockly/blink)
 
-### 3) [Variable & Debugging](/maker-camp/day-1/variables-debug)
+### 3) [Variable & Debugging](/arduino-blockly/variables-debug)
 
-### 4) [If Block](/maker-camp/day-1/if-blocks)
+### 4) [If Block](/arduino-blockly/if-blocks)
 
-### 5) [Messaging](/maker-camp/day-1/messaging)
+### 5) [Messaging](/arduino-blockly/messaging)
 
-### 6) Messaging App
+### 6) [Servo Intro](/arduino-blockly/servos-intro)
 
-### 7) [Servo Intro](/maker-camp/day-2/servos-intro)
+### 7) [High Five Machine](/arduino-blockly/highfive)
 
-### 8) [High Five Machine](/maker-camp/day-2/highfive)
+### 8) [Ultra Sonic High Five](/arduino-blockly/ultra-sonic-sensor)
 
-### 9) [Ultra Sonic High Five](/maker-camp/day-2/ultra-sonic-sensor)
+### 9) [Wave Machine](/arduino-blockly/wave)
 
-### 10) [Wave Machine](/maker-camp/day-2/wave)
+### 10) [RFID & Arrays](/arduino-blockly/rfid-arrays)
 
-### 11) [RGB Led Light Strip Intro](/maker-camp/day-2/rgb-led-strip)
+### 11) [RGB Led](/arduino-blockly/rgb-led)
 
-### 12) [RGB Led Light Strip Challenge](/arduino-blockly/lesson-12-rgb-led-challenges)
+### 12) [RGB Led Custom](/arduino-blockly/rgb-led-control)
 
-### 13) [LCD Screen](/lcd-intro)
+### 13) [RGB Led Light Strip Intro](/arduino-blockly/rgb-led-strip)
 
-### 14) [LCD Screen Messaging](/arduino-blockly/lesson-8-lcd-serial-monitor)
+### 14) [RGB Led Light Strip Challenge](/arduino-blockly/rgb-light-strip-snake) 
 
-### 15) Arcade Game Challenge
+### 15) [LCD Screen](/arduino-blockly/lcd-screen-with-loops) 
 
-### 16) [LED Matrix Challenge](/arduino-blockly/lesson-9-led-matrix-challenge)
+### 16) [LCD Screen Messaging](/arduino-blockly/lcd-serial-monitor)
 
-### 17) RFID Rock Paper Scissors
+### 17) [LED Matrix Challenge](/arduino-blockly/led-matrix) 
 
-### 18) [RGB LED Challenge](/arduino-blockly/lesson-12-rgb-led-challenges)
+### 18) [Motors & Motor Shields](/arduino-blockly/motor-sheilds)
 
-### 19) [Bluetooth](/arduino-blockly/lesson-13-bluetooth)
+### 19) [Bluetooth](/arduino-blockly/bluetooth)
 
-### 20) Plant monitor
+### 20) [Timing](/arduino-blockly/timing)
 
-### 21) Remote Control RGB LED Light Strip
+### 21) Remote Control RGB LED [Future Lesson]
+
+### 22) Plant monitor [Future Lesson]
+
+### 23) Touch Controlled RGB Led [Future Lesson]
+
+### 24) Arduino Night Light [Future Lesson]
+
+### 25) Temperature Display [Future Lesson]
 
 ## Workshops
 
-### Circuits & Arduino Intro
+### Circuits & Arduino Intro [Future Lesson]
 
-### [Mini Golf](/maker-camp/day-3)
+### Mini Golf Course [Future Lesson]
 
-### Bluetooth Robot
+### Bluetooth Robot [Future Lesson]
 
 
 

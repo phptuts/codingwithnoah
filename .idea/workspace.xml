@@ -1,12 +1,832 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/arduino-blockly/lesson-8-lcd-serial-monitor/index.md" line="171" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/arduino-blockly/lcd-serial-monitor/index.md" line="172" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed925eb5-c7ba-4d73-bab6-38ee5c86172f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/circuits/pull-up-resistor/index.md" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/analog-write-block.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arduino-blockly/rgb-led-control/index.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/arduino-blockly-start/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/arduino-blockly/lesson-1-output/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/arduino-blockly/lesson-2-serial-monitor/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/arduino-blockly/lesson-3-number-variables-servos/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/arduino-blockly/lesson-4-count-loops-servos/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/arduino-blockly/lesson-5-global-variables-push-button/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/arduino-blockly/lesson-6-sonar/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/arduino-digital-write.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/breadboard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/challenge-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/challenge-2-a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/challenge-2-b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/challenge-2-c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/challenge-2-end-arduino.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/challenge-2-end-blocks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/challenge-3-a.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/challenge-3-b.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/challenge-3-c.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/challenge-4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/digital-write-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/kit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/led.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step13a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step13b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step15a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step15b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step17a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step17b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step19a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step19b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step20a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step20b.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step3a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step3b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step5a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step5b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-1/step9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step10a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step10b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step8-bag.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step8a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step8b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step9a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step9b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/kit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/challenge-1-a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/challenge-if-a.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/challenge-if-b.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/challenge-if-c.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/challenge-if-d.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/challenge-if-e.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/get_variable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/if-compare-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/kit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/read_until_character.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/serial-monitor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/serial-print.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/set_variable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step10a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step10b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step11a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step11b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step13a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step13b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step15a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step15b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step18a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step18b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step19a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step19b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step20a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step20b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step21a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step21b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step23a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step23b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step25a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step25b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step27a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step27b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step31a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step31b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step31c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/step9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-2/variable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/challenge-1-a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/challenge-1-b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/challenge-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/kit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/number_variable_block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step10a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step10b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step12a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step12b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step13a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step13b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step14a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step14b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step15a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step15b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step16a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step16b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step18a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step18b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step18c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step21a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step21b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step21c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step22a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step22b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step23a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step23b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step24a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step24b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step27a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step27b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step29a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step29b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step29c.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step8a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step8b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-3/step9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/count_loop_block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/kit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/servo-loop-challenge-a.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/servo-loop-challenge-b.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step10a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step10b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step10c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step11a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step11b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step13a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step13b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step15a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step15b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step17a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step17b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step18a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step18b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step20a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step20b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step20c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step21a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step21b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step23a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step23b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step23c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step25a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step25b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step25c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step28a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step28b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step28c.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step5a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step5b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step6a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step6b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step8a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step8b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step9a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-4/step9b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/challenge-a.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/challenge-b.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/challenge-c.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/digital-read-input.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/kit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step10a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step10b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step13a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step13b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step14a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step14b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step16a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step16b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step17a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step17b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step18a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step18b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step19a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step19b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step21a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step21b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step25a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step25b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step25c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step5a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step5b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step6a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step6b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step8a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step8b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-5/step9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/IF-a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/IF-b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/IF-c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/IF-d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/challenge.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/kit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step10a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step10b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step12a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step12b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step14a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step14b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step18a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step18b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step9a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step9b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-6/step9c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/access_denied.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/access_granted.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino-ide.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino-led-challenge-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino-pins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino-reset-btn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino-rx-tx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino-top-bar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/internal-led-on.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/project.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/turn-on-pin-13-part-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/turn-on-pin-13-part-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/turn-on-pin-13-part-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/upload-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/blink/2-led-arduino.fzz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/blink/blink.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/blink/challenge-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/blink/challenge-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/blink/challenge-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/blink/delay-block-menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/blink/delay-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/blink/double-blink.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/blink/led-2-arduino_bb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/blink/led-arduino.fzz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/blink/led-arduino_bb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/blink/off-beat-blink.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/blink/project.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/breadboard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/completed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/kit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_6a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_7a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/breadboard/step_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/complete.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/motor_spinning.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/motors.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/project.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_1a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/bristlebots/step_motor_poke_hole.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/human-circuit/led.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/human-circuit/negative-battery.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/human-circuit/positive-battery.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/human-circuit/project.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/human-circuit/resistor.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/human-circuit/what-it-looks-like.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/if-blocks/challenge-hint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/if-blocks/compare-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/if-blocks/if-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/if-blocks/internal-led-on.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/complete.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/messaging.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/read-until-one-character.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/serial-print-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_1a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_1b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_2_computer_to_arduino.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_3_computer_to_arduino.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_4a_computer_to_arduino.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_4b_computer_to_arduino.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_5_computer_to_arduino.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_6_computer_to_arduino.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/step_9a_computer_to_arduino.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/messaging/usb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/arduino-loop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-11a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-11b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-4a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-4b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-4c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-5a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-5b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-7a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-7b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/change-variable-step-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/create-variable-boolean-hint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/create-variable-challenge-hint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/create-variable-challenge-result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/get_variable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/global-var-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/global-var-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/global-var-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/project.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/set_variable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step1a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step1b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step2a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step2b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step3a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step3b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step4a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step4b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step7a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-1/variables-debug/step7b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/complete.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/project.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/pullup-resistor-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/pullup-resistor.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/push_button.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_4a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_4b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/highfive/step_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/challenge-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/challenge-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/kit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/rgb-led-strip.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/rgb.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/set-led-color-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/setup-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/step_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/challenge.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/complete.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/project.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/servo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/servo_block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_4a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_4b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/step_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/string_to_whole_number_example.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/servos-intro/string_to_whole_number_menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/timing/challenge.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/timing/millis-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_5a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_5b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/timing/step_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/challenge.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/complete.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/project.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/pulse-in-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/sonar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_12a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_12b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_17a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_17b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/utra-sonic-sensor/step_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/wave/count-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_5a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_5b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_9a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/wave/step_9b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-2/wave/wave.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/challenge-1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/challenge-2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/kit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_21-show.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_22-ex1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_22-ex2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_25a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_25b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_25c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_29-review.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-3/mini-golf/step_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/analog_write_block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/challenge.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/kit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/motor-sheild.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/motor-shield-explained.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_11.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_2a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_2b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_2c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_7a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_7b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/motor/step_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/complete.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/create-block-gear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/create-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/functions-menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_11a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_11b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_11c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_15a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_15b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_16a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_16b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_22b.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_22c.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_24a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_24b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_7a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_7b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_8a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maker-camp/day-4/robot/step_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-1/arduino-intro/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-1/blink/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-1/breadboard/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-1/bristlebots/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-1/human-circuit/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-1/if-blocks/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-1/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-1/messaging/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-1/variables-debug/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-2/highfive/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-2/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-2/rgb-led-strip/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-2/servos-intro/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-2/timing/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-2/ultra-sonic-sensor/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-2/wave/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-3/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-4/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-4/motors/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-4/robot/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-5/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/day-5/robot-olympics/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maker-camp/index.md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/arduino-blockly/lesson-10-led-light-strip-array/index.md" afterPath="$PROJECT_DIR$/arduino-blockly/rgb-light-strip-snake/index.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/arduino-blockly/lesson-11-rfid-arrays/index.md" afterPath="$PROJECT_DIR$/arduino-blockly/rfid-arrays/index.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/arduino-blockly/lesson-12-rgb-led-challenges/index.md" afterPath="$PROJECT_DIR$/arduino-blockly/rgb-led/index.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/arduino-blockly/lesson-13-bluetooth/index.md" afterPath="$PROJECT_DIR$/arduino-blockly/bluetooth/index.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/arduino-blockly/lesson-7-lcd-loops/index.md" afterPath="$PROJECT_DIR$/arduino-blockly/lcd-screen-with-loops/index.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/arduino-blockly/lesson-8-lcd-serial-monitor/index.md" afterPath="$PROJECT_DIR$/arduino-blockly/lcd-serial-monitor/index.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/arduino-blockly/lesson-9-led-matrix-challenge/index.md" afterPath="$PROJECT_DIR$/arduino-blockly/led-matrix/index.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/challenge.gif" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/challenge.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/kit.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/kit.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step11.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step12.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step13.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step13.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step14.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step15.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step15.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step16a.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step16a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step16b.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step16b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step17.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step17.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step18.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step18.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step19.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step20.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step20.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/step21.gif" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step21.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-10/whileblock.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/whileblock.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/kit.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/kit.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/servo_challenge.gif" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/servo_challenge.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step10a.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step10a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step10b.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step10b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step11.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step12a.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step12a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step12b.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step12b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step13.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step13.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step15.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step15.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step16a.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step16a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step16b.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step16b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step16c.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step16c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step17a.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step17a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step17b.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step17b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step18.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step18.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step19.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step20.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step20.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step21.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step21.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step22.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step22.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step23.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step23.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step24.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step24.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step25.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step25.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step26.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step26.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step27.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step27.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step28.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step28.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step29.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step29.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step30.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step30.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step31.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step31.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step4.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step5.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-11/step9.png" afterPath="$PROJECT_DIR$/images/arduino-block/rfid-arrays/step9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/analog_menu.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/analog_menu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/arduino_ground.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/arduino_ground.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/blue_analog.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/blue_analog.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/blue_pin_rgb.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/blue_pin_rgb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/challenge-1.gif" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/challenge-1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/challenge-2.gif" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/challenge-2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/create_red_variable.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/create_red_variable.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/create_variable_to_parse.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/create_variable_to_parse.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/delay.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/delay.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/green_analog.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/green_analog.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/green_pin_rgb.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/green_pin_rgb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/kit.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/kit.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/led_rgb_breadboard.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/led_rgb_breadboard.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/led_serial_monitor_controlled.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/led_serial_monitor_controlled.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/parse_string.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/parse_string.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/parse_string_rgb_led_red.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/parse_string_rgb_led_red.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/parse_text_block.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/parse_text_block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/parse_variable_part_2.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/parse_variable_part_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/parse_variable_part_3.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/parse_variable_part_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/parsing_variable_part_1.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/parsing_variable_part_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/red_analog.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/red_analog.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/red_led.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/red_led.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/red_pin_rgb.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/red_pin_rgb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/rgb_led.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/rgb_led.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/rgb_led_green.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/rgb_led_green.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/rgb_led_jumer_wire_ground.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/rgb_led_jumer_wire_ground.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/rgb_led_resistors.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/rgb_led_resistors.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/serial_monitor_colors.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/serial_monitor_colors.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/serial_monitor_control_led.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/serial_monitor_control_led.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/serial_print.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/serial_print.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/set_color_value.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led/set_color_value.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/set_red_pin.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/set_red_pin.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-12/text_menu_parse_text.png" afterPath="$PROJECT_DIR$/images/arduino-block/rgb-led-control/text_menu_parse_text.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/bluetooth_5v.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/bluetooth_5v.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/bluetooth_block.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/bluetooth_block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/bluetooth_block_filled.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/bluetooth_block_filled.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/bluetooth_gnd.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/bluetooth_gnd.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/bluetooth_have_data.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/bluetooth_have_data.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/bluetooth_menu_read.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/bluetooth_menu_read.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/bluetooth_read_until_string_block.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/bluetooth_read_until_string_block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/bluetooth_rx.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/bluetooth_rx.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/bluetooth_tx.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/bluetooth_tx.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/challenge_led.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/challenge_led.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/final_product.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/final_product.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/final_step.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/final_step.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/if_block.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/if_block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/menu_bluetooh.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/menu_bluetooh.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/phone/bluetooth_menu_more_settings.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/phone/bluetooth_menu_more_settings.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/phone/challenge_app.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/phone/challenge_app.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/phone/dropdown_android.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/phone/dropdown_android.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/phone/enter_passcode_part_1.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/phone/enter_passcode_part_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/phone/enter_passcode_part_2.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/phone/enter_passcode_part_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/phone/list_of_bluetooth_options.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/phone/list_of_bluetooth_options.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/phone/open_app.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/phone/open_app.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/phone/select_bluetooth_client.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/phone/select_bluetooth_client.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/phone/select_terminal.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/phone/select_terminal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/phone/type_hello_in_terminal.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/phone/type_hello_in_terminal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-13/serial_monitor_block.png" afterPath="$PROJECT_DIR$/images/arduino-block/bluetooth/serial_monitor_block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/backlight-block.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/backlight-block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/backlight-menu.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/backlight-menu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/blink-block.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/blink-block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/blink-menu.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/blink-menu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/challenge-1.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/challenge-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/challenge-2.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/challenge-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/challenge-3.gif" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/challenge-3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/kit.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/kit.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/lcd-clear-block-menu.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/lcd-clear-block-menu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/lcd-clear-block.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/lcd-clear-block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/lcd-screen-1.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/lcd-screen-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/lcd-screen-2.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/lcd-screen-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/lcd-screen.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/lcd-screen.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/menu-print-block.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/menu-print-block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/print-block.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/print-block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/scroll-block-menu.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/scroll-block-menu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/scroll-block.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/scroll-block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/set-cursor-block.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/set-cursor-block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/set-cursor-menu.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/set-cursor-menu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/step10a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/step10a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/step10b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/step10b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/step11a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/step11a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/step11b.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/step11b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/step12.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/step12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/step3.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/step3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/step4.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/step4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/step5.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/step5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/step6.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/step6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/step7.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/step7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/step8.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/step8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/step9a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/step9a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-7/step9b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-screen-with-loops/step9b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/boolean_variable_block.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/boolean_variable_block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/challenge-2-serial-monitor.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/challenge-2-serial-monitor.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/challenge-2.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/challenge-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/conditional-block.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/conditional-block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/if-block.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/if-block.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/kit.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/kit.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step10.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step11a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step11a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step11b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step11b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step11c.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step11c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step12a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step12a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step12b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step12b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step13a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step13a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step13b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step13b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step14a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step14a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step14b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step14b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step15a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step15a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step15b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step15b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step16.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step17.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step17.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step18.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step18.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step19.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step20a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step20a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step20b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step20b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step4a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step4a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step4b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step4b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step4c.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step4c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step5a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step5a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step5b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step5b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step5c.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step5c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step6a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step6a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step6b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step6b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step6c.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step6c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step7a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step7a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step7b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step7b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step8a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step8a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step8b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step8b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step9a.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step9a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-8/step9b.png" afterPath="$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step9b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/challenge-a.png" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/challenge-a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/challenge-b.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/challenge-b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/challenge-c.png" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/challenge-c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/challenge-d.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/challenge-d.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/kit.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/kit.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step10.png" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step11a.png" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step11a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step11b.png" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step11b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step12a.png" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step12a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step12b.png" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step12b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step12c.png" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step12c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step13a.png" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step13a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step13b.png" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step13b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step14.png" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step15a.png" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step15a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step15b.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step15b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step15c.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step15c.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step3.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step4.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step5.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step6.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step7.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step8.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step9a.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step9a.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/arduino-block/lesson-9/step9b.jpg" afterPath="$PROJECT_DIR$/images/arduino-block/led-matrix/step9b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/class_site.iml" afterPath="$PROJECT_DIR$/.idea/class_site.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lessons/arduino-blockly/index.md" afterPath="$PROJECT_DIR$/lessons/arduino-blockly/index.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lessons/circuits/index.md" afterPath="$PROJECT_DIR$/lessons/circuits/index.md" />
     </list>
@@ -23,12 +843,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lessons/arduino-blockly/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="585">
-                <caret line="39" column="25" lean-forward="false" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+              <first_editor relative-caret-position="479">
+                <caret line="65" column="34" lean-forward="false" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -36,51 +856,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maker-camp/day-1/arduino-intro/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/arduino-app-inventor/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/app-inventor/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lessons/circuits/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -89,11 +870,11 @@
         </entry>
       </file>
       <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maker-camp/day-1/breadboard/index.md">
+        <entry file="file://$PROJECT_DIR$/arduino-blockly/motor-sheilds/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1575">
-                <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="68" lean-forward="false" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -102,11 +883,11 @@
         </entry>
       </file>
       <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/index.md">
+        <entry file="file://$PROJECT_DIR$/arduino-blockly/timing/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <first_editor relative-caret-position="-713">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -115,11 +896,11 @@
         </entry>
       </file>
       <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circuits/ohms-law/index.md">
+        <entry file="file://$PROJECT_DIR$/archive/old-blockly-arduino/lesson-1-output/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-998">
-                <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -127,10 +908,65 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="electrical-force.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/circuits/ohms-law/electrical-force.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/archive/maker-camp/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/workshops/mini-golf/assemble-course/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigation.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arduino-blockly/rfid-arrays/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
           </provider>
         </entry>
       </file>
@@ -138,9 +974,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>images/</find>
-      <find>categories</find>
-      <find>25</find>
       <find>31</find>
       <find>Click on logging / debgging to make the serial monitor appear</find>
       <find>Arduino/</find>
@@ -168,6 +1001,9 @@
       <find>campers</find>
       <find>camper</find>
       <find>camp c</find>
+      <find>delay</find>
+      <find>rgb-led/</find>
+      <find>maker-camp/day-1</find>
     </findStrings>
     <replaceStrings>
       <replace>images/arduino/</replace>
@@ -178,6 +1014,8 @@
       <replace>camper</replace>
       <replace>servos-intro</replace>
       <replace>servos-intro/</replace>
+      <replace>rgb-led-control/</replace>
+      <replace>arduino-blockly</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/_posts</dir>
@@ -193,20 +1031,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/arduino-blockly/lesson-10-led-light-strip-array/index.md" />
-        <option value="$PROJECT_DIR$/arduino-blockly/lesson-11-rfid-arrays/index.md" />
-        <option value="$PROJECT_DIR$/arduino-blockly/lesson-12-rgb-led-challenges/index.md" />
-        <option value="$PROJECT_DIR$/arduino-blockly/lesson-13-bluetooth/index.md" />
-        <option value="$PROJECT_DIR$/class-schedule/index.md" />
-        <option value="$PROJECT_DIR$/arduino-blockly/lesson-2-serial-monitor/index.md" />
-        <option value="$PROJECT_DIR$/arduino-setup/index.md" />
-        <option value="$PROJECT_DIR$/arduino-blockly-ide-setup/index.md" />
-        <option value="$PROJECT_DIR$/contact/index.md" />
-        <option value="$PROJECT_DIR$/index.md" />
-        <option value="$PROJECT_DIR$/summer-camp/01-highfive/index.md" />
-        <option value="$PROJECT_DIR$/summer-camp/robot-day-2/index.md" />
-        <option value="$PROJECT_DIR$/summer-camp/day-1/variables/index.md" />
-        <option value="$PROJECT_DIR$/summer-camp/day-1/variables-messaging/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/day-1/if-statements/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/day-2/servos/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/day-2/utra-sonic-sensor/index.md" />
@@ -237,13 +1061,27 @@
         <option value="$PROJECT_DIR$/summer-camp/day-4/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/day-5/robot-olympics/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/index.md" />
-        <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/lessons/app-inventor/index.md" />
         <option value="$PROJECT_DIR$/lessons/index.md" />
         <option value="$PROJECT_DIR$/lessons/arduino-app-inventor/index.md" />
         <option value="$PROJECT_DIR$/circuits/ohms-law/index.md" />
-        <option value="$PROJECT_DIR$/lessons/circuits/index.md" />
+        <option value="$PROJECT_DIR$/arduino-blockly/rgb-led-challenge/index.md" />
+        <option value="$PROJECT_DIR$/arduino-blockly/rgb-led/index.md" />
+        <option value="$PROJECT_DIR$/arduino-blockly/rgb-led-control/index.md" />
+        <option value="$PROJECT_DIR$/arduino-blockly/rgb-light-strip-challenge/index.md" />
+        <option value="$PROJECT_DIR$/maker-camp/day-2/rgb-led-strip/index.md" />
+        <option value="$PROJECT_DIR$/arduino-blockly/rgb-light-strip-snake/index.md" />
+        <option value="$PROJECT_DIR$/arduino-blockly/lcd-screen-with-loops/index.md" />
+        <option value="$PROJECT_DIR$/arduino-blockly/lcd-serial-monitor/index.md" />
+        <option value="$PROJECT_DIR$/arduino-blockly/rfid-arrays/index.md" />
+        <option value="$PROJECT_DIR$/arduino-blockly/led-matrix/index.md" />
+        <option value="$PROJECT_DIR$/arduino-blockly/bluetooth/index.md" />
+        <option value="$PROJECT_DIR$/maker-camp/day-4/motors/index.md" />
+        <option value="$PROJECT_DIR$/arduino-blockly/motor-sheilds/index.md" />
+        <option value="$PROJECT_DIR$/workshops/mini-golf/assemble-course/index.md" />
+        <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/lessons/arduino-blockly/index.md" />
+        <option value="$PROJECT_DIR$/lessons/circuits/index.md" />
       </list>
     </option>
   </component>
@@ -280,8 +1118,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -291,60 +1129,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="maker-camp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="maker-camp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day-1" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="maker-camp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day-1" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arduino-intro" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -398,6 +1182,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaklandcodeschool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oaklandcodeschool" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_data" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -414,18 +1212,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/circuits/ohms-law" />
-      <recent name="$PROJECT_DIR$/summer-camp/day-5" />
-      <recent name="$PROJECT_DIR$/_site/images/summer-camp/day-4/robot" />
-      <recent name="$PROJECT_DIR$/summer-camp/day-3" />
-      <recent name="$PROJECT_DIR$/summer-camp/day-4" />
+      <recent name="$PROJECT_DIR$/images/workshops/mini-golf" />
+      <recent name="$PROJECT_DIR$/images/archive" />
+      <recent name="$PROJECT_DIR$/archive" />
+      <recent name="$PROJECT_DIR$/workshops/mini-golf" />
+      <recent name="$PROJECT_DIR$/images/arduino-block" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip" />
       <recent name="$PROJECT_DIR$/images/circuits/ohms-law" />
       <recent name="$PROJECT_DIR$/summer-camp/day-2" />
       <recent name="$PROJECT_DIR$/images/summer-camp/day-2" />
       <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/images/summer-camp/day-1/messaging" />
     </key>
   </component>
   <component name="RunManager">
@@ -608,12 +1406,14 @@
       <workItem from="1529796566919" duration="2900000" />
       <workItem from="1529803686690" duration="309000" />
       <workItem from="1529852664315" duration="2178000" />
-      <workItem from="1529892347732" duration="4261000" />
+      <workItem from="1529892347732" duration="5297000" />
+      <workItem from="1530024529264" duration="18705000" />
+      <workItem from="1530417516586" duration="6198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="423981000" />
+    <option name="totallyTimeSpent" value="449920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="820" extended-state="6" />
@@ -621,6 +1421,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24652778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33022636" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -628,7 +1429,6 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -648,15 +1448,15 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33022636" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32802126" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2638889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24652778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -674,204 +1474,327 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_site/images/summer-camp/day-4/robot/step_7b.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/maker-camp/day-4/robot/step_7b.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/images/summer-camp/day-4/robot/step_10.jpg" />
-    <entry file="file://$PROJECT_DIR$/_site/images/summer-camp/day-4/robot/step_9.jpg" />
-    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1515">
-          <caret line="101" column="54" lean-forward="false" selection-start-line="101" selection-start-column="54" selection-end-line="101" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/maker-camp/day-4/robot/step_24a.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/summer-camp/day-1/highfive2.gif" />
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-1-output/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1845">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/maker-camp/day-1/arduino-intro/arduino-rx-tx.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/bristlebots/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="637">
-            <caret line="107" column="3" lean-forward="false" selection-start-line="107" selection-start-column="3" selection-end-line="107" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/human-circuit/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="640">
-            <caret line="84" column="21" lean-forward="false" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/blink/index.md">
+    <entry file="file://$PROJECT_DIR$/images/circuits/ohms-law/water_jet_drinking_water_faucet_drop_of_water_water_liquid_clean_clear-1090036.jpg" />
+    <entry file="file://$PROJECT_DIR$/circuits/pull-up-resistor/index.md" />
+    <entry file="file://$PROJECT_DIR$/circuits/ohms-law/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="315">
-            <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-2/rgb-led-strip/index.md">
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/arduino-intro/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-2/ultra-sonic-sensor/index.md">
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rgb-led-control/led_serial_monitor_controlled.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rgb-led-control/parse_string_rgb_led_red.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/maker-camp/day-2/rbg-led-strip/Screen Shot 2018-06-26 at 2.07.45 PM.png" />
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step4.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rbg-led-strip/step_2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rbg-led-strip/step_3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rbg-led-strip/step_4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rgb-light-strip-snake/step7.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rbg-led-strip/step_5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rbg-led-strip/step_6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rbg-led-strip/step_7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rbg-led-strip/step_1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rbg-led-strip/step_8.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/rgb-led-strip/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <first_editor relative-caret-position="1245">
+            <caret line="81" column="55" lean-forward="false" selection-start-line="81" selection-start-column="55" selection-end-line="81" selection-end-column="55" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-2/index.md">
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/lcd-screen-with-loops/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="9" column="159" lean-forward="false" selection-start-line="9" selection-start-column="159" selection-end-line="9" selection-end-column="159" />
+          <first_editor relative-caret-position="75">
+            <caret line="17" column="76" lean-forward="false" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-2/wave/index.md">
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rfid-arrays/servo_challenge.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step18.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step20a.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/archive/old-blockly-arduino/lesson-5/challenge-b.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/lcd-serial-monitor/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1380">
-            <caret line="86" column="21" lean-forward="false" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+          <first_editor relative-caret-position="465">
+            <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-2/servos-intro/index.md">
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/rgb-led/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <first_editor relative-caret-position="15">
+            <caret line="9" column="58" lean-forward="false" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-2/timing/index.md">
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rfid-arrays/create-array-variable-block.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/rfid-arrays/access-denied.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/rgb-light-strip-snake/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <first_editor relative-caret-position="274">
+            <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-3/index.md">
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/led-matrix/step3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/led-matrix/G_20180626_2041092.gif" />
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/led-matrix/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2895">
-            <caret line="193" column="37" lean-forward="false" selection-start-line="193" selection-start-column="37" selection-end-line="193" selection-end-column="37" />
+          <first_editor relative-caret-position="2130">
+            <caret line="142" column="38" lean-forward="false" selection-start-line="142" selection-start-column="38" selection-end-line="142" selection-end-column="38" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-4/robot/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/bluetooth/bluetooth_have_data.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-5/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-4/index.md">
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/rgb-led-control/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="30">
-            <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="29" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/index.md">
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/bluetooth/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <first_editor relative-caret-position="2250">
+            <caret line="150" column="80" lean-forward="false" selection-start-line="150" selection-start-column="80" selection-end-line="150" selection-end-column="80" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/arduino/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino-blockly-start/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive/old-blockly-arduino/lesson-6-sonar/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive/maker-camp/day-4/motors/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="690">
+            <caret line="43" column="39" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino-blockly-ide-setup/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/rfid-arrays/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/motor-shields/step_6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive/old-blockly-arduino/lesson-1-output/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive/maker-camp/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/index.md">
+    <entry file="file://$PROJECT_DIR$/workshops/mini-golf/assemble-course/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -879,95 +1802,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-5/robot-olympics/index.md">
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/timing/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="345">
-            <caret line="21" column="11" lean-forward="false" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/maker-camp/day-4/motor/step_11.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/apple-touch-icon-72x72-precomposed.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/apple-touch-icon-144x144-precomposed.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/apple-touch-icon-precomposed.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-4/motors/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/if-blocks/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="645">
-            <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/variables-debug/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3210">
-            <caret line="214" column="0" lean-forward="false" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-2/highfive/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-10-led-light-strip-array/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-8-lcd-serial-monitor/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
+          <first_editor relative-caret-position="-713">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -975,120 +1819,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/lesson-11-rfid-arrays/index.md">
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/motor-sheilds/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/messaging/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1935">
-            <caret line="129" column="21" lean-forward="false" selection-start-line="129" selection-start-column="21" selection-end-line="129" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/app-inventor/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/arduino-app-inventor/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/breadboard/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1575">
-            <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/circuits/ohms-law/electrical-force.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/circuits/ohms-law/water_jet_drinking_water_faucet_drop_of_water_water_liquid_clean_clear-1090036.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuits/pull-up-resistor/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuits/ohms-law/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-998">
-            <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maker-camp/day-1/arduino-intro/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/circuits/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="68" lean-forward="false" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1098,8 +1833,19 @@
     <entry file="file://$PROJECT_DIR$/lessons/arduino-blockly/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="585">
-            <caret line="39" column="25" lean-forward="false" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <first_editor relative-caret-position="479">
+            <caret line="65" column="34" lean-forward="false" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/circuits/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
