@@ -2,7 +2,7 @@
 layout: page
 title: Lessons
 excerpt: "Lesson Paths."
-search_omit: true
+modified: 2018-07-1
 ---
 
 ## [Circuits](circuits)
@@ -11,9 +11,13 @@ search_omit: true
 
 ## [App Inventor](app-inventor)
 
-## App Inventor with Arduino
+## [App Inventor with Arduino](arduino-app-inventor) [Future Lessons]
 
-## Kotlin 
+## Arduino & Node [Future Lessons]
 
-## Android
+## Arduino with C [Future Lessons]
+
+## Kotlin [Future Lessons]
+
+## Android [Future Lessons]
 

@@ -2,15 +2,15 @@
 layout: page
 title: App Inventor with Arduino
 excerpt: "Lesson Paths."
-search_omit: true
+modified: 2018-07-1
 ---
 
-1) RGB LED App
+## 1) RGB LED App
 
-2) Servo Wave App
+## 2) Servo Wave App
 
-3) LED Matrix Draw App
+## 3) LED Matrix Draw App
 
-4) RGB Led Light Strip App
+## 4) RGB Led Light Strip App
 
-5) Build your own Arduino App Challenge
+## 5) Build your own Arduino App Challenge
