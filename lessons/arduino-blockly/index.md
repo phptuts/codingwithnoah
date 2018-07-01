@@ -39,7 +39,7 @@ modified: 2018-06-24
 
 ### 16) [LCD Screen Messaging](/arduino-blockly/lcd-serial-monitor)
 
-### 17) [LED Matrix Challenge](/arduino-blockly/led-matrix) 
+### 17) [LED Matrix](/arduino-blockly/led-matrix) 
 
 ### 18) [Motors & Motor Shields](/arduino-blockly/motor-sheilds)
 
