@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Get started learning technology in Austin. :)
+title: Oakland Code School, where people in oakland can learn how to write code for free.
 locale: en_US
-description: This is .
+description: This is a website about teaching people in Oakland code using the Arduino.  We are working on a courses for building online games and Android apps.
 logo: site-logo.png
 search: true
 url: http://www.oaklandcodeschool.org
