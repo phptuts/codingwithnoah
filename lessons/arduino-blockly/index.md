@@ -47,11 +47,11 @@ modified: 2018-06-24
 
 ### 20) [Timing](/arduino-blockly/timing)
 
-### 21) Remote Control RGB LED [Future Lesson]
+### 21) [Remote Control RGB LED](/arduino-blockly/ir-remote)
 
 ### 22) Plant monitor [Future Lesson]
 
-### 23) Touch Controlled RGB Led [Future Lesson]
+### 23) Touch Controlled led [Future Lesson]
 
 ### 24) Arduino Night Light [Future Lesson]
 

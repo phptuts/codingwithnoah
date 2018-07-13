@@ -1,3 +1,4 @@
 _site
 _site/*
 !/images/archive/old-blockly-arduino/lesson-2/step14.png
+!/arduino-blockly/ir-remote/index.md
