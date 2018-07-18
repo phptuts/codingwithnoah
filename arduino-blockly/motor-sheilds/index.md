@@ -2,7 +2,7 @@
 layout: page
 title: Arduino Motor Shield (L293D)
 excerpt: "To learn how to control motor shield with the motor blocks."
-modified: 2018-1-30
+modified: 2018-7-18
 ---
 
 ## Objective
