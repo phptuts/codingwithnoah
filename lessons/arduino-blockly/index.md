@@ -49,7 +49,7 @@ modified: 2018-06-24
 
 ### 21) [Remote Control RGB LED](/arduino-blockly/ir-remote)
 
-### 22) Plant monitor [Future Lesson]
+### 22) [Soil Sensor](/arduino-blockly/soil-sensor)
 
 ### 23) Touch Controlled led [Future Lesson]
 

@@ -11,8 +11,20 @@ Learn how to use an lcd screen and soil sensor to print stuff to the screen.
 
 ## Kit
 
+![complete kit](/images/arduino-block/soil-sensor/kit.jpg)
+
 
 ## Completed Project
+
+![complete kit](/images/arduino-block/soil-sensor/complete.gif)
+
+## Bill of Materials 
+
+- 1 x Arduino with usb  
+- 1 x lcd screen
+- 1 x soil sensor
+- 2 x f to f wire 
+- 7 x m to f wires
 
 ## What is a soil sensor?
 
@@ -137,4 +149,38 @@ Ground goes to ground and volts goes to **3.3v** on the Arduino.
 
 17) Put a text block into the hole of the text join block.  Set the text block to say "Humidity At: ".
 
-![step 16](/images/arduino-block/soil-sensor/step_17.png#img-phone)
+![step 17](/images/arduino-block/soil-sensor/step_17.png#img-phone)
+
+18) Connect a value to the text join block.  You can find this block in the text menu.
+
+![step 18](/images/arduino-block/soil-sensor/step_18.png#img-phone)
+
+19) Connect a get variable block to the value to string block.  Set it to use the "humidity percentage" variable.
+
+![step 19](/images/arduino-block/soil-sensor/step_19.png#img-phone)
+
+20) Connect a text variable to the other hole of the text join block.  Set it equal to "%";
+
+![step 20](/images/arduino-block/soil-sensor/step_20.png#img-phone)
+
+21) From the input/output menu connect a serial print block to the bottom of the code.  Delete the text block attached to it.
+
+![step 21](/images/arduino-block/soil-sensor/step_21.png#img-phone)
+
+22) Connect a get variable block and set it to use the display message variable.
+
+![step 22](/images/arduino-block/soil-sensor/step_22.png#img-phone)
+
+23) Connect a delay block to the end of the code.
+
+![step 23](/images/arduino-block/soil-sensor/step_23.png#img-phone)
+
+24) Upload the code and open the message dialog box.
+
+![step 24](/images/upload-1.png)
+
+## Challenge 
+
+Create a program with what you learned in [lcd screen lesson](/arduino-blockly/lcd-screen-with-loops/) to print the humidity level on the screen.
+
+![challenge](/images/arduino-block/soil-sensor/complete.gif)
