@@ -51,7 +51,7 @@ modified: 2018-06-24
 
 ### 22) [Soil Sensor](/arduino-blockly/soil-sensor)
 
-### 23) Touch Controlled led [Future Lesson]
+### 23) [Touch Controlled led](/arduino-blockly/touch-activated-rainbow)
 
 ### 24) Arduino Night Light [Future Lesson]
 

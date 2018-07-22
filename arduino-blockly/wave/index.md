@@ -28,7 +28,7 @@ To write a loop to make a servo move a smooth control way.
 
 This block is used to count and execute a set of blocks a certain number of times.  In the block below it will create a variable named "i" that is a number.  It will set variable i to one.  The blocks inside the count with block will  executed until "i" equals 10.  Every time the blocks inside the loop are executed it will increase "i" by 1.
 
-![step 1](/images/arduino-block/wave/count-block.png)
+![count block](/images/arduino-block/wave/count-block.png)
 
 ## Instructions
 
