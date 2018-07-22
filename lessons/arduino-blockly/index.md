@@ -53,7 +53,7 @@ modified: 2018-06-24
 
 ### 23) [Touch Controlled led](/arduino-blockly/touch-activated-rainbow)
 
-### 24) Arduino Night Light [Future Lesson]
+### 24) [Arduino Night Light](/arduino-blockly/night-light) 
 
 ### 25) Temperature Display [Future Lesson]
 

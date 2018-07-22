@@ -5,49 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed925eb5-c7ba-4d73-bab6-38ee5c86172f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/challenge_1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/challenge_2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/digital-read-block.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/if-block.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/if-else-block.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/kit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_10a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_10b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_11a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_11b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_12a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_12b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_13a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_13b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_15a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_15b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_21a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_21b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_27.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/step_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arduino-block/touch-activated-rainbow/touch-sensor.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arduino-blockly/touch-activated-rainbow/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arduino-blockly/night-light/index.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arduino-blockly/wave/index.md" afterPath="$PROJECT_DIR$/arduino-blockly/wave/index.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lessons/arduino-blockly/index.md" afterPath="$PROJECT_DIR$/lessons/arduino-blockly/index.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,8 +26,21 @@
         <entry file="file://$PROJECT_DIR$/lessons/arduino-blockly/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="607">
-                <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+              <first_editor relative-caret-position="149">
+                <caret line="55" column="52" lean-forward="true" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arduino-blockly/night-light/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -80,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/arduino-blockly/touch-activated-rainbow/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="562">
+              <first_editor relative-caret-position="2760">
                 <caret line="184" column="72" lean-forward="false" selection-start-line="184" selection-start-column="72" selection-end-line="184" selection-end-column="72" />
                 <folding />
               </first_editor>
@@ -106,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/arduino-blockly/wave/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-383">
+              <first_editor relative-caret-position="390">
                 <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -128,22 +100,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="160" lean-forward="false" selection-start-line="4" selection-start-column="160" selection-end-line="4" selection-end-column="160" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/arduino-blockly/ir-remote/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="27" selection-end-column="18" />
+              <first_editor relative-caret-position="150">
+                <caret line="150" column="38" lean-forward="false" selection-start-line="150" selection-start-column="38" selection-end-line="150" selection-end-column="38" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -164,19 +126,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="step_1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/arduino-block/soil-sensor/step_1.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/arduino-blockly/motor-sheilds/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="26" selection-end-column="14" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -188,7 +143,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>31</find>
       <find>Click on logging / debgging to make the serial monitor appear</find>
       <find>Arduino/</find>
       <find>ESP</find>
@@ -218,6 +172,7 @@
       <find>delay</find>
       <find>rgb-led/</find>
       <find>maker-camp/day-1</find>
+      <find>analog</find>
     </findStrings>
     <replaceStrings>
       <replace>images/arduino/</replace>
@@ -245,7 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/summer-camp/day-1/breadboard/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/day-1/bristlebots/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/day-1/human-circuit/index.md" />
         <option value="$PROJECT_DIR$/summer-camp/day-1/if-blocks/index.md" />
@@ -295,6 +249,7 @@
         <option value="$PROJECT_DIR$/arduino-blockly/rainbow-touch-sensor/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/wave/index.md" />
         <option value="$PROJECT_DIR$/arduino-blockly/touch-activated-rainbow/index.md" />
+        <option value="$PROJECT_DIR$/arduino-blockly/night-light/index.md" />
         <option value="$PROJECT_DIR$/lessons/arduino-blockly/index.md" />
       </list>
     </option>
@@ -312,7 +267,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="820" />
+    <option name="height" value="817" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -386,96 +341,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="circuits" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arduino-block" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arduino-block" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="touch-activated-rainbow" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arduino-blockly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wave" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="arduino-blockly" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -494,79 +359,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="touch-activated-rainbow" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arduino-blockly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="soil-sensor" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arduino-blockly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rgb-led" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arduino-blockly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="motor-sheilds" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oaklandcodeschool" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arduino-blockly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="if-blocks" />
+              <option name="myItemId" value="night-light" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -797,21 +590,23 @@
       <workItem from="1531934149885" duration="2722000" />
       <workItem from="1532038175628" duration="305000" />
       <workItem from="1532126334176" duration="4262000" />
-      <workItem from="1532225817038" duration="2430000" />
+      <workItem from="1532225817038" duration="3100000" />
+      <workItem from="1532270695625" duration="3550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="474059000" />
+    <option name="totallyTimeSpent" value="478279000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="820" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="817" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24652778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24652778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3302139" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33022636" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -825,7 +620,6 @@
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32802126" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -863,16 +657,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step18.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/arduino-block/lcd-serial-monitor/step20a.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/archive/old-blockly-arduino/lesson-5/challenge-b.gif">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1164,33 +948,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/motor-sheilds/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lessons/app-inventor/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
             <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arduino-blockly/ir-remote/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="27" selection-end-column="18" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1211,7 +973,7 @@
     <entry file="file://$PROJECT_DIR$/arduino-blockly/touch-activated-rainbow/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="562">
+          <first_editor relative-caret-position="2760">
             <caret line="184" column="72" lean-forward="false" selection-start-line="184" selection-start-column="72" selection-end-line="184" selection-end-column="72" />
             <folding />
           </first_editor>
@@ -1222,8 +984,46 @@
     <entry file="file://$PROJECT_DIR$/arduino-blockly/wave/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-383">
+          <first_editor relative-caret-position="390">
             <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/motor-sheilds/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="26" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/ir-remote/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="150" column="38" lean-forward="false" selection-start-line="150" selection-start-column="38" selection-end-line="150" selection-end-column="38" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/arduino-block/night-light/IMG_20180722_074419499.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino-blockly/night-light/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1233,8 +1033,8 @@
     <entry file="file://$PROJECT_DIR$/lessons/arduino-blockly/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="607">
-            <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <first_editor relative-caret-position="149">
+            <caret line="55" column="52" lean-forward="true" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
             <folding />
           </first_editor>
           <second_editor />
