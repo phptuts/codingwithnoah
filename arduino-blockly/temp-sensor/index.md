@@ -17,7 +17,7 @@ To learn how to read a temperature and display it on an lcd screen.
 
 ## Completed Project
 
-![challenge 1](/images/arduino-block/temp-sensor/challenge-1.png)
+![challenge 1](/images/arduino-block/temp-sensor/challenge-2.png)
 
 ## Bill of Materials 
 
@@ -138,5 +138,5 @@ Create a double variable that will store the temperature in celsius.  To get tha
 
 Display the temperature on the lcd screen.  Have it take a new temperature every second.  Only refresh the temperatuer number not the other parts of the text on the screen.  If you need an lcd screen fresher check out this [lesson](/arduino-blockly/lcd-screen-with-loops)
 
-![challenge 1](/images/arduino-block/temp-sensor/challenge-1.png)
+![challenge 1](/images/arduino-block/temp-sensor/challenge-2.png)
 
