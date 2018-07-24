@@ -55,7 +55,7 @@ modified: 2018-06-24
 
 ### 24) [Arduino Night Light](/arduino-blockly/night-light) 
 
-### 25) Temperature Display [Future Lesson]
+### 25) [Temperature Display](/arduino-blockly/temp-sensor)
 
 ## Workshops
 
