@@ -37,8 +37,8 @@
         <entry file="file://$PROJECT_DIR$/arduino-blockly/temp-sensor/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="585">
-                <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <first_editor relative-caret-position="589">
+                <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -681,12 +681,12 @@
       <workItem from="1532225817038" duration="3100000" />
       <workItem from="1532270695625" duration="3775000" />
       <workItem from="1532372319881" duration="777000" />
-      <workItem from="1532470092811" duration="4472000" />
+      <workItem from="1532470092811" duration="4501000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="483753000" />
+    <option name="totallyTimeSpent" value="483782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="817" extended-state="6" />
@@ -1124,8 +1124,8 @@
     <entry file="file://$PROJECT_DIR$/arduino-blockly/temp-sensor/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="585">
-            <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <first_editor relative-caret-position="589">
+            <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
