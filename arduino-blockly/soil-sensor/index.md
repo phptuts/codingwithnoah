@@ -13,7 +13,6 @@ Learn how to use an lcd screen and soil sensor to print stuff to the screen.
 
 ![complete kit](/images/arduino-block/soil-sensor/kit.jpg)
 
-
 ## Completed Project
 
 ![complete kit](/images/arduino-block/soil-sensor/complete.gif)
@@ -69,7 +68,12 @@ This block is used to join to text/string or variables that are strings together
 ![text join block](/images/arduino-block/soil-sensor/text-join-block.png#img-phone)
 
 
-TODO Explain value to string block.
+## Value To String Block
+
+This block will take a value that is a whole number (int), boolean, or String and turn it into a string.  Example would be taking the number 4 and turning it into a string "4".  You need this when you want to add a number to a String.  This will work on every type for value except double, decimal point values.  For doubles use the double to string block.  These blocks can be found in the text menu.
+
+![value to text block](/images/arduino-block/soil-sensor/value-to-text-blocks.png#img-phone)
+
 
 ## Soil Sensor Chip
 
