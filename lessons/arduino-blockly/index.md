@@ -2,7 +2,7 @@
 layout: page
 title: Arduino Blockly Classes
 excerpt: "Lessons about Arduinos and components using Blockly."
-modified: 2018-06-24
+modified: 2018-07-26
 ---
 
 ##  Classes
@@ -21,41 +21,43 @@ modified: 2018-06-24
 
 ### 7) [High Five Machine](/arduino-blockly/highfive)
 
-### 8) [Ultra Sonic High Five](/arduino-blockly/ultra-sonic-sensor)
+### 8) [Arduino Basketball with IR Sensor](/arduino-blockly/ir-motion-sensor-basketball)
 
-### 9) [Wave Machine](/arduino-blockly/wave)
+### 9) [Ultra Sonic High Five](/arduino-blockly/ultra-sonic-sensor)
 
-### 10) [RFID & Arrays](/arduino-blockly/rfid-arrays)
+### 10) [Wave Machine](/arduino-blockly/wave)
 
-### 11) [RGB Led](/arduino-blockly/rgb-led)
+### 11) [RFID & Arrays](/arduino-blockly/rfid-arrays)
 
-### 12) [RGB Led Custom](/arduino-blockly/rgb-led-control)
+### 12) [RGB Led](/arduino-blockly/rgb-led)
 
-### 13) [RGB Led Light Strip Intro](/arduino-blockly/rgb-led-strip)
+### 13) [RGB Led Custom](/arduino-blockly/rgb-led-control)
 
-### 14) [RGB Led Light Strip Challenge](/arduino-blockly/rgb-light-strip-snake) 
+### 14) [RGB Led Light Strip Intro](/arduino-blockly/rgb-led-strip)
 
-### 15) [LCD Screen](/arduino-blockly/lcd-screen-with-loops) 
+### 15) [RGB Led Light Strip Challenge](/arduino-blockly/rgb-light-strip-snake) 
 
-### 16) [LCD Screen Messaging](/arduino-blockly/lcd-serial-monitor)
+### 16) [LCD Screen](/arduino-blockly/lcd-screen-with-loops) 
 
-### 17) [LED Matrix](/arduino-blockly/led-matrix) 
+### 17) [LCD Screen Messaging](/arduino-blockly/lcd-serial-monitor)
 
-### 18) [Motors & Motor Shields](/arduino-blockly/motor-sheilds)
+### 18) [LED Matrix](/arduino-blockly/led-matrix) 
 
-### 19) [Bluetooth](/arduino-blockly/bluetooth)
+### 19) [Motors & Motor Shields](/arduino-blockly/motor-sheilds)
 
-### 20) [Timing](/arduino-blockly/timing)
+### 20) [Bluetooth](/arduino-blockly/bluetooth)
 
-### 21) [Remote Control RGB LED](/arduino-blockly/ir-remote)
+### 21) [Timing](/arduino-blockly/timing)
 
-### 22) [Soil Sensor](/arduino-blockly/soil-sensor)
+### 22) [Remote Control RGB LED](/arduino-blockly/ir-remote)
 
-### 23) [Touch Controlled led](/arduino-blockly/touch-activated-rainbow)
+### 23) [Soil Sensor](/arduino-blockly/soil-sensor)
 
-### 24) [Arduino Night Light](/arduino-blockly/night-light) 
+### 24) [Touch Controlled led](/arduino-blockly/touch-activated-rainbow)
 
-### 25) [Temperature Display](/arduino-blockly/temp-sensor)
+### 25) [Arduino Night Light](/arduino-blockly/night-light) 
+
+### 26) [Temperature Display](/arduino-blockly/temp-sensor)
 
 ## Workshops
 
