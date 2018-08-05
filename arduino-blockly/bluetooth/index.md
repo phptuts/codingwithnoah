@@ -2,8 +2,12 @@
 layout: page
 title:  Bluetooth
 excerpt: "How to use Bluetooth ."
-modified: 2018-02-22
+modified: 2018-07-28
 ---
+
+## Objective
+
+To learn how to change the color of rgb led with Arduino and bluetooth. 
 
 ## Project Kit
 
