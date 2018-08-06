@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Arduino Intro
+title: Arduino Basketball Workshop 
 excerpt: "Arduino Basketball Workshop."
-modified: 2018-07-28
+modified: 2018-08-05
 ---
 
 ## Objective
