@@ -63,6 +63,8 @@ modified: 2018-07-26
 
 ## Workshops
 
+### [Basketball Workshop](/workshops/arduino-blockly/basketball/basketball.md)
+
 ### Circuits & Arduino Intro [Future Lesson]
 
 ### Mini Golf Course [Future Lesson]
