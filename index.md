@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Oakland's Free Code School
-excerpt: "Empowering people by teaching them to code."
-modified: 2018-04-28
+excerpt: "Having fun with people by teaching them how to code. :)"
+modified: 2018-09-10
 ---
 
 
@@ -24,7 +24,7 @@ Students will learn how to build apps that control the Arduino (Small computer u
 
 ## Location
 
-Classes are held [Omni Commons](https://omnicommons.org/).  If you have any questions or comments email me at glaserpower [at] gmail.com.  
+Classes right now are held at the oakland library main branch. They are held Thursday from 5:45 to 7:45.  Please check the [Class schedule](/class-schedule) for exceptions.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.0803837934363!2d-122.26631688468059!3d37.83500397974854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80857de1eb0c0627%3A0x8a7ce667f2da71ce!2sOmni+Commons!5e0!3m2!1sen!2sus!4v1516305281182" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Oakland%20Public%20Library%2C%20125%2014th%20St%2C%20Oakland%2C%20CA%2094612&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.embedgooglemap.net">embedgooglemap.net</a></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
 
