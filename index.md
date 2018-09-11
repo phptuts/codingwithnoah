@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oakland's Free Code School
+title: Oakland's Free & Fun Code School
 excerpt: "Having fun with people by teaching them how to code. :)"
 modified: 2018-09-10
 ---
@@ -8,19 +8,19 @@ modified: 2018-09-10
 
 ## Why?
 
-My primary goal is to empower people, especially underprivileged people, by teaching them how to write code.  I want everyone to know that they can learn how to program. I want everyone to get the support that they need regardless of economic or social status.  I believe that everyone can be a coder, it just takes time & consistent practice.
+Because it's fun!!! I feel that everyone can have fun and should have fun learning and build awesome projects, regardless of who they are or where they come from.  I want everyone to know this is not above you, and that you can do this! :)
 
 ## Class Structure
 
-These are self-paced lessons where each lesson builds on the last.  I know people learn at different rates, and I never want anyone to feel rushed.  The goal is for students to become an excellent programmers, so it's essential that everyone understands every concept before moving to the next.  If you find yourself going fast, help someone in class out.  
+We go over each concepts and ask questions to try to make sure that everyone understands what's going.  All classes are hands on and our project based, meaning there is a completed project at the end of the class. There is no grade and thus there is no stupid question.  Welcome to a class without pressure or expectations.  All you have to do is show up!!! :)
 
 ## About Instructor
 
-I am Noah Glaser and I have been teach community programing classes for the past 3 years.  My background is in web development.  I specialize in PHP and javascript, but also passionate about Arduino and Android programming.  I teach both adult and youth classes.
+My name is Noah Glaser, by day I am a web developer, by night / weekend I am internet professor.  I've been teaching for free for over 4 years and loving it.  Right now I mostly focus on Arduino but I am expanding into game development and possibly web dev as well.  I also love to juggle and bad tell dad jokes.
 
-## What you'll learn
+## What you can expect?
 
-Students will learn how to build apps that control the Arduino (Small computer used to build robots, 3d printers, and various hardware systems.)  Students learn how to program with Bluetooth, led light strips, small motors, and more.  In this course students will learn the basics of behind writing code and they will leaving having built various Arduino and Android Apps.  The program is taught with Google's Blockly language, which is a language designed to teach new coders.   Open to all kinds of workshops, so please [contact me](/contact) with  ideas.
+Most of the classes we'll assume that you are starting from scratch.  So you can expect that we'll be going over everything from the ground up.  A lot of our classes use blockly, a free drag and drop language developed by google.  I would say can expect to have a great time and learn some coding concepts you can use to build cool projects. :)  The goal is for you to use what you learn out in the world.
 
 ## Location
 
