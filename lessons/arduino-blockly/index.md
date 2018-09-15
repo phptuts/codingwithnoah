@@ -63,7 +63,7 @@ modified: 2018-07-26
 
 ## Workshops
 
-### [Basketball Workshop](/workshops/arduino-blockly/basketball/basketball.md)
+### [Basketball Workshop](/workshops/arduino-blockly/basketball)
 
 ### Circuits & Arduino Intro [Future Lesson]
 

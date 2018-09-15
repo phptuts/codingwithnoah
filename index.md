@@ -12,15 +12,15 @@ Because it's fun!!! I feel that everyone can have fun and should have fun learni
 
 ## Class Structure
 
-We go over each concepts and ask questions to try to make sure that everyone understands what's going.  All classes are hands on and our project based, meaning there is a completed project at the end of the class. There is no grade and thus there is no stupid question.  Welcome to a class without pressure or expectations.  All you have to do is show up!!! :)
+We go over each concepts and ask questions to try to make sure that everyone understands what's going on.  All classes are hands on and are project based, meaning there is a completed project at the end of the class. There is no grade and thus there is no stupid question.  Welcome to a class without pressure or expectations.  All you have to do is show up!!! :)
 
 ## About Instructor
 
-My name is Noah Glaser, by day I am a web developer, by night / weekend I am internet professor.  I've been teaching for free for over 4 years and loving it.  Right now I mostly focus on Arduino but I am expanding into game development and possibly web dev as well.  I also love to juggle and bad tell dad jokes.
+My name is Noah Glaser, by day I am a web developer, by night / weekend I am volunteer educator.  I've been teaching for free for over 4 years and loving it.  Right now I mostly focus on Arduino but I am expanding into game development and possibly web dev as well.  I also love to juggle and bad tell dad jokes.
 
 ## What you can expect?
 
-Most of the classes we'll assume that you are starting from scratch.  So you can expect that we'll be going over everything from the ground up.  A lot of our classes use blockly, a free drag and drop language developed by google.  I would say can expect to have a great time and learn some coding concepts you can use to build cool projects. :)  The goal is for you to use what you learn out in the world.
+Most of the classes I'll assume that you are starting from scratch.  So you can expect that we'll be going over everything from the ground up.  A lot of our classes use blockly, a free drag and drop language developed by google.  You can expect to have a great time building awesome projects. My goal is for you to use what you learn to build something amazing out in the real world.  
 
 ## Location
 
