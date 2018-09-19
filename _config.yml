@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Oakland Code School, where people in oakland can learn how to write code for free.
+title: Coding with Noah.  Free classes in the Bay Area / Oakland
 locale: en_US
 description: This is a website about teaching people in Oakland code using the Arduino.  We are working on a courses for building online games and Android apps.
 logo: site-logo.png
 search: true
-url: http://www.oaklandcodeschool.org
+url: http://www.codingwithnoah.com
 #url: http://127.0.0.1:4000
 
 # Jekyll configuration
