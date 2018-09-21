@@ -29,6 +29,7 @@ modified: 2018-09-20
 
 1) Download the [Arduino Blockly IDE deb file](https://github.com/phptuts/ArduinoBlocklyIDE/releases/download/v1.0.26/ArduinoBlocklyIDE_1.0.26_amd64.deb) and install it on your os.
 
+2) Edit the command so that it runs with sudo.  There will be more instructions and pictures on this later.
 
 ## Troubleshooting
 
