@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Arduino Blockly IDE Installation Guide
+title: Arduino Blockly IDE Setup Guide
 excerpt: "How to get going"
-modified: 2018-04-28
+modified: 2018-09-20
 ---
 
 ### Windows
 
-1) Download the [Arduino Blockly IDE](https://github.com/phptuts/ArduinoBlocklyIDE/releases/download/v1.0.14/Arduino.Blockly.IDE.Setup.1.0.14.exe).
+1) Download the [Arduino Blockly IDE](https://github.com/phptuts/ArduinoBlocklyIDE/releases/download/v1.0.26/Arduino.Blockly.IDE.Setup.1.0.26.exe).
 
 2) Install the program, you will hit a windows protector smart screen.  Click the more information button.
 
@@ -20,14 +20,14 @@ modified: 2018-04-28
 
 ### Mac
 
-1) Download the [Arduino Blockly IDE](https://github.com/phptuts/ArduinoBlocklyIDE/releases/download/v1.0.14/ArduinoBlocklyIDE-1.0.14-mac.zip)
+1) Download the [Arduino Blockly IDE](https://github.com/phptuts/ArduinoBlocklyIDE/releases/download/v1.0.26/ArduinoBlocklyIDE-1.0.26-mac.zip)
 
 2) Unzip the file and drag it to your application folder
 
 
 ### Linux
 
-1) Download the [Arduino Blockly IDE deb file](https://github.com/phptuts/ArduinoBlocklyIDE/releases/download/v1.0.14/ArduinoBlocklyIDE_1.0.14_amd64.deb) and install it on your os.
+1) Download the [Arduino Blockly IDE deb file](https://github.com/phptuts/ArduinoBlocklyIDE/releases/download/v1.0.26/ArduinoBlocklyIDE_1.0.26_amd64.deb) and install it on your os.
 
 
 ## Troubleshooting
