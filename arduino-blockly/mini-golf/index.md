@@ -45,7 +45,7 @@ modified: 2018-09-07
 
 ![step 10](/images/arduino-block/mini-golf/step_10.jpg#img-phone)
 
-11) Download the [Test Code](/downloads/mini-golf-colors_test.xml) and upload it to the arduino.
+11) Download the [Test Code](/downloads/workshops/mini-golf/mini-golf-colors_test.xml) and upload it to the arduino.
 
 ![upload code](/images/upload-1.png)
 
@@ -78,4 +78,24 @@ modified: 2018-09-07
 18) Upload the code make sure that both light strip are on.
 
 ![step 18](/images/arduino-block/mini-golf/step_18.jpg)
+
+19) Connect a wire from gnd (ground) of the Arduino to blue (-) line of the breadboard.
+
+![step 19](/images/arduino-block/mini-golf/step_19.jpg)
+
+20) Connect a wire from pin 9 of Arduino (1) to pin 9 of Arduino (2).
+
+![step 20](/images/arduino-block/mini-golf/step_20.jpg)
+
+21) Download the code [Arduino-2-Test-Code](/downloads/workshops/mini-golf/mini-golf-arduino-2-test-com.xml) and upload it to Arduino 2, the one that does not have the lights.  This code will send an electrical signal from 9 pin of Arduino 2 to pin 9 of Arduino 1 every 10 seconds.
+
+![step 21](/images/arduino-block/mini-golf/step_21.png#img-phone)
+
+![upload code](/images/upload-1.png)
+
+22) Download the code [Arduino-1-Test-2-Code](/downloads/workshops/mini-golf/mini-golf-arduino-1-test-2.xml) and upload it to Arduino 1.  This will turn the all the leds blue if the Arduino 1 pin 9 is on or has electricity going through it.
+
+![upload code](/images/upload-1.png)
+
+![step 21](/images/arduino-block/mini-golf/step_22.gif)
 
