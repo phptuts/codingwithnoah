@@ -29,7 +29,7 @@ All our classes are mixed, meaning usually people between the ages of 6 to 80 sh
 
 ## Contact Me
 
-You can contact me at glaserpower [at] gmail.com.  I usually respond to emails within 2 days. Feel free to email me your ideas for classes.
+You can contact me at glaserpower [at] gmail.com.  I usually respond to emails within 2 days. Feel free to email me your ideas for classes.  I also have a slack channel, email me if you want access to it.  There you can get your questions answered about lessons and scheduling.
 
 
 ## Location
