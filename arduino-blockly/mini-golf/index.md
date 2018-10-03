@@ -97,5 +97,48 @@ modified: 2018-09-07
 
 ![upload code](/images/upload-1.png)
 
-![step 21](/images/arduino-block/mini-golf/step_22.gif)
+![step 22](/images/arduino-block/mini-golf/step_22.gif)
+
+23) Using 2 small wires connect one side of the + and one side of the minus.  Make sure you are using the same side of the breadboard.
+
+![step 23](/images/arduino-block/mini-golf/step_23.jpg)
+
+24) Connect a jumper wire from 5v of the Arduino to (+) red line of the breadboard.
+
+![step 24](/images/arduino-block/mini-golf/step_24.jpg)
+
+25) Connect a jumper wire from gnd of the Arduino to (-) blue line of the breadboard.
+
+![step 25](/images/arduino-block/mini-golf/step_25.jpg)
+
+26) Connect a small wire from (34, B) to (+) red line of the breadboard.
+ 
+![step 26](/images/arduino-block/mini-golf/step_26.jpg)
+
+27) Connect a wire from (34, D) to f to f jumper wire to the vcc pin of the sensor.
+
+![step 27](/images/arduino-block/mini-golf/step_27.jpg)
+
+28) Connect a small wire from (35, B) to (-) blue line of the breadboard.  Then connect a wire from (35, D) to f to f jumper wire to the gnd pin of the sensor.
+
+![step 28](/images/arduino-block/mini-golf/step_28.jpg)
+
+29) Connect a wire from (35, D) to f to f jumper wire to the out pin of the sensor.
+
+![step 29](/images/arduino-block/mini-golf/step_29.jpg)
+
+30) Connect a jumper wire from (36, B) to pin 7 of the Arduino.
+
+![step 30](/images/arduino-block/mini-golf/step_30.jpg)
+
+31) Upload the [test ir motion sensor code](/downloads/workshops/mini-golf/test-ir-motion-sensor.xml) to the Arduino.  This will make pin 13 light up when it senses something.
+
+![upload code](/images/upload-1.png)
+
+![step 31](/images/arduino-block/mini-golf/step_31.gif)
+
+
+
+
+
 
