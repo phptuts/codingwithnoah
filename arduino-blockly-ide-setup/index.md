@@ -7,7 +7,7 @@ modified: 2018-09-20
 
 ### Windows
 
-1) Download the [Arduino Blockly IDE](https://github.com/phptuts/ArduinoBlocklyIDE/releases/download/v1.0.26/Arduino.Blockly.IDE.Setup.1.0.26.exe).
+1) Download the [Arduino Blockly IDE](https://github.com/phptuts/ArduinoBlocklyIDE/releases/download/v1.0.26/Arduino.Blockly.IDE.Setup.1.0.28.exe).
 
 2) Install the program, you will hit a windows protector smart screen.  Click the more information button.
 
