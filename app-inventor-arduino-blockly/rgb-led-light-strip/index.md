@@ -59,9 +59,9 @@ Take the led light strip out of the bag. Notice the arrow and direction it is po
 
 ## Lessons
 
-1) [Parsing an messages with the Arduino](/app-inventor-arduino-blockly/lesson-1-parsing-messages)
+1) [Parsing an messages with the Arduino](/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-1-parsing-messages)
 
-2) [Bluetooth messages with the Arduino]()
+2) [Bluetooth messages with the Arduino](/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-2-bt-android-test)
 
 3) [Android App]()
 
