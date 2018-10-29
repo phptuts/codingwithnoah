@@ -63,6 +63,6 @@ Take the led light strip out of the bag. Notice the arrow and direction it is po
 
 2) [Bluetooth messages with the Arduino](/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-2-bt-android-test)
 
-3) [Android App]()
+3) [Android App](/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-3-app-inventor)
 
 
