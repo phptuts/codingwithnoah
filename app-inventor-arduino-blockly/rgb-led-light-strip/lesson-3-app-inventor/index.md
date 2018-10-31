@@ -29,20 +29,27 @@ To build an Android App that will work send commands to bluetooth that an Arduin
  
 ## Split Color Block
 
-TODO
+![split color block](/images/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-3-app-inventor/split_color_block.png)
+
+This block is used to take an rgb color and turn it into an array.
 
 ## Select item in list block
 
-TODO
+![select item in list](/images/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-3-app-inventor/get_item_in_list.png)
+
+This will take a list of things and select one them in the list.  The thing that it selects in the list is determined by the index number.
 
 ## Join Text Block
 
-TODO
+![text join block](/images/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-3-app-inventor/text_join_block.png)
+
+This is used to joins text strings together into one string.
 
 ## Create procedure with return value block / custom block
 
-TODO
+This is used to create other custom blocks.  You do this by combining blocks that together in your program.  These custom blocks you create can return things or not.  They are often used to reduce code duplication.
 
+![create procedure block](/images/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-3-app-inventor/create_block_with_return.png)
 
 ## Instructions
 
