@@ -29,19 +29,19 @@ To build an Android App that will work send commands to bluetooth that an Arduin
  
 ## Split Color Block
 
-![split color block](/images/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-3-app-inventor/split_color_block.png)
+![split color block](/images/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-3-app-inventor/split_color_block.png#img-phone)
 
 This block is used to take an rgb color and turn it into an array.
 
 ## Select item in list block
 
-![select item in list](/images/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-3-app-inventor/get_item_in_list.png)
+![select item in list](/images/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-3-app-inventor/get_item_in_list.png#img-phone)
 
 This will take a list of things and select one them in the list.  The thing that it selects in the list is determined by the index number.
 
 ## Join Text Block
 
-![text join block](/images/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-3-app-inventor/text_join_block.png)
+![text join block](/images/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-3-app-inventor/text_join_block.png#img-phone)
 
 This is used to joins text strings together into one string.
 
@@ -49,7 +49,7 @@ This is used to joins text strings together into one string.
 
 This is used to create other custom blocks.  You do this by combining blocks that together in your program.  These custom blocks you create can return things or not.  They are often used to reduce code duplication.
 
-![create procedure block](/images/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-3-app-inventor/create_block_with_return.png)
+![create procedure block](/images/app-inventor-arduino-blockly/rgb-led-light-strip/lesson-3-app-inventor/create_block_with_return.png#img-phone)
 
 ## Instructions
 
