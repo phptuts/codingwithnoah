@@ -15,7 +15,8 @@ To build an Android App that will work send commands to bluetooth that an Arduin
 
 ## Completed Project
 
-TODO YOUTUBE VIDEO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bWhSywcjnk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Bill of Materials 
 
