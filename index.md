@@ -32,7 +32,7 @@ You can contact me at glaserpower [at] gmail.com. I usually respond to emails wi
 
 ## Locations
 
-Classes right now are held at the [Oakland library](https://goo.gl/maps/9DUa7Kbgv6w). They are held on Thursday from 5:45 to 7:45 pm. Please check the [Class schedule](class-schedule) for exceptions. We also have classes in other locations as well.  We also have class at the [MADE](http://themade.org), a video game museum in Oakland.
+Classes right now are held at the [Oakland library](https://goo.gl/maps/9DUa7Kbgv6w) and the  [TheMADE](http://themade.org).  Please check our [class schedule](/class-schedule) for more information.
 
 
 
