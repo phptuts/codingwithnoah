@@ -7,7 +7,7 @@ sections:
     - name: 'Introduction'
       steps:
         - type: video
-          src: 'http://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_1280_10MG.mp4'
+          src: 'https://oaklandcodeschool.s3.amazonaws.com/videos/SampleVideo_1280x720_20mb.mp4'
           text: Text Intro Step 1
         - type: image
           src: 'https://fakeimg.pl/700x500/?text=Intro_2'
