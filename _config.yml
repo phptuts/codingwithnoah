@@ -58,3 +58,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+
+defaults:
+  - scope:
+      path: arduino-blocklyv2/*
+    values:
+      sitemap: false
+  - scope:
+      path: example
+    values:
+      sitemap: false

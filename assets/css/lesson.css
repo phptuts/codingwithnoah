@@ -1,6 +1,9 @@
 body {
     font-family: 'Arial';
 }
+p{
+    font-size: 1em;
+}
 
 h1 {
     font-size: 2em;
@@ -153,7 +156,7 @@ textarea {
     nav#lesson-nav > a {
         display: block;
         text-align: center;
-        font-size: 20px;
+        font-size: 14px;
     }
 
     #picture-video > video, #picture-video > img {
