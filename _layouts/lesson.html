@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% include head.html %}
+
+
+    <link href="https://vjs.zencdn.net/7.4.1/video-js.css" rel="stylesheet">
+    <link href="{{ site.url }}/assets/css/main.css" rel="stylesheet" />
+    <link href="{{ site.url }}/assets/css/lesson.css" rel="stylesheet" />
+</head>
+
+
+<body>
+{% include navigation.html %}
+
+<h1>{{ page.title }}</h1>
+
+<main role="main">
+
+    <nav id="lesson-nav">
+        {% for section in page.sections %}
+        <a class="section_nav {% if forloop.first %}completed-nav{% endif %}" onclick="changeSection({{ forloop.index0 }}, 0)">{{ section.name }}</a>
+
+        {% endfor %}
+    </nav>
+    <label id="nav-drop-label" for="nav-drop">Navigation</label>
+    <select onchange="onDropDownNavChange()" id="nav-drop">
+        {% for section in page.sections %}
+            <option value="{{ forloop.index0 }}">{{ section.name }}</option>
+        {% endfor %}
+    </select>
+    <section id="content">
+
+        <div id="progress-bar">
+        </div>
+        <section id="picture-video">
+            <img id="main-image"/>
+            <video class='video-js' data-setup='{}' id="main-video" controls preload="metadata">
+                <source type="video/mp4"/>
+                Video not supported.
+            </video>
+            <textarea id="notes">Put your notes and questions in here. :)</textarea>
+        </section>
+        <section>
+            <p id="step-text"></p>
+        </section>
+        <section id="controls">
+            <span id="previous-step" onclick="previousStep()" class="has-none page round">&#8249;</span>
+            <span onclick="nextStep()" id="next-step" class="has-more page round">&#8250;</span>
+        </section>
+    </section>
+</main>
+
+<script>
+
+    window.lesson = {
+        "sections": [
+        {% for section in page.sections %}
+            {
+                "name": "{{ section.name }}",
+                "steps": [
+                {% for step in section.steps %}
+                {
+                        "type": "{{ step.type }}",
+                        "src": "{{ step.src }}",
+                        "text": "{{ step.text }}"
+                },
+                {% endfor %}
+                ]
+            },
+        {% endfor %}
+        ]
+    };
+
+
+</script>
+
+<script src="{{ site.url }}/assets/js/lesson.js"></script>
+
+{% include scripts.html %}
+
+</body>
+</html>
